@@ -1095,7 +1095,7 @@
   "fig_0057": "back"
  },
  "_maskReview": "maskReject: ids whose cut-out was ragged, kept its background, merged several subjects, or was too faint, seen on assets/review/cutouts-*.jpg over mid-gray. poseFix: corrections after seeing the cut-out larger.",
- "_flags": "flags: 'group' = several people in one cut-out (a stamp can only cover one head, so stamp-heads skips them); 'silhouette' = solid black profile that prints as an ink blob at stamp size.",
+ "_flags": "flags: 'group' = several people in one cut-out (a stamp can only cover one head, so stamp-heads skips them); 'silhouette' = solid black profile that prints as an ink blob at stamp size. 'mounted' = a small print on a large blank sheet: fine cropped into a stamp, reads as an empty page when used whole.",
  "flags": {
   "met_398882": [
    "group"
@@ -1168,6 +1168,30 @@
   ],
   "met_825924": [
    "silhouette"
+  ],
+  "met_823861": [
+   "mounted"
+  ],
+  "met_394539": [
+   "mounted"
+  ],
+  "met_394542": [
+   "mounted"
+  ],
+  "met_398745": [
+   "mounted"
+  ],
+  "met_626356": [
+   "mounted"
+  ],
+  "met_361537": [
+   "mounted"
+  ],
+  "aic_39958": [
+   "mounted"
+  ],
+  "met_424116": [
+   "mounted"
   ]
  }
 }

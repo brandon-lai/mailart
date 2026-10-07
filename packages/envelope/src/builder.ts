@@ -94,12 +94,13 @@ export class Builder {
     if (layer.assetId) this.used.delete(layer.assetId);
   }
 
-  assets(kinds: AssetKind[], opts: { pose?: Pose[]; cutout?: boolean; headBox?: boolean; solo?: boolean; stampable?: boolean } = {}): Asset[] {
+  assets(kinds: AssetKind[], opts: { pose?: Pose[]; cutout?: boolean; headBox?: boolean; solo?: boolean; stampable?: boolean; whole?: boolean } = {}): Asset[] {
     return this.library.filter(
       (a) =>
         kinds.includes(a.kind) &&
         (!opts.solo || !a.group) &&
         (!opts.stampable || !a.silhouette) &&
+        (!opts.whole || !a.mounted) &&
         !this.used.has(a.id) &&
         (opts.pose === undefined || (a.pose !== undefined && opts.pose.includes(a.pose))) &&
         (opts.cutout === undefined || a.cutout === opts.cutout) &&

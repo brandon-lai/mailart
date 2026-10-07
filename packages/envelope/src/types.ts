@@ -79,6 +79,8 @@ export type Asset = {
   group?: boolean;
   /** solid black profile: prints as a blob at stamp size */
   silhouette?: boolean;
+  /** small print on a large blank sheet: only ever used cropped (as a stamp) */
+  mounted?: boolean;
 };
 
 export type Library = Asset[];

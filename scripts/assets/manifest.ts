@@ -38,6 +38,7 @@ for (const e of processed) {
     ...(e.headBox ? { headBox: e.headBox } : {}),
     ...(flags[e.sourceId]?.includes("group") ? { group: true } : {}),
     ...(flags[e.sourceId]?.includes("silhouette") ? { silhouette: true } : {}),
+    ...(flags[e.sourceId]?.includes("mounted") ? { mounted: true } : {}),
     source: { api: s.api, objectId: s.objectId, title: s.title, artist: s.artist, date: s.date, url: s.url, license: s.license },
   });
 }
@@ -82,6 +83,7 @@ const compact = manifest.map((a) => ({
   ...(a.headBox ? { headBox: a.headBox } : {}),
   ...(a.group ? { group: true } : {}),
   ...(a.silhouette ? { silhouette: true } : {}),
+  ...(a.mounted ? { mounted: true } : {}),
 }));
 writeFileSync(path.join(ROOT, "packages/envelope/src/data/library.json"), JSON.stringify(compact));
 

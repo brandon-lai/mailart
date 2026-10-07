@@ -227,7 +227,7 @@ const denseCollage: Recipe = {
     const avoid = () => b.occupied().map((x) => grow(x, 6));
 
     // Hero: a big animal cut-out or a torn portrait print, left of centre.
-    const hero = rng.chance(0.5) ? b.take(["animal"], { cutout: true }) ?? b.take(["bust"]) : b.take(["bust"]) ?? b.take(["animal"]);
+    const hero = rng.chance(0.5) ? b.take(["animal"], { cutout: true }) ?? b.take(["bust"], { whole: true }) : b.take(["bust"], { whole: true }) ?? b.take(["animal"]);
     let heroBox: Box | undefined;
     if (hero) {
       const hh = H * rng.range(0.62, 0.82);
@@ -302,7 +302,7 @@ const specimen: Recipe = {
   eligible: (lib) => count(lib, (a) => (a.kind === "insect" || a.kind === "botanical") && a.cutout) >= 4,
   build(b) {
     const { W, H, rng } = b;
-    const centre = b.take(["bust"]) ?? b.take(["animal"], { cutout: true }) ?? b.take(["animal"]);
+    const centre = b.take(["bust"], { whole: true }) ?? b.take(["animal"], { cutout: true }) ?? b.take(["animal"]);
     // The collection occupies the left ~62% of the envelope.
     const area: Box = { x: 34, y: 26, w: W * 0.6, h: H - 52 };
     let cBox: Box | undefined;

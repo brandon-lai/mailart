@@ -773,6 +773,7 @@
    "w": 148,
    "h": 182
   },
+  "mounted": true,
   "source": {
    "api": "aic",
    "objectId": "39958",
@@ -2306,6 +2307,7 @@
    "w": 180,
    "h": 189
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "361537",
@@ -3199,6 +3201,7 @@
    "w": 100,
    "h": 157
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "394539",
@@ -3224,6 +3227,7 @@
    "w": 139,
    "h": 201
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "394542",
@@ -3710,6 +3714,7 @@
    "w": 146,
    "h": 154
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "398745",
@@ -4406,6 +4411,7 @@
    "w": 229,
    "h": 241
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "626356",
@@ -5344,6 +5350,7 @@
    "w": 86,
    "h": 117
   },
+  "mounted": true,
   "source": {
    "api": "met",
    "objectId": "823861",
