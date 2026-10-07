@@ -1,0 +1,1173 @@
+{
+ "_doc": "Decisions from viewing assets/review/raw-*.jpg. Anything not listed is rejected. Format: id: [category, pose?, flags?]. Category may differ from the search that found it (a monument found by 'carte de visite' is a vignette). Flag 'split' = a plate of several insects, cut into one asset per insect. Rejected on sight: nudes, album pages, sheets of several prints, busy group scenes, faint sketches, religious manuscripts, duplicates.",
+ "accept": {
+  "aic_102777": [
+   "figure",
+   "front"
+  ],
+  "aic_220683": [
+   "figure",
+   "back"
+  ],
+  "aic_238249": [
+   "figure",
+   "front"
+  ],
+  "aic_23888": [
+   "figure",
+   "front"
+  ],
+  "aic_30095": [
+   "bust"
+  ],
+  "aic_31707": [
+   "bust"
+  ],
+  "aic_33476": [
+   "vignette"
+  ],
+  "aic_33492": [
+   "vignette"
+  ],
+  "aic_33500": [
+   "vignette"
+  ],
+  "aic_33502": [
+   "vignette"
+  ],
+  "aic_33504": [
+   "vignette"
+  ],
+  "aic_33523": [
+   "vignette"
+  ],
+  "aic_4749": [
+   "figure",
+   "front"
+  ],
+  "aic_80499": [
+   "figure",
+   "front"
+  ],
+  "aic_81111": [
+   "figure",
+   "back"
+  ],
+  "aic_97907": [
+   "figure",
+   "side"
+  ],
+  "met_268709": [
+   "bust"
+  ],
+  "met_282021": [
+   "figure",
+   "back"
+  ],
+  "aic_16487": [
+   "vignette"
+  ],
+  "aic_1905": [
+   "ephemera"
+  ],
+  "aic_22194": [
+   "bust"
+  ],
+  "met_283172": [
+   "figure",
+   "front"
+  ],
+  "met_283185": [
+   "figure",
+   "front"
+  ],
+  "met_283201": [
+   "figure",
+   "front"
+  ],
+  "met_283242": [
+   "figure",
+   "side"
+  ],
+  "met_285802": [
+   "bust"
+  ],
+  "met_301985": [
+   "figure",
+   "front"
+  ],
+  "met_302361": [
+   "figure",
+   "front"
+  ],
+  "met_337653": [
+   "figure",
+   "back"
+  ],
+  "met_339824": [
+   "figure",
+   "back"
+  ],
+  "met_340318": [
+   "figure",
+   "front"
+  ],
+  "met_346232": [
+   "ephemera"
+  ],
+  "met_346958": [
+   "figure",
+   "back"
+  ],
+  "met_348313": [
+   "vignette"
+  ],
+  "met_382948": [
+   "vignette"
+  ],
+  "met_387235": [
+   "figure",
+   "back"
+  ],
+  "met_387238": [
+   "figure",
+   "back"
+  ],
+  "met_397284": [
+   "figure",
+   "front"
+  ],
+  "met_398882": [
+   "figure",
+   "front"
+  ],
+  "met_398884": [
+   "figure",
+   "front"
+  ],
+  "met_399213": [
+   "figure",
+   "front"
+  ],
+  "met_399219": [
+   "figure",
+   "front"
+  ],
+  "met_423196": [
+   "vignette"
+  ],
+  "met_647774": [
+   "figure",
+   "front"
+  ],
+  "met_654212": [
+   "vignette"
+  ],
+  "met_738482": [
+   "figure",
+   "front"
+  ],
+  "met_764795": [
+   "figure",
+   "front"
+  ],
+  "met_764796": [
+   "figure",
+   "front"
+  ],
+  "met_764797": [
+   "figure",
+   "front"
+  ],
+  "met_764798": [
+   "figure",
+   "front"
+  ],
+  "met_764799": [
+   "figure",
+   "front"
+  ],
+  "met_764800": [
+   "figure",
+   "front"
+  ],
+  "met_764811": [
+   "figure",
+   "front"
+  ],
+  "met_764821": [
+   "figure",
+   "front"
+  ],
+  "met_764822": [
+   "vignette"
+  ],
+  "met_764823": [
+   "vignette"
+  ],
+  "met_764826": [
+   "figure",
+   "side"
+  ],
+  "met_764835": [
+   "figure",
+   "front"
+  ],
+  "met_825924": [
+   "figure",
+   "side"
+  ],
+  "met_826287": [
+   "bust"
+  ],
+  "met_837922": [
+   "figure",
+   "front"
+  ],
+  "met_837923": [
+   "figure",
+   "back"
+  ],
+  "met_837924": [
+   "figure",
+   "front"
+  ],
+  "met_837925": [
+   "figure",
+   "side"
+  ],
+  "met_837926": [
+   "figure",
+   "back"
+  ],
+  "met_837927": [
+   "figure",
+   "front"
+  ],
+  "met_837928": [
+   "figure",
+   "front"
+  ],
+  "met_837929": [
+   "figure",
+   "front"
+  ],
+  "met_875848": [
+   "figure",
+   "front"
+  ],
+  "met_875850": [
+   "figure",
+   "front"
+  ],
+  "met_905918": [
+   "figure",
+   "front"
+  ],
+  "met_917754": [
+   "figure",
+   "front"
+  ],
+  "met_917755": [
+   "figure",
+   "front"
+  ],
+  "met_917756": [
+   "figure",
+   "front"
+  ],
+  "met_917763": [
+   "figure",
+   "front"
+  ],
+  "met_917765": [
+   "figure",
+   "front"
+  ],
+  "met_917791": [
+   "figure",
+   "front"
+  ],
+  "met_917802": [
+   "figure",
+   "front"
+  ],
+  "met_917841": [
+   "figure",
+   "front"
+  ],
+  "met_917851": [
+   "figure",
+   "front"
+  ],
+  "met_917868": [
+   "figure",
+   "front"
+  ],
+  "met_917870": [
+   "figure",
+   "front"
+  ],
+  "met_917876": [
+   "figure",
+   "front"
+  ],
+  "met_917880": [
+   "figure",
+   "front"
+  ],
+  "met_917933": [
+   "bust"
+  ],
+  "met_917942": [
+   "figure",
+   "front"
+  ],
+  "met_919442": [
+   "figure",
+   "front"
+  ],
+  "aic_100": [
+   "bust"
+  ],
+  "aic_11": [
+   "bust"
+  ],
+  "aic_110": [
+   "bust"
+  ],
+  "aic_111": [
+   "bust"
+  ],
+  "aic_145": [
+   "bust"
+  ],
+  "aic_192264": [
+   "bust"
+  ],
+  "aic_24": [
+   "bust"
+  ],
+  "aic_29230": [
+   "bust"
+  ],
+  "aic_39958": [
+   "bust"
+  ],
+  "aic_46": [
+   "bust"
+  ],
+  "aic_56": [
+   "bust"
+  ],
+  "aic_58": [
+   "bust"
+  ],
+  "aic_60": [
+   "bust"
+  ],
+  "aic_80607": [
+   "bust"
+  ],
+  "aic_81": [
+   "figure",
+   "front"
+  ],
+  "aic_862": [
+   "bust"
+  ],
+  "met_334125": [
+   "bust"
+  ],
+  "met_337552": [
+   "bust"
+  ],
+  "met_338405": [
+   "bust"
+  ],
+  "met_342704": [
+   "bust"
+  ],
+  "met_345852": [
+   "bust"
+  ],
+  "met_352282": [
+   "bust"
+  ],
+  "met_358782": [
+   "bust"
+  ],
+  "met_361537": [
+   "bust"
+  ],
+  "met_361635": [
+   "bust"
+  ],
+  "met_362164": [
+   "bust"
+  ],
+  "met_363934": [
+   "figure",
+   "side"
+  ],
+  "met_366763": [
+   "bust"
+  ],
+  "met_369551": [
+   "bust"
+  ],
+  "met_374022": [
+   "bust"
+  ],
+  "met_374047": [
+   "bust"
+  ],
+  "met_385241": [
+   "bust"
+  ],
+  "met_387526": [
+   "bust"
+  ],
+  "met_392854": [
+   "bust"
+  ],
+  "met_394539": [
+   "bust"
+  ],
+  "met_394542": [
+   "bust"
+  ],
+  "met_398745": [
+   "bust"
+  ],
+  "met_408991": [
+   "bust"
+  ],
+  "met_424193": [
+   "bust"
+  ],
+  "met_427474": [
+   "bust"
+  ],
+  "met_430046": [
+   "bust"
+  ],
+  "met_430048": [
+   "bust"
+  ],
+  "met_430050": [
+   "bust"
+  ],
+  "met_430051": [
+   "bust"
+  ],
+  "met_626356": [
+   "bust"
+  ],
+  "met_639781": [
+   "bust"
+  ],
+  "met_654265": [
+   "bust"
+  ],
+  "met_697205": [
+   "bust"
+  ],
+  "met_701398": [
+   "bust"
+  ],
+  "met_822740": [
+   "bust"
+  ],
+  "met_823861": [
+   "bust"
+  ],
+  "met_824759": [
+   "bust"
+  ],
+  "met_888676": [
+   "bust"
+  ],
+  "met_888698": [
+   "bust"
+  ],
+  "met_910733": [
+   "bust"
+  ],
+  "met_910748": [
+   "bust"
+  ],
+  "aic_189715": [
+   "animal"
+  ],
+  "aic_1908": [
+   "ephemera"
+  ],
+  "aic_1890": [
+   "ephemera"
+  ],
+  "aic_3997": [
+   "animal"
+  ],
+  "aic_4016": [
+   "ephemera"
+  ],
+  "aic_6652": [
+   "ephemera"
+  ],
+  "aic_6655": [
+   "ephemera"
+  ],
+  "aic_6658": [
+   "ephemera"
+  ],
+  "aic_71160": [
+   "animal"
+  ],
+  "aic_9415": [
+   "ephemera"
+  ],
+  "met_339754": [
+   "animal"
+  ],
+  "met_360154": [
+   "animal"
+  ],
+  "met_386067": [
+   "vignette"
+  ],
+  "met_395455": [
+   "animal"
+  ],
+  "met_395457": [
+   "animal"
+  ],
+  "met_395458": [
+   "animal"
+  ],
+  "met_395459": [
+   "animal"
+  ],
+  "met_395460": [
+   "animal"
+  ],
+  "met_395462": [
+   "animal"
+  ],
+  "met_395463": [
+   "animal"
+  ],
+  "met_395464": [
+   "animal"
+  ],
+  "met_395468": [
+   "animal"
+  ],
+  "met_395472": [
+   "animal"
+  ],
+  "met_395474": [
+   "animal"
+  ],
+  "met_395475": [
+   "animal"
+  ],
+  "met_395476": [
+   "animal"
+  ],
+  "met_395510": [
+   "figure",
+   "side"
+  ],
+  "met_395579": [
+   "figure",
+   "front"
+  ],
+  "met_414165": [
+   "animal"
+  ],
+  "met_905160": [
+   "animal"
+  ],
+  "met_905166": [
+   "animal"
+  ],
+  "met_905177": [
+   "animal"
+  ],
+  "aic_110982": [
+   "botanical"
+  ],
+  "aic_143682": [
+   "ephemera"
+  ],
+  "aic_102142": [
+   "ephemera"
+  ],
+  "aic_39146": [
+   "ephemera"
+  ],
+  "aic_39157": [
+   "ephemera"
+  ],
+  "aic_54125": [
+   "ephemera"
+  ],
+  "aic_18642": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_337769": [
+   "botanical"
+  ],
+  "met_360158": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_361543": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_361545": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_361550": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_384116": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_385463": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_385472": [
+   "insect"
+  ],
+  "met_386438": [
+   "botanical"
+  ],
+  "met_395105": [
+   "botanical"
+  ],
+  "met_399922": [
+   "botanical"
+  ],
+  "met_400112": [
+   "insect"
+  ],
+  "met_400113": [
+   "insect"
+  ],
+  "met_400115": [
+   "insect"
+  ],
+  "met_400116": [
+   "insect"
+  ],
+  "met_412718": [
+   "insect"
+  ],
+  "met_697702": [
+   "botanical"
+  ],
+  "met_337252": [
+   "figure",
+   "front"
+  ],
+  "met_339007": [
+   "figure",
+   "front"
+  ],
+  "met_697703": [
+   "botanical"
+  ],
+  "met_727031": [
+   "insect"
+  ],
+  "met_813875": [
+   "ephemera"
+  ],
+  "met_830252": [
+   "botanical"
+  ],
+  "met_830271": [
+   "animal"
+  ],
+  "met_830272": [
+   "animal"
+  ],
+  "met_830273": [
+   "animal"
+  ],
+  "met_849844": [
+   "insect"
+  ],
+  "met_849847": [
+   "insect"
+  ],
+  "met_849848": [
+   "insect"
+  ],
+  "met_849849": [
+   "insect"
+  ],
+  "met_908466": [
+   "botanical"
+  ],
+  "aic_133358": [
+   "vignette"
+  ],
+  "aic_33496": [
+   "vignette"
+  ],
+  "aic_45453": [
+   "vignette"
+  ],
+  "aic_66144": [
+   "vignette"
+  ],
+  "met_336259": [
+   "vignette"
+  ],
+  "met_337065": [
+   "vignette"
+  ],
+  "met_338712": [
+   "vignette"
+  ],
+  "met_359511": [
+   "vignette"
+  ],
+  "met_360049": [
+   "vignette"
+  ],
+  "met_361527": [
+   "vignette"
+  ],
+  "met_363902": [
+   "vignette"
+  ],
+  "met_377216": [
+   "vignette"
+  ],
+  "met_380735": [
+   "vignette"
+  ],
+  "met_381008": [
+   "vignette"
+  ],
+  "met_382957": [
+   "vignette"
+  ],
+  "met_390322": [
+   "vignette"
+  ],
+  "met_397355": [
+   "vignette"
+  ],
+  "met_397650": [
+   "vignette"
+  ],
+  "met_397653": [
+   "vignette"
+  ],
+  "met_415942": [
+   "vignette"
+  ],
+  "met_425820": [
+   "ephemera"
+  ],
+  "met_425838": [
+   "ephemera"
+  ],
+  "met_626142": [
+   "vignette"
+  ],
+  "met_643326": [
+   "vignette"
+  ],
+  "met_704471": [
+   "vignette"
+  ],
+  "met_712628": [
+   "vignette"
+  ],
+  "met_732736": [
+   "vignette"
+  ],
+  "met_764915": [
+   "vignette"
+  ],
+  "met_765755": [
+   "vignette"
+  ],
+  "met_766524": [
+   "vignette"
+  ],
+  "met_769236": [
+   "vignette"
+  ],
+  "met_769239": [
+   "vignette"
+  ],
+  "met_811642": [
+   "vignette"
+  ],
+  "met_811656": [
+   "vignette"
+  ],
+  "met_813290": [
+   "vignette"
+  ],
+  "met_893085": [
+   "vignette"
+  ],
+  "aic_15132": [
+   "ephemera"
+  ],
+  "aic_196347": [
+   "ephemera"
+  ],
+  "aic_77855": [
+   "ephemera"
+  ],
+  "met_289191": [
+   "ephemera"
+  ],
+  "met_289201": [
+   "ephemera"
+  ],
+  "met_289207": [
+   "ephemera"
+  ],
+  "met_289218": [
+   "ephemera"
+  ],
+  "met_335422": [
+   "ephemera"
+  ],
+  "met_335773": [
+   "ephemera"
+  ],
+  "met_345220": [
+   "ephemera"
+  ],
+  "met_358366": [
+   "ephemera"
+  ],
+  "met_380748": [
+   "ephemera"
+  ],
+  "met_380952": [
+   "ephemera"
+  ],
+  "met_403169": [
+   "ephemera"
+  ],
+  "met_587676": [
+   "ephemera"
+  ],
+  "met_815781": [
+   "ephemera"
+  ],
+  "met_816423": [
+   "ephemera"
+  ],
+  "met_819467": [
+   "ephemera"
+  ],
+  "met_819582": [
+   "ephemera"
+  ],
+  "met_819595": [
+   "ephemera"
+  ],
+  "met_819655": [
+   "ephemera"
+  ],
+  "met_902521": [
+   "ephemera"
+  ],
+  "met_334638": [
+   "animal"
+  ],
+  "met_337907": [
+   "animal"
+  ],
+  "met_339811": [
+   "animal"
+  ],
+  "met_339812": [
+   "animal"
+  ],
+  "met_357184": [
+   "animal"
+  ],
+  "met_359244": [
+   "animal"
+  ],
+  "met_384514": [
+   "animal"
+  ],
+  "met_395466": [
+   "animal"
+  ],
+  "met_897310": [
+   "animal"
+  ],
+  "met_918293": [
+   "animal"
+  ],
+  "met_918304": [
+   "animal"
+  ],
+  "met_918305": [
+   "animal"
+  ],
+  "met_918306": [
+   "animal"
+  ],
+  "met_918307": [
+   "animal"
+  ],
+  "met_918308": [
+   "animal"
+  ],
+  "met_918309": [
+   "animal"
+  ],
+  "met_918310": [
+   "animal"
+  ],
+  "met_918311": [
+   "animal"
+  ],
+  "met_398059": [
+   "figure",
+   "side"
+  ],
+  "met_337071": [
+   "ephemera"
+  ],
+  "met_385749": [
+   "botanical"
+  ],
+  "met_344030": [
+   "vignette"
+  ],
+  "met_380480": [
+   "vignette"
+  ],
+  "met_416136": [
+   "vignette"
+  ],
+  "met_421903": [
+   "vignette"
+  ],
+  "met_381046": [
+   "vignette"
+  ],
+  "met_350230": [
+   "figure",
+   "front"
+  ],
+  "met_399211": [
+   "figure",
+   "front"
+  ],
+  "met_399212": [
+   "figure",
+   "front"
+  ],
+  "met_399217": [
+   "figure",
+   "front"
+  ],
+  "met_685459": [
+   "bust"
+  ],
+  "met_898460": [
+   "figure",
+   "front"
+  ],
+  "met_397259": [
+   "figure",
+   "front"
+  ],
+  "met_397261": [
+   "figure",
+   "front"
+  ],
+  "met_399866": [
+   "figure",
+   "front"
+  ],
+  "met_397291": [
+   "figure",
+   "front"
+  ],
+  "met_334930": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_361542": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_361552": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_364117": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_366820": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_400114": [
+   "insect"
+  ],
+  "met_414271": [
+   "insect",
+   null,
+   "split"
+  ],
+  "met_770198": [
+   "insect"
+  ]
+ },
+ "maskReject": [
+  "bot_0001",
+  "fig_0008",
+  "fig_0018",
+  "fig_0021",
+  "ani_0004",
+  "ani_0005",
+  "ani_0007",
+  "ani_0008",
+  "ins_0005",
+  "ins_0009",
+  "bot_0004",
+  "bot_0005",
+  "ani_0026",
+  "fig_0031",
+  "ani_0027",
+  "bot_0008",
+  "fig_0044",
+  "fig_0047",
+  "fig_0049",
+  "fig_0050",
+  "fig_0058",
+  "fig_0062",
+  "fig_0063",
+  "fig_0065",
+  "fig_0066",
+  "fig_0070",
+  "fig_0071",
+  "ani_0039",
+  "bust_0032",
+  "fig_0073",
+  "ins_0027",
+  "fig_0076",
+  "ins_0038",
+  "fig_0081"
+ ],
+ "poseFix": {
+  "fig_0051": "side",
+  "fig_0057": "back"
+ },
+ "_maskReview": "maskReject: ids whose cut-out was ragged, kept its background, merged several subjects, or was too faint, seen on assets/review/cutouts-*.jpg over mid-gray. poseFix: corrections after seeing the cut-out larger.",
+ "_flags": "flags: 'group' = several people in one cut-out (a stamp can only cover one head, so stamp-heads skips them); 'silhouette' = solid black profile that prints as an ink blob at stamp size.",
+ "flags": {
+  "met_398882": [
+   "group"
+  ],
+  "met_398884": [
+   "group"
+  ],
+  "met_399213": [
+   "group"
+  ],
+  "met_399219": [
+   "group"
+  ],
+  "met_399211": [
+   "group"
+  ],
+  "met_399212": [
+   "group"
+  ],
+  "met_399217": [
+   "group"
+  ],
+  "met_738482": [
+   "group"
+  ],
+  "met_919442": [
+   "group"
+  ],
+  "met_397291": [
+   "group"
+  ],
+  "aic_80499": [
+   "group"
+  ],
+  "met_764800": [
+   "group"
+  ],
+  "met_837925": [
+   "group"
+  ],
+  "met_837922": [
+   "group"
+  ],
+  "met_395579": [
+   "group"
+  ],
+  "met_764826": [
+   "group"
+  ],
+  "aic_97907": [
+   "group"
+  ],
+  "met_363934": [
+   "group"
+  ],
+  "met_430046": [
+   "silhouette"
+  ],
+  "met_430048": [
+   "silhouette"
+  ],
+  "met_430050": [
+   "silhouette"
+  ],
+  "met_430051": [
+   "silhouette"
+  ],
+  "met_826287": [
+   "silhouette"
+  ],
+  "met_825924": [
+   "silhouette"
+  ]
+ }
+}

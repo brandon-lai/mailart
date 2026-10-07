@@ -1,0 +1,96 @@
+/* Envelope faces. Self-hosted, OFL / Apache 2.0 (licences beside each file). */
+@font-face { font-family: "MA Homemade Apple"; src: url("/fonts/homemade-apple/homemade-apple.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA Nothing You Could Do"; src: url("/fonts/nothing-you-could-do/nothing-you-could-do.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA La Belle Aurore"; src: url("/fonts/la-belle-aurore/la-belle-aurore.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA Reenie Beanie"; src: url("/fonts/reenie-beanie/reenie-beanie.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA Special Elite"; src: url("/fonts/special-elite/special-elite.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA IM Fell SC"; src: url("/fonts/im-fell-sc/im-fell-sc.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA IM Fell"; src: url("/fonts/im-fell/im-fell.ttf") format("truetype"); font-display: block; }
+@font-face { font-family: "MA IM Fell"; font-style: italic; src: url("/fonts/im-fell-italic/im-fell-italic.ttf") format("truetype"); font-display: block; }
+
+:root {
+  --paper: #efe8dc;
+  --paper-2: #e6ddcc;
+  --card: #f8f4ec;
+  --ink: #2a2420;
+  --ink-2: #5f554b;
+  --muted: #8a7e70;
+  --rule: #d6cbb8;
+  --accent: #8c2f2b;
+  --accent-ink: #fbf6ee;
+  --blue: #26428f;
+  --serif: "MA IM Fell", Georgia, "Times New Roman", serif;
+  --body: Georgia, "Times New Roman", serif;
+  --type: "MA Special Elite", "Courier New", monospace;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 17px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); }
+button { font: inherit; }
+
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.1; margin: 0; }
+.kicker { font-family: var(--type); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  border: 1px solid var(--ink); background: var(--ink); color: var(--accent-ink);
+  padding: 11px 20px; border-radius: 3px; cursor: pointer; text-decoration: none;
+  font-family: var(--type); font-size: 14px; letter-spacing: 0.06em; text-transform: uppercase;
+}
+.btn:hover { background: #000; }
+.btn:disabled { opacity: 0.45; cursor: default; }
+.btn.ghost { background: transparent; color: var(--ink); }
+.btn.ghost:hover { background: rgba(0, 0, 0, 0.05); }
+.btn.accent { background: var(--accent); border-color: var(--accent); }
+
+.field { display: grid; gap: 6px; }
+.field label { font-family: var(--type); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-2); }
+.field .hint { font-size: 13px; color: var(--muted); }
+.input, .textarea {
+  width: 100%; border: 1px solid var(--rule); background: #fffdf8; color: var(--ink);
+  padding: 10px 12px; border-radius: 3px; font: inherit; font-size: 16px;
+}
+.input:focus, .textarea:focus { outline: 2px solid var(--blue); outline-offset: 1px; }
+.textarea { min-height: 280px; resize: vertical; line-height: 1.7; font-family: var(--body);
+  background-image: linear-gradient(transparent calc(1.7em - 1px), #e9e1d2 1px); background-size: 100% 1.7em; background-attachment: local; }
+
+.notice { border: 1px solid var(--rule); background: var(--card); padding: 12px 14px; border-radius: 3px; font-size: 15px; }
+.notice.warn { border-color: #d9b48a; background: #fbf1e2; }
+.notice.err { border-color: #d9a29a; background: #fbecea; color: #6f221d; }
+
+/* ---------- Envelope stage (shared by previews, the letter page and /render) ---------- */
+.ma-svg svg { display: block; width: 100%; height: auto; }
+.ma-env-static { position: relative; width: 100%; }
+.ma-env-static .ma-front { filter: drop-shadow(0 6px 10px rgba(40, 25, 10, 0.18)); }
+
+.ma-stage { position: relative; overflow: hidden; background: #efe8dc; }
+.ma-stage-outer { position: relative; width: 100%; overflow: hidden; }
+.ma-envelope { position: absolute; transform-origin: 50% 60%; }
+.ma-shadow { position: absolute; inset: 0; background: #3a2610; border-radius: 6px; filter: blur(16px); opacity: 0.5; }
+.ma-flap { position: absolute; left: 0; top: 0; width: 100%; transform-origin: 50% 0; z-index: 1; }
+.ma-flap svg { width: 100%; height: 100%; }
+.ma-letter {
+  position: absolute; left: 5%; width: 90%; z-index: 2;
+  background: #fbf8f1; border: 1px solid #e3dccd; border-radius: 2px;
+  box-shadow: 0 -2px 6px rgba(40, 25, 10, 0.12);
+  background-image: radial-gradient(ellipse at 30% 20%, rgba(255, 255, 255, 0.7), transparent 60%);
+}
+.ma-letter-line { position: absolute; left: 7%; right: 7%; top: 13%; font-family: "MA Special Elite", monospace; font-size: 30px; color: #2b2622; white-space: nowrap; overflow: hidden; }
+.ma-letter-rule { position: absolute; left: 7%; right: 7%; height: 14px; background: repeating-linear-gradient(90deg, #cfc6b6 0 9px, transparent 9px 13px); opacity: 0.55; border-radius: 2px; }
+.ma-letter-fold { position: absolute; left: 0; right: 0; top: 66%; height: 2px; background: linear-gradient(#e6dece, #fffdf8); }
+.ma-front { position: absolute; inset: 0; z-index: 3; }
+.ma-env-static .ma-front { position: relative; inset: auto; }
+
+.gallery-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 28px 24px; align-items: start; }
+.gallery-item { margin: 0; }

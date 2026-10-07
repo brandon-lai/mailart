@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+.venv
+__pycache__
+assets/raw/
+assets/library/masters/
+storage/
+*.tsbuildinfo
+.vercel
+next-env.d.ts
+.DS_Store

@@ -1,0 +1,6414 @@
+[
+ {
+  "id": "bust_0001",
+  "kind": "bust",
+  "file": "busts/bust_0001.jpg",
+  "web": "busts/bust_0001.webp",
+  "w": 665,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 230,
+   "y": 71,
+   "w": 224,
+   "h": 272
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "100",
+   "title": "Simon Vouet",
+   "artist": "Robert van Voerst (Flemish, 1597-1636/37)",
+   "date": "1630/36",
+   "url": "https://www.artic.edu/artworks/100",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0001",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0001.jpg",
+  "web": "ephemeras/eph_0001.webp",
+  "w": 544,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "102142",
+   "title": "Tulip and Rose",
+   "artist": "Designed by William Morris (English, 1834–1896)",
+   "date": "Design 1876",
+   "url": "https://www.artic.edu/artworks/102142",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0001",
+  "kind": "figure",
+  "file": "figures/fig_0001.png",
+  "web": "figures/fig_0001.webp",
+  "w": 643,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 300,
+   "y": 3,
+   "w": 120,
+   "h": 128
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "102777",
+   "title": "Abigail Chesebrough (Mrs. Alexander Grant)",
+   "artist": "Joseph Blackburn (English, active in British colonies in North America and Bermuda, 1752–64)",
+   "date": "1754",
+   "url": "https://www.artic.edu/artworks/102777",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0002",
+  "kind": "bust",
+  "file": "busts/bust_0002.jpg",
+  "web": "busts/bust_0002.webp",
+  "w": 689,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 236,
+   "y": 76,
+   "w": 244,
+   "h": 330
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "11",
+   "title": "Self-Portrait",
+   "artist": "Walter Shirlaw (American, 1838–1909)",
+   "date": "1878",
+   "url": "https://www.artic.edu/artworks/11",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0003",
+  "kind": "bust",
+  "file": "busts/bust_0003.jpg",
+  "web": "busts/bust_0003.webp",
+  "w": 710,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 254,
+   "y": 42,
+   "w": 203,
+   "h": 214
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "110",
+   "title": "Hyacinthe Rigaud",
+   "artist": "Gérard Edelinck (French, born Flanders, 1640-1707)",
+   "date": "1698",
+   "url": "https://www.artic.edu/artworks/110",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0004",
+  "kind": "bust",
+  "file": "busts/bust_0004.jpg",
+  "web": "busts/bust_0004.webp",
+  "w": 694,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 173,
+   "y": 138,
+   "w": 281,
+   "h": 296
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "111",
+   "title": "Martin Vanden Bogaert Desjardins",
+   "artist": "Gérard Edelinck (French, born Flanders, 1640-1707)",
+   "date": "n.d.",
+   "url": "https://www.artic.edu/artworks/111",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0001",
+  "kind": "vignette",
+  "file": "vignettes/vig_0001.jpg",
+  "web": "vignettes/vig_0001.webp",
+  "w": 900,
+  "h": 645,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "133358",
+   "title": "Harbor Scene with a Lighthouse",
+   "artist": "Claude Lorrain",
+   "date": "1638–41",
+   "url": "https://www.artic.edu/artworks/133358",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0002",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0002.jpg",
+  "web": "ephemeras/eph_0002.webp",
+  "w": 418,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "143682",
+   "title": "Skirt Panel for a Woman's Sack Gown",
+   "artist": "Designed by Anna Maria Garthwaite (English, 1690–1763)",
+   "date": "Design March 1, 1749",
+   "url": "https://www.artic.edu/artworks/143682",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0005",
+  "kind": "bust",
+  "file": "busts/bust_0005.jpg",
+  "web": "busts/bust_0005.webp",
+  "w": 709,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 183,
+   "y": 13,
+   "w": 332,
+   "h": 350
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "145",
+   "title": "Louis Phélypeaux de la Vrillière",
+   "artist": "Robert Nanteuil",
+   "date": "1662",
+   "url": "https://www.artic.edu/artworks/145",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0003",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0003.jpg",
+  "web": "ephemeras/eph_0003.webp",
+  "w": 809,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "15132",
+   "title": "Sampler (Map)",
+   "artist": "England",
+   "date": "c. 1800",
+   "url": "https://www.artic.edu/artworks/15132",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0002",
+  "kind": "vignette",
+  "file": "vignettes/vig_0002.jpg",
+  "web": "vignettes/vig_0002.webp",
+  "w": 900,
+  "h": 721,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "16487",
+   "title": "The Bay of Marseille, Seen from L'Estaque",
+   "artist": "Paul Cezanne (French, 1839–1906)",
+   "date": "c. 1885",
+   "url": "https://www.artic.edu/artworks/16487",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0001",
+  "kind": "insect",
+  "file": "insects/ins_0001.png",
+  "web": "insects/ins_0001.webp",
+  "w": 900,
+  "h": 345,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "18642",
+   "title": "A Moth, Butterflies, and Bees, from Diversae Insectorum...Figurae",
+   "artist": "Wenceslaus Hollar",
+   "date": "after 1644",
+   "url": "https://www.artic.edu/artworks/18642",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0004",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0004.jpg",
+  "web": "ephemeras/eph_0004.webp",
+  "w": 900,
+  "h": 554,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "1890",
+   "title": "Fragment",
+   "artist": "Italy",
+   "date": "16th century",
+   "url": "https://www.artic.edu/artworks/1890",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0001",
+  "kind": "animal",
+  "file": "animals/ani_0001.png",
+  "web": "animals/ani_0001.webp",
+  "w": 655,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "189715",
+   "title": "King Vulture",
+   "artist": "Meissen Porcelain Manufactory (1710–present)",
+   "date": "1734",
+   "url": "https://www.artic.edu/artworks/189715",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0005",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0005.jpg",
+  "web": "ephemeras/eph_0005.webp",
+  "w": 421,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "1905",
+   "title": "Fragment",
+   "artist": "Italy",
+   "date": "1575/1625",
+   "url": "https://www.artic.edu/artworks/1905",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0006",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0006.jpg",
+  "web": "ephemeras/eph_0006.webp",
+  "w": 571,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "1908",
+   "title": "Fragment",
+   "artist": "Italy",
+   "date": "1575/1600",
+   "url": "https://www.artic.edu/artworks/1908",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0006",
+  "kind": "bust",
+  "file": "busts/bust_0006.jpg",
+  "web": "busts/bust_0006.webp",
+  "w": 672,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 226,
+   "y": 62,
+   "w": 197,
+   "h": 207
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "192264",
+   "title": "Portrait of B. Reading, Engraver",
+   "artist": "Samuel de Wilde",
+   "date": "June 16, 1798",
+   "url": "https://www.artic.edu/artworks/192264",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0007",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0007.jpg",
+  "web": "ephemeras/eph_0007.webp",
+  "w": 708,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "196347",
+   "title": "Plan of Chicago, Chicago, Illinois, Diagram Showing City Growth",
+   "artist": "Daniel Hudson Burnham (American, 1846-1912)",
+   "date": "1909",
+   "url": "https://www.artic.edu/artworks/196347",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0002",
+  "kind": "figure",
+  "file": "figures/fig_0002.png",
+  "web": "figures/fig_0002.webp",
+  "w": 337,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "color",
+  "headBox": {
+   "x": 126,
+   "y": 9,
+   "w": 109,
+   "h": 127
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "220683",
+   "title": "Woman Seen from Behind, from Figures de modes",
+   "artist": "Jean Antoine Watteau",
+   "date": "c. 1710",
+   "url": "https://www.artic.edu/artworks/220683",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0007",
+  "kind": "bust",
+  "file": "busts/bust_0007.jpg",
+  "web": "busts/bust_0007.webp",
+  "w": 759,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 158,
+   "y": 0,
+   "w": 321,
+   "h": 338
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "22194",
+   "title": "Hermine David",
+   "artist": "Jules Pascin",
+   "date": "1907",
+   "url": "https://www.artic.edu/artworks/22194",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0003",
+  "kind": "figure",
+  "file": "figures/fig_0003.png",
+  "web": "figures/fig_0003.webp",
+  "w": 611,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 163,
+   "y": 2,
+   "w": 108,
+   "h": 128
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "238249",
+   "title": "Untitled (\"I Sell the Shadow to Support the Substance\")",
+   "artist": "Sojourner Truth, American (c. 1797-1883)",
+   "date": "1864-65",
+   "url": "https://www.artic.edu/artworks/238249",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0004",
+  "kind": "figure",
+  "file": "figures/fig_0004.png",
+  "web": "figures/fig_0004.webp",
+  "w": 655,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 196,
+   "y": 4,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "23888",
+   "title": "Portrait of Brahms",
+   "artist": "Johann Reiner",
+   "date": "1862/80",
+   "url": "https://www.artic.edu/artworks/23888",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0008",
+  "kind": "bust",
+  "file": "busts/bust_0008.jpg",
+  "web": "busts/bust_0008.webp",
+  "w": 619,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 173,
+   "y": 41,
+   "w": 276,
+   "h": 290
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "24",
+   "title": "Portrait of Edouard Molé",
+   "artist": "Robert Nanteuil",
+   "date": "1653",
+   "url": "https://www.artic.edu/artworks/24",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0009",
+  "kind": "bust",
+  "file": "busts/bust_0009.jpg",
+  "web": "busts/bust_0009.webp",
+  "w": 714,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 252,
+   "y": 123,
+   "w": 295,
+   "h": 311
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "29230",
+   "title": "Julia Jackson",
+   "artist": "Julia Margaret Cameron",
+   "date": "1867",
+   "url": "https://www.artic.edu/artworks/29230",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0010",
+  "kind": "bust",
+  "file": "busts/bust_0010.jpg",
+  "web": "busts/bust_0010.webp",
+  "w": 631,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 163,
+   "y": 168,
+   "w": 247,
+   "h": 260
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "30095",
+   "title": "Portrait of Miss Constance MacDonald Gilchrist",
+   "artist": "Elliott & Fry",
+   "date": "April 15, 1877",
+   "url": "https://www.artic.edu/artworks/30095",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0011",
+  "kind": "bust",
+  "file": "busts/bust_0011.jpg",
+  "web": "busts/bust_0011.webp",
+  "w": 558,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 212,
+   "y": 265,
+   "w": 117,
+   "h": 123
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "31707",
+   "title": "General George Armstrong Custer",
+   "artist": "Brady's National Photographic Portrait Galleries",
+   "date": "1860/76",
+   "url": "https://www.artic.edu/artworks/31707",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0003",
+  "kind": "vignette",
+  "file": "vignettes/vig_0003.jpg",
+  "web": "vignettes/vig_0003.webp",
+  "w": 900,
+  "h": 577,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33476",
+   "title": "Library, Yale University",
+   "artist": "Peck Brothers",
+   "date": "n.d.",
+   "url": "https://www.artic.edu/artworks/33476",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0004",
+  "kind": "vignette",
+  "file": "vignettes/vig_0004.jpg",
+  "web": "vignettes/vig_0004.webp",
+  "w": 900,
+  "h": 566,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33492",
+   "title": "Untitled",
+   "artist": "R. F.  Adams",
+   "date": "c. 1865",
+   "url": "https://www.artic.edu/artworks/33492",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0005",
+  "kind": "vignette",
+  "file": "vignettes/vig_0005.jpg",
+  "web": "vignettes/vig_0005.webp",
+  "w": 900,
+  "h": 555,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33496",
+   "title": "Goat Island, Lighthouse",
+   "artist": "Black & Case (active 1864–67)",
+   "date": "1864/67",
+   "url": "https://www.artic.edu/artworks/33496",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0006",
+  "kind": "vignette",
+  "file": "vignettes/vig_0006.jpg",
+  "web": "vignettes/vig_0006.webp",
+  "w": 570,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33500",
+   "title": "Bunker Hill Monument",
+   "artist": "Allen",
+   "date": "1875/1900",
+   "url": "https://www.artic.edu/artworks/33500",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0007",
+  "kind": "vignette",
+  "file": "vignettes/vig_0007.jpg",
+  "web": "vignettes/vig_0007.webp",
+  "w": 900,
+  "h": 559,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33502",
+   "title": "Old Fort",
+   "artist": "James Wallace Black",
+   "date": "1959/74",
+   "url": "https://www.artic.edu/artworks/33502",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0008",
+  "kind": "vignette",
+  "file": "vignettes/vig_0008.jpg",
+  "web": "vignettes/vig_0008.webp",
+  "w": 900,
+  "h": 568,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33504",
+   "title": "Untitled (Man at Niagara Falls)",
+   "artist": "Rockwood",
+   "date": "n.d.",
+   "url": "https://www.artic.edu/artworks/33504",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0009",
+  "kind": "vignette",
+  "file": "vignettes/vig_0009.jpg",
+  "web": "vignettes/vig_0009.webp",
+  "w": 900,
+  "h": 575,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "33523",
+   "title": "Railway Suspension Bridge, Niagara Falls",
+   "artist": "S. Barnett",
+   "date": "19th century",
+   "url": "https://www.artic.edu/artworks/33523",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0008",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0008.jpg",
+  "web": "ephemeras/eph_0008.webp",
+  "w": 900,
+  "h": 640,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "39146",
+   "title": "Windrush",
+   "artist": "Designed by William Morris (English, 1834–1896)",
+   "date": "Design 1883, made 1917–25",
+   "url": "https://www.artic.edu/artworks/39146",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0009",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0009.jpg",
+  "web": "ephemeras/eph_0009.webp",
+  "w": 900,
+  "h": 771,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "39157",
+   "title": "Corncockle",
+   "artist": "Designed by William Morris (English, 1834–1896)",
+   "date": "Design 1883, made 1917–25",
+   "url": "https://www.artic.edu/artworks/39157",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0012",
+  "kind": "bust",
+  "file": "busts/bust_0012.jpg",
+  "web": "busts/bust_0012.webp",
+  "w": 620,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 274,
+   "y": 141,
+   "w": 148,
+   "h": 182
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "39958",
+   "title": "Portrait of the Engraver Baquoy",
+   "artist": "André Dutertre",
+   "date": "c. 1820",
+   "url": "https://www.artic.edu/artworks/39958",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0002",
+  "kind": "animal",
+  "file": "animals/ani_0002.png",
+  "web": "animals/ani_0002.webp",
+  "w": 900,
+  "h": 717,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "3997",
+   "title": "The Elephant",
+   "artist": "Martin Schongauer",
+   "date": "c. 1485",
+   "url": "https://www.artic.edu/artworks/3997",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0010",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0010.jpg",
+  "web": "ephemeras/eph_0010.webp",
+  "w": 633,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "4016",
+   "title": "Ornament with Owl Mocked by Day Birds",
+   "artist": "Martin Schongauer",
+   "date": "c. 1474",
+   "url": "https://www.artic.edu/artworks/4016",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0010",
+  "kind": "vignette",
+  "file": "vignettes/vig_0010.jpg",
+  "web": "vignettes/vig_0010.webp",
+  "w": 900,
+  "h": 689,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "45453",
+   "title": "Four-Master and Two Three-Masters Anchored near a Fortified Island with a Lighthouse, from The Sailing Vessels",
+   "artist": "Frans Huys (Flemish, c. 1522-1562)",
+   "date": "c. 1560–62, published 1665",
+   "url": "https://www.artic.edu/artworks/45453",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0013",
+  "kind": "bust",
+  "file": "busts/bust_0013.jpg",
+  "web": "busts/bust_0013.webp",
+  "w": 627,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 205,
+   "y": 106,
+   "w": 236,
+   "h": 248
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "46",
+   "title": "Portrait Bust of a Woman with a Large Collar, from Perfect School to Learn How to Draw the Entire Human Body (English translation)",
+   "artist": "Luca Ciamberlano (Italian, c. 1580-c. 1641)",
+   "date": "n.d.",
+   "url": "https://www.artic.edu/artworks/46",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0005",
+  "kind": "figure",
+  "file": "figures/fig_0005.png",
+  "web": "figures/fig_0005.webp",
+  "w": 313,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 103,
+   "y": 3,
+   "w": 80,
+   "h": 128
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "4749",
+   "title": "Mrs. George Swinton (Elizabeth Ebsworth)",
+   "artist": "John Singer Sargent (American, 1856–1925)",
+   "date": "1897",
+   "url": "https://www.artic.edu/artworks/4749",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0011",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0011.jpg",
+  "web": "ephemeras/eph_0011.webp",
+  "w": 564,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "54125",
+   "title": "Panel",
+   "artist": "Design in the style of Courtois (French, active c. 1732–1733)",
+   "date": "1732/33",
+   "url": "https://www.artic.edu/artworks/54125",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0014",
+  "kind": "bust",
+  "file": "busts/bust_0014.jpg",
+  "web": "busts/bust_0014.webp",
+  "w": 712,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 218,
+   "y": 79,
+   "w": 282,
+   "h": 297
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "56",
+   "title": "Anne of Austria, Queen of France",
+   "artist": "Robert Nanteuil (French, 1623-1678)",
+   "date": "1660",
+   "url": "https://www.artic.edu/artworks/56",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0015",
+  "kind": "bust",
+  "file": "busts/bust_0015.jpg",
+  "web": "busts/bust_0015.webp",
+  "w": 632,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 233,
+   "y": 112,
+   "w": 122,
+   "h": 128
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "58",
+   "title": "Portrait of a Sixty-year-old Woman, from Recueil d'estampes d'après les plus célèbres tableaux de la Galerie Royale de Dresde",
+   "artist": "Pieter Tanjé (Dutch, 1706-1761)",
+   "date": "c. 1757",
+   "url": "https://www.artic.edu/artworks/58",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0016",
+  "kind": "bust",
+  "file": "busts/bust_0016.jpg",
+  "web": "busts/bust_0016.webp",
+  "w": 696,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 212,
+   "y": 34,
+   "w": 276,
+   "h": 290
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "60",
+   "title": "Pierre Dupuis, Painter to the King",
+   "artist": "Antoine Masson (French, 1636-1700)",
+   "date": "1663",
+   "url": "https://www.artic.edu/artworks/60",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0011",
+  "kind": "vignette",
+  "file": "vignettes/vig_0011.jpg",
+  "web": "vignettes/vig_0011.webp",
+  "w": 900,
+  "h": 534,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "66144",
+   "title": "Rocks at the Lighthouse, Biarritz",
+   "artist": "Joaquín Sorolla y Bastida (Spanish, 1863-1923)",
+   "date": "1906",
+   "url": "https://www.artic.edu/artworks/66144",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0012",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0012.jpg",
+  "web": "ephemeras/eph_0012.webp",
+  "w": 900,
+  "h": 566,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "aic",
+   "objectId": "6652",
+   "title": "Panel (Furnishing Fabric)",
+   "artist": "Printed at Bannister Hall Print Works (English, active 1799-1840)",
+   "date": "c. 1815",
+   "url": "https://www.artic.edu/artworks/6652",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0013",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0013.jpg",
+  "web": "ephemeras/eph_0013.webp",
+  "w": 838,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "aic",
+   "objectId": "6655",
+   "title": "Panel (Furnishing Fabric)",
+   "artist": "Printed at Bannister Hall Print Works (English, active 1799-1840)",
+   "date": "c. 1815",
+   "url": "https://www.artic.edu/artworks/6655",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0014",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0014.jpg",
+  "web": "ephemeras/eph_0014.webp",
+  "w": 900,
+  "h": 564,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "aic",
+   "objectId": "6658",
+   "title": "Panel",
+   "artist": "Printed at Bannister Hall Print Works (English, active 1799-1840)",
+   "date": "c. 1815",
+   "url": "https://www.artic.edu/artworks/6658",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0003",
+  "kind": "animal",
+  "file": "animals/ani_0003.png",
+  "web": "animals/ani_0003.webp",
+  "w": 447,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "71160",
+   "title": "Owl",
+   "artist": "Bow Porcelain Factory",
+   "date": "c. 1760",
+   "url": "https://www.artic.edu/artworks/71160",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0015",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0015.jpg",
+  "web": "ephemeras/eph_0015.webp",
+  "w": 900,
+  "h": 768,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "aic",
+   "objectId": "77855",
+   "title": "Map of North America (Handkerchief)",
+   "artist": "Engraved by R. Gray (Scottish, 1811) after Robert Wilkinson (1804)",
+   "date": "1811",
+   "url": "https://www.artic.edu/artworks/77855",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0006",
+  "kind": "figure",
+  "file": "figures/fig_0006.png",
+  "web": "figures/fig_0006.webp",
+  "w": 599,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 224,
+   "y": 6,
+   "w": 115,
+   "h": 127
+  },
+  "group": true,
+  "source": {
+   "api": "aic",
+   "objectId": "80499",
+   "title": "Dorothea and Francesca",
+   "artist": "Cecilia Beaux (American, 1855–1942)",
+   "date": "1898",
+   "url": "https://www.artic.edu/artworks/80499",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0017",
+  "kind": "bust",
+  "file": "busts/bust_0017.jpg",
+  "web": "busts/bust_0017.webp",
+  "w": 706,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 284,
+   "y": 81,
+   "w": 243,
+   "h": 256
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "80607",
+   "title": "Self-Portrait",
+   "artist": "Vincent van Gogh (Dutch, 1853–1890)",
+   "date": "1887",
+   "url": "https://www.artic.edu/artworks/80607",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0007",
+  "kind": "figure",
+  "file": "figures/fig_0007.png",
+  "web": "figures/fig_0007.webp",
+  "w": 568,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 264,
+   "y": 5,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "81",
+   "title": "Lame Beggar Asking for Alms, from T is al verwart-gaern (It's already confusing)",
+   "artist": "Pieter Jansz Quast",
+   "date": "n.d.",
+   "url": "https://www.artic.edu/artworks/81",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0018",
+  "kind": "bust",
+  "file": "busts/bust_0018.jpg",
+  "web": "busts/bust_0018.webp",
+  "w": 713,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 156,
+   "y": 44,
+   "w": 312,
+   "h": 342
+  },
+  "source": {
+   "api": "aic",
+   "objectId": "862",
+   "title": "Portrait of an Artist",
+   "artist": "Follower of Frans Hals (Dutch, 1582–1666)",
+   "date": "1644",
+   "url": "https://www.artic.edu/artworks/862",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0016",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0016.jpg",
+  "web": "ephemeras/eph_0016.webp",
+  "w": 900,
+  "h": 375,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "aic",
+   "objectId": "9415",
+   "title": "Panel (Furnishing Fabric)",
+   "artist": "Printed and Manufactured by Lancaster Prints",
+   "date": "1856",
+   "url": "https://www.artic.edu/artworks/9415",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0009",
+  "kind": "figure",
+  "file": "figures/fig_0009.png",
+  "web": "figures/fig_0009.webp",
+  "w": 662,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "color",
+  "headBox": {
+   "x": 310,
+   "y": 4,
+   "w": 139,
+   "h": 126
+  },
+  "group": true,
+  "source": {
+   "api": "aic",
+   "objectId": "97907",
+   "title": "A Mexican Vaquero",
+   "artist": "Frederic Remington (American, 1861–1909)",
+   "date": "1890",
+   "url": "https://www.artic.edu/artworks/97907",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0019",
+  "kind": "bust",
+  "file": "busts/bust_0019.jpg",
+  "web": "busts/bust_0019.webp",
+  "w": 735,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 293,
+   "y": 165,
+   "w": 275,
+   "h": 289
+  },
+  "source": {
+   "api": "met",
+   "objectId": "268709",
+   "title": "Christabel",
+   "artist": "Julia Margaret Cameron",
+   "date": "1866",
+   "url": "https://www.metmuseum.org/art/collection/search/268709",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0010",
+  "kind": "figure",
+  "file": "figures/fig_0010.png",
+  "web": "figures/fig_0010.webp",
+  "w": 438,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "color",
+  "headBox": {
+   "x": 136,
+   "y": 3,
+   "w": 122,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "282021",
+   "title": "Lady Ruthven",
+   "artist": "Hill and Adamson",
+   "date": "ca. 1845",
+   "url": "https://www.metmuseum.org/art/collection/search/282021",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0011",
+  "kind": "figure",
+  "file": "figures/fig_0011.png",
+  "web": "figures/fig_0011.webp",
+  "w": 330,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 92,
+   "y": 4,
+   "w": 85,
+   "h": 126
+  },
+  "source": {
+   "api": "met",
+   "objectId": "283172",
+   "title": "Raharla, Minister to the Queen",
+   "artist": "Désiré Charnay",
+   "date": "1863",
+   "url": "https://www.metmuseum.org/art/collection/search/283172",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0012",
+  "kind": "figure",
+  "file": "figures/fig_0012.png",
+  "web": "figures/fig_0012.webp",
+  "w": 669,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 239,
+   "y": 3,
+   "w": 121,
+   "h": 115
+  },
+  "source": {
+   "api": "met",
+   "objectId": "283185",
+   "title": "[Cornelia Van Ness Roosevelt]",
+   "artist": "Mathew B. Brady",
+   "date": "ca. 1857",
+   "url": "https://www.metmuseum.org/art/collection/search/283185",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0013",
+  "kind": "figure",
+  "file": "figures/fig_0013.png",
+  "web": "figures/fig_0013.webp",
+  "w": 722,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 453,
+   "y": 3,
+   "w": 74,
+   "h": 123
+  },
+  "source": {
+   "api": "met",
+   "objectId": "283201",
+   "title": "Lewis Powell [alias Lewis Payne]",
+   "artist": "Alexander Gardner",
+   "date": "April 27, 1865",
+   "url": "https://www.metmuseum.org/art/collection/search/283201",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0014",
+  "kind": "figure",
+  "file": "figures/fig_0014.png",
+  "web": "figures/fig_0014.webp",
+  "w": 634,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "color",
+  "headBox": {
+   "x": 212,
+   "y": 3,
+   "w": 147,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "283242",
+   "title": "Countess Greffulhe",
+   "artist": "Otto Wegener",
+   "date": "1899",
+   "url": "https://www.metmuseum.org/art/collection/search/283242",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0020",
+  "kind": "bust",
+  "file": "busts/bust_0020.jpg",
+  "web": "busts/bust_0020.webp",
+  "w": 551,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 174,
+   "y": 139,
+   "w": 196,
+   "h": 206
+  },
+  "source": {
+   "api": "met",
+   "objectId": "285802",
+   "title": "Vittorio Emanuele II",
+   "artist": "Cesare Bernieri",
+   "date": "1867",
+   "url": "https://www.metmuseum.org/art/collection/search/285802",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0017",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0017.jpg",
+  "web": "ephemeras/eph_0017.webp",
+  "w": 729,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "289191",
+   "title": "[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]",
+   "artist": "William Henry Fox Talbot",
+   "date": "1839",
+   "url": "https://www.metmuseum.org/art/collection/search/289191",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0018",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0018.jpg",
+  "web": "ephemeras/eph_0018.webp",
+  "w": 709,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "289201",
+   "title": "[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]",
+   "artist": "William Henry Fox Talbot",
+   "date": "1839",
+   "url": "https://www.metmuseum.org/art/collection/search/289201",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0019",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0019.jpg",
+  "web": "ephemeras/eph_0019.webp",
+  "w": 737,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "289207",
+   "title": "[Manuscript Letter from William-Fox Strangways to Antonio Bertoloni]",
+   "artist": "William Thomas Horner Fox-Strangways",
+   "date": "1839",
+   "url": "https://www.metmuseum.org/art/collection/search/289207",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0020",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0020.jpg",
+  "web": "ephemeras/eph_0020.webp",
+  "w": 735,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "289218",
+   "title": "[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]",
+   "artist": "William Henry Fox Talbot",
+   "date": "1840",
+   "url": "https://www.metmuseum.org/art/collection/search/289218",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0015",
+  "kind": "figure",
+  "file": "figures/fig_0015.png",
+  "web": "figures/fig_0015.webp",
+  "w": 294,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 80,
+   "y": 4,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "301985",
+   "title": "Sergeant John Lincoln Clem, The Drummer Boy of Chickamauga",
+   "artist": "Morse & Peaslee, Gallery of the Cumberland",
+   "date": "ca. 1864",
+   "url": "https://www.metmuseum.org/art/collection/search/301985",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0016",
+  "kind": "figure",
+  "file": "figures/fig_0016.png",
+  "web": "figures/fig_0016.webp",
+  "w": 395,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 73,
+   "y": 4,
+   "w": 61,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "302361",
+   "title": "Wilson, Branded Slave from New Orleans",
+   "artist": "Charles Paxson",
+   "date": "1863",
+   "url": "https://www.metmuseum.org/art/collection/search/302361",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0021",
+  "kind": "bust",
+  "file": "busts/bust_0021.jpg",
+  "web": "busts/bust_0021.webp",
+  "w": 692,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 237,
+   "y": 64,
+   "w": 258,
+   "h": 272
+  },
+  "source": {
+   "api": "met",
+   "objectId": "334125",
+   "title": "Portrait Bust of Mademoiselle Marcelle Lender",
+   "artist": "Henri de Toulouse-Lautrec",
+   "date": "1895",
+   "url": "https://www.metmuseum.org/art/collection/search/334125",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0024",
+  "kind": "insect",
+  "file": "insects/ins_0024.png",
+  "web": "insects/ins_0024.webp",
+  "w": 606,
+  "h": 609,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "334930",
+   "title": "Studies of Fruits, Insects and Shells",
+   "artist": "Georg Flegel",
+   "date": "late 16th–mid-17th century",
+   "url": "https://www.metmuseum.org/art/collection/search/334930",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0025",
+  "kind": "insect",
+  "file": "insects/ins_0025.png",
+  "web": "insects/ins_0025.webp",
+  "w": 834,
+  "h": 615,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "334930",
+   "title": "Studies of Fruits, Insects and Shells",
+   "artist": "Georg Flegel",
+   "date": "late 16th–mid-17th century",
+   "url": "https://www.metmuseum.org/art/collection/search/334930",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0021",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0021.jpg",
+  "web": "ephemeras/eph_0021.webp",
+  "w": 701,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "335422",
+   "title": "Design for a Title Page for Sheet Music",
+   "artist": "Max Klinger",
+   "date": "late 19th–early 20th century",
+   "url": "https://www.metmuseum.org/art/collection/search/335422",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0022",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0022.jpg",
+  "web": "ephemeras/eph_0022.webp",
+  "w": 618,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "335773",
+   "title": "Design for a Title Page Sheet Music",
+   "artist": "Anonymous, German, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/335773",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0012",
+  "kind": "vignette",
+  "file": "vignettes/vig_0012.jpg",
+  "web": "vignettes/vig_0012.webp",
+  "w": 900,
+  "h": 615,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "336259",
+   "title": "Landscape with a Double Spruce",
+   "artist": "Albrecht Altdorfer",
+   "date": "ca. 1521–22",
+   "url": "https://www.metmuseum.org/art/collection/search/336259",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0013",
+  "kind": "vignette",
+  "file": "vignettes/vig_0013.jpg",
+  "web": "vignettes/vig_0013.webp",
+  "w": 900,
+  "h": 640,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "337065",
+   "title": "Nocturne",
+   "artist": "James McNeill Whistler",
+   "date": "1879–80",
+   "url": "https://www.metmuseum.org/art/collection/search/337065",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0023",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0023.jpg",
+  "web": "ephemeras/eph_0023.webp",
+  "w": 727,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "337071",
+   "title": "Pink and Rose",
+   "artist": "William Morris",
+   "date": "ca. 1890",
+   "url": "https://www.metmuseum.org/art/collection/search/337071",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0017",
+  "kind": "figure",
+  "file": "figures/fig_0017.png",
+  "web": "figures/fig_0017.webp",
+  "w": 814,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 266,
+   "y": 4,
+   "w": 140,
+   "h": 122
+  },
+  "source": {
+   "api": "met",
+   "objectId": "337252",
+   "title": "Florentine Woman Wearing a Butterfly Cap and Holding a Hand Warmer",
+   "artist": "Jean-Baptiste Greuze",
+   "date": "1755",
+   "url": "https://www.metmuseum.org/art/collection/search/337252",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0022",
+  "kind": "bust",
+  "file": "busts/bust_0022.jpg",
+  "web": "busts/bust_0022.webp",
+  "w": 544,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 185,
+   "y": 109,
+   "w": 197,
+   "h": 210
+  },
+  "source": {
+   "api": "met",
+   "objectId": "337552",
+   "title": "Portrait of Charles Baudelaire in Profile",
+   "artist": "Edouard Manet",
+   "date": "1862–67",
+   "url": "https://www.metmuseum.org/art/collection/search/337552",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0002",
+  "kind": "botanical",
+  "file": "botanicals/bot_0002.png",
+  "web": "botanicals/bot_0002.webp",
+  "w": 900,
+  "h": 557,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "337769",
+   "title": "Four Tulips:  Boter man (Butter Man), Joncker (Nobleman), Grote geplumaceerde (The Great Plumed One), and Voorwint (With the Wind)",
+   "artist": "Jacob Marrel",
+   "date": "ca. 1635–45",
+   "url": "https://www.metmuseum.org/art/collection/search/337769",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0023",
+  "kind": "bust",
+  "file": "busts/bust_0023.jpg",
+  "web": "busts/bust_0023.webp",
+  "w": 646,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 160,
+   "y": 9,
+   "w": 338,
+   "h": 356
+  },
+  "source": {
+   "api": "met",
+   "objectId": "338405",
+   "title": "Bust-Length Portrait of a Woman (recto); Bust-Length Study of a Girl (verso)",
+   "artist": "Agostino Carracci",
+   "date": "1577–1602",
+   "url": "https://www.metmuseum.org/art/collection/search/338405",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0014",
+  "kind": "vignette",
+  "file": "vignettes/vig_0014.jpg",
+  "web": "vignettes/vig_0014.webp",
+  "w": 900,
+  "h": 689,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "338712",
+   "title": "Four-master and Two Three-masters Anchored near a Fortified Island, from \"The Sailing Vessels\"",
+   "artist": "Pieter Bruegel the Elder",
+   "date": "1561–65",
+   "url": "https://www.metmuseum.org/art/collection/search/338712",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0019",
+  "kind": "figure",
+  "file": "figures/fig_0019.png",
+  "web": "figures/fig_0019.webp",
+  "w": 334,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 40,
+   "y": 4,
+   "w": 145,
+   "h": 126
+  },
+  "source": {
+   "api": "met",
+   "objectId": "339007",
+   "title": "Boy Chasing a Butterfly",
+   "artist": "Guercino (Giovanni Francesco Barbieri)",
+   "date": "1591–1666",
+   "url": "https://www.metmuseum.org/art/collection/search/339007",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0006",
+  "kind": "animal",
+  "file": "animals/ani_0006.png",
+  "web": "animals/ani_0006.webp",
+  "w": 900,
+  "h": 633,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "339754",
+   "title": "Monkey",
+   "artist": "Georges Seurat",
+   "date": "1884",
+   "url": "https://www.metmuseum.org/art/collection/search/339754",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0020",
+  "kind": "figure",
+  "file": "figures/fig_0020.png",
+  "web": "figures/fig_0020.webp",
+  "w": 398,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "color",
+  "headBox": {
+   "x": 156,
+   "y": 4,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "339824",
+   "title": "Back View of a Roman Servant Boy",
+   "artist": "François André Vincent",
+   "date": "1771–75",
+   "url": "https://www.metmuseum.org/art/collection/search/339824",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0024",
+  "kind": "bust",
+  "file": "busts/bust_0024.jpg",
+  "web": "busts/bust_0024.webp",
+  "w": 640,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 134,
+   "y": 17,
+   "w": 331,
+   "h": 348
+  },
+  "source": {
+   "api": "met",
+   "objectId": "342704",
+   "title": "Portrait of Pietro Aretino",
+   "artist": "Marcantonio Raimondi",
+   "date": "ca. 1517–20",
+   "url": "https://www.metmuseum.org/art/collection/search/342704",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0015",
+  "kind": "vignette",
+  "file": "vignettes/vig_0015.jpg",
+  "web": "vignettes/vig_0015.webp",
+  "w": 900,
+  "h": 681,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "344030",
+   "title": "View of New York from Brooklyn Heights",
+   "artist": "Frances Flora Bond Palmer",
+   "date": "1849",
+   "url": "https://www.metmuseum.org/art/collection/search/344030",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0024",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0024.jpg",
+  "web": "ephemeras/eph_0024.webp",
+  "w": 900,
+  "h": 569,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "345220",
+   "title": "Trade Card",
+   "artist": "Jules-Edmond-Charles Lachaise",
+   "date": "January 1835",
+   "url": "https://www.metmuseum.org/art/collection/search/345220",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0025",
+  "kind": "bust",
+  "file": "busts/bust_0025.jpg",
+  "web": "busts/bust_0025.webp",
+  "w": 716,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 225,
+   "y": 125,
+   "w": 258,
+   "h": 282
+  },
+  "source": {
+   "api": "met",
+   "objectId": "345852",
+   "title": "Historiae Venetae. Libri XII",
+   "artist": "Cardinal Pietro Bembo",
+   "date": "1551",
+   "url": "https://www.metmuseum.org/art/collection/search/345852",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0025",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0025.jpg",
+  "web": "ephemeras/eph_0025.webp",
+  "w": 900,
+  "h": 669,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "346232",
+   "title": "Habitus variarum orbis gentium / Omnium pene Europae, Asiae, Aphricae atque Americae Gentium Habitus",
+   "artist": "Abraham de Bruyn",
+   "date": "1581",
+   "url": "https://www.metmuseum.org/art/collection/search/346232",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0022",
+  "kind": "figure",
+  "file": "figures/fig_0022.png",
+  "web": "figures/fig_0022.webp",
+  "w": 535,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "sepia",
+  "headBox": {
+   "x": 261,
+   "y": 3,
+   "w": 89,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "346958",
+   "title": "Back View of Standing Woman",
+   "artist": "Alexandre Laemlein",
+   "date": "1830–71",
+   "url": "https://www.metmuseum.org/art/collection/search/346958",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0016",
+  "kind": "vignette",
+  "file": "vignettes/vig_0016.jpg",
+  "web": "vignettes/vig_0016.webp",
+  "w": 900,
+  "h": 665,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "348313",
+   "title": "View of Vienne on the Rhone",
+   "artist": "Hendrick (Cornelisz) Vroom",
+   "date": "ca. 1587–89",
+   "url": "https://www.metmuseum.org/art/collection/search/348313",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0026",
+  "kind": "bust",
+  "file": "busts/bust_0026.jpg",
+  "web": "busts/bust_0026.webp",
+  "w": 635,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 118,
+   "y": 98,
+   "w": 280,
+   "h": 320
+  },
+  "source": {
+   "api": "met",
+   "objectId": "352282",
+   "title": "Bust-Length Portrait of an Ecclesiastic",
+   "artist": "Carletto Caliari",
+   "date": "16th century",
+   "url": "https://www.metmuseum.org/art/collection/search/352282",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0009",
+  "kind": "animal",
+  "file": "animals/ani_0009.png",
+  "web": "animals/ani_0009.webp",
+  "w": 648,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "357184",
+   "title": "The Favorite Cat",
+   "artist": "Nathaniel Currier",
+   "date": "1838–48",
+   "url": "https://www.metmuseum.org/art/collection/search/357184",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0026",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0026.jpg",
+  "web": "ephemeras/eph_0026.webp",
+  "w": 818,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "358366",
+   "title": "The Celestial Map- Northern Hemisphere",
+   "artist": "Albrecht Dürer",
+   "date": "1515",
+   "url": "https://www.metmuseum.org/art/collection/search/358366",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0027",
+  "kind": "bust",
+  "file": "busts/bust_0027.jpg",
+  "web": "busts/bust_0027.webp",
+  "w": 735,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 213,
+   "y": 96,
+   "w": 271,
+   "h": 300
+  },
+  "source": {
+   "api": "met",
+   "objectId": "358782",
+   "title": "Édouard Manet, Bust-Length Portrait",
+   "artist": "Edgar Degas",
+   "date": "ca. 1868",
+   "url": "https://www.metmuseum.org/art/collection/search/358782",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0010",
+  "kind": "animal",
+  "file": "animals/ani_0010.png",
+  "web": "animals/ani_0010.webp",
+  "w": 827,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "359244",
+   "title": "Study of a Jaguar",
+   "artist": "John Macallan Swan",
+   "date": "1874–1910",
+   "url": "https://www.metmuseum.org/art/collection/search/359244",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0017",
+  "kind": "vignette",
+  "file": "vignettes/vig_0017.jpg",
+  "web": "vignettes/vig_0017.webp",
+  "w": 672,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "359511",
+   "title": "Sailing Vessels at Wilders Plads, Copenhagen",
+   "artist": "Christoffer Wilhelm Eckersberg",
+   "date": "1830",
+   "url": "https://www.metmuseum.org/art/collection/search/359511",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0018",
+  "kind": "vignette",
+  "file": "vignettes/vig_0018.jpg",
+  "web": "vignettes/vig_0018.webp",
+  "w": 900,
+  "h": 615,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "360049",
+   "title": "Harbor Scene with Rising Sun",
+   "artist": "Claude Lorrain (Claude Gellée)",
+   "date": "1634",
+   "url": "https://www.metmuseum.org/art/collection/search/360049",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0011",
+  "kind": "animal",
+  "file": "animals/ani_0011.png",
+  "web": "animals/ani_0011.webp",
+  "w": 900,
+  "h": 496,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "360154",
+   "title": "White dog",
+   "artist": "Wenceslaus Hollar",
+   "date": "1649",
+   "url": "https://www.metmuseum.org/art/collection/search/360154",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0002",
+  "kind": "insect",
+  "file": "insects/ins_0002.png",
+  "web": "insects/ins_0002.webp",
+  "w": 900,
+  "h": 352,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "360158",
+   "title": "Two moths and six Insects",
+   "artist": "Wenceslaus Hollar",
+   "date": "1645",
+   "url": "https://www.metmuseum.org/art/collection/search/360158",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0003",
+  "kind": "insect",
+  "file": "insects/ins_0003.png",
+  "web": "insects/ins_0003.webp",
+  "w": 350,
+  "h": 175,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "360158",
+   "title": "Two moths and six Insects",
+   "artist": "Wenceslaus Hollar",
+   "date": "1645",
+   "url": "https://www.metmuseum.org/art/collection/search/360158",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0004",
+  "kind": "insect",
+  "file": "insects/ins_0004.png",
+  "web": "insects/ins_0004.webp",
+  "w": 900,
+  "h": 350,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "360158",
+   "title": "Two moths and six Insects",
+   "artist": "Wenceslaus Hollar",
+   "date": "1645",
+   "url": "https://www.metmuseum.org/art/collection/search/360158",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0019",
+  "kind": "vignette",
+  "file": "vignettes/vig_0019.jpg",
+  "web": "vignettes/vig_0019.webp",
+  "w": 900,
+  "h": 573,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "361527",
+   "title": "Boÿers (Dutch Cargo Ship)",
+   "artist": "Wenceslaus Hollar",
+   "date": "1647",
+   "url": "https://www.metmuseum.org/art/collection/search/361527",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0028",
+  "kind": "bust",
+  "file": "busts/bust_0028.jpg",
+  "web": "busts/bust_0028.webp",
+  "w": 709,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 261,
+   "y": 195,
+   "w": 180,
+   "h": 189
+  },
+  "source": {
+   "api": "met",
+   "objectId": "361537",
+   "title": "Philipp Herbert, Earl of Pembroke",
+   "artist": "Wenceslaus Hollar",
+   "date": "1625–77",
+   "url": "https://www.metmuseum.org/art/collection/search/361537",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0026",
+  "kind": "insect",
+  "file": "insects/ins_0026.png",
+  "web": "insects/ins_0026.webp",
+  "w": 900,
+  "h": 374,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "361542",
+   "title": "Six Insects",
+   "artist": "Wenceslaus Hollar",
+   "date": "1646",
+   "url": "https://www.metmuseum.org/art/collection/search/361542",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0006",
+  "kind": "insect",
+  "file": "insects/ins_0006.png",
+  "web": "insects/ins_0006.webp",
+  "w": 900,
+  "h": 342,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "361545",
+   "title": "A  moth, three butterflies and two beetles",
+   "artist": "Wenceslaus Hollar",
+   "date": "1646",
+   "url": "https://www.metmuseum.org/art/collection/search/361545",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0007",
+  "kind": "insect",
+  "file": "insects/ins_0007.png",
+  "web": "insects/ins_0007.webp",
+  "w": 900,
+  "h": 399,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "361545",
+   "title": "A  moth, three butterflies and two beetles",
+   "artist": "Wenceslaus Hollar",
+   "date": "1646",
+   "url": "https://www.metmuseum.org/art/collection/search/361545",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0008",
+  "kind": "insect",
+  "file": "insects/ins_0008.png",
+  "web": "insects/ins_0008.webp",
+  "w": 501,
+  "h": 488,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "361545",
+   "title": "A  moth, three butterflies and two beetles",
+   "artist": "Wenceslaus Hollar",
+   "date": "1646",
+   "url": "https://www.metmuseum.org/art/collection/search/361545",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0029",
+  "kind": "bust",
+  "file": "busts/bust_0029.jpg",
+  "web": "busts/bust_0029.webp",
+  "w": 658,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 184,
+   "y": 97,
+   "w": 300,
+   "h": 316
+  },
+  "source": {
+   "api": "met",
+   "objectId": "361635",
+   "title": "Head of young man wearing hat in profile to right",
+   "artist": "Wenceslaus Hollar",
+   "date": "1648",
+   "url": "https://www.metmuseum.org/art/collection/search/361635",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0030",
+  "kind": "bust",
+  "file": "busts/bust_0030.jpg",
+  "web": "busts/bust_0030.webp",
+  "w": 650,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 182,
+   "y": 108,
+   "w": 184,
+   "h": 280
+  },
+  "source": {
+   "api": "met",
+   "objectId": "362164",
+   "title": "Portrait of Joannes Neyen, General of the Order of Franciscan Friars, Ambassador in Trier",
+   "artist": "Jan Muller",
+   "date": "1608",
+   "url": "https://www.metmuseum.org/art/collection/search/362164",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0020",
+  "kind": "vignette",
+  "file": "vignettes/vig_0020.jpg",
+  "web": "vignettes/vig_0020.webp",
+  "w": 900,
+  "h": 609,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "363902",
+   "title": "The smaller harbor, called the Porto di Ripetta (Veduta del Porto di Ripetta)",
+   "artist": "Giovanni Battista Piranesi",
+   "date": "ca. 1753",
+   "url": "https://www.metmuseum.org/art/collection/search/363902",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0023",
+  "kind": "figure",
+  "file": "figures/fig_0023.png",
+  "web": "figures/fig_0023.webp",
+  "w": 790,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "bw",
+  "headBox": {
+   "x": 287,
+   "y": 4,
+   "w": 105,
+   "h": 125
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "363934",
+   "title": "Portrait of Louis-Philippe, Duc d'Orléans, on Horseback",
+   "artist": "Jean-Baptiste Joseph Delafosse",
+   "date": "1763",
+   "url": "https://www.metmuseum.org/art/collection/search/363934",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0028",
+  "kind": "insect",
+  "file": "insects/ins_0028.png",
+  "web": "insects/ins_0028.webp",
+  "w": 466,
+  "h": 339,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "364117",
+   "title": "Insects, Butterflies, and a Grasshopper",
+   "artist": "Jan van Kessel",
+   "date": "1664",
+   "url": "https://www.metmuseum.org/art/collection/search/364117",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0029",
+  "kind": "insect",
+  "file": "insects/ins_0029.png",
+  "web": "insects/ins_0029.webp",
+  "w": 254,
+  "h": 259,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "364117",
+   "title": "Insects, Butterflies, and a Grasshopper",
+   "artist": "Jan van Kessel",
+   "date": "1664",
+   "url": "https://www.metmuseum.org/art/collection/search/364117",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0030",
+  "kind": "insect",
+  "file": "insects/ins_0030.png",
+  "web": "insects/ins_0030.webp",
+  "w": 299,
+  "h": 244,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "364117",
+   "title": "Insects, Butterflies, and a Grasshopper",
+   "artist": "Jan van Kessel",
+   "date": "1664",
+   "url": "https://www.metmuseum.org/art/collection/search/364117",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0031",
+  "kind": "insect",
+  "file": "insects/ins_0031.png",
+  "web": "insects/ins_0031.webp",
+  "w": 817,
+  "h": 266,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "364117",
+   "title": "Insects, Butterflies, and a Grasshopper",
+   "artist": "Jan van Kessel",
+   "date": "1664",
+   "url": "https://www.metmuseum.org/art/collection/search/364117",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0031",
+  "kind": "bust",
+  "file": "busts/bust_0031.jpg",
+  "web": "busts/bust_0031.webp",
+  "w": 740,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 282,
+   "y": 144,
+   "w": 177,
+   "h": 282
+  },
+  "source": {
+   "api": "met",
+   "objectId": "366763",
+   "title": "Oval, bust-length portrait study of a young man",
+   "artist": "Joseph van Aken",
+   "date": "ca. 1740–60",
+   "url": "https://www.metmuseum.org/art/collection/search/366763",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0032",
+  "kind": "insect",
+  "file": "insects/ins_0032.png",
+  "web": "insects/ins_0032.webp",
+  "w": 445,
+  "h": 306,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "366820",
+   "title": "Insects, Butterflies, and a Dragonfly",
+   "artist": "Jan van Kessel",
+   "date": "1662",
+   "url": "https://www.metmuseum.org/art/collection/search/366820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0033",
+  "kind": "insect",
+  "file": "insects/ins_0033.png",
+  "web": "insects/ins_0033.webp",
+  "w": 473,
+  "h": 267,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "366820",
+   "title": "Insects, Butterflies, and a Dragonfly",
+   "artist": "Jan van Kessel",
+   "date": "1662",
+   "url": "https://www.metmuseum.org/art/collection/search/366820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0034",
+  "kind": "insect",
+  "file": "insects/ins_0034.png",
+  "web": "insects/ins_0034.webp",
+  "w": 181,
+  "h": 234,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "366820",
+   "title": "Insects, Butterflies, and a Dragonfly",
+   "artist": "Jan van Kessel",
+   "date": "1662",
+   "url": "https://www.metmuseum.org/art/collection/search/366820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0035",
+  "kind": "insect",
+  "file": "insects/ins_0035.png",
+  "web": "insects/ins_0035.webp",
+  "w": 588,
+  "h": 407,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "366820",
+   "title": "Insects, Butterflies, and a Dragonfly",
+   "artist": "Jan van Kessel",
+   "date": "1662",
+   "url": "https://www.metmuseum.org/art/collection/search/366820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0036",
+  "kind": "insect",
+  "file": "insects/ins_0036.png",
+  "web": "insects/ins_0036.webp",
+  "w": 319,
+  "h": 288,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "366820",
+   "title": "Insects, Butterflies, and a Dragonfly",
+   "artist": "Jan van Kessel",
+   "date": "1662",
+   "url": "https://www.metmuseum.org/art/collection/search/366820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0033",
+  "kind": "bust",
+  "file": "busts/bust_0033.jpg",
+  "web": "busts/bust_0033.webp",
+  "w": 647,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 188,
+   "y": 155,
+   "w": 276,
+   "h": 290
+  },
+  "source": {
+   "api": "met",
+   "objectId": "374022",
+   "title": "Portrait of Bartholomeus Spranger",
+   "artist": "Jan Muller",
+   "date": "1597",
+   "url": "https://www.metmuseum.org/art/collection/search/374022",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0034",
+  "kind": "bust",
+  "file": "busts/bust_0034.jpg",
+  "web": "busts/bust_0034.webp",
+  "w": 634,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 168,
+   "y": 90,
+   "w": 305,
+   "h": 321
+  },
+  "source": {
+   "api": "met",
+   "objectId": "374047",
+   "title": "Portrait of Maurits, Prince of Orange",
+   "artist": "Jan Muller",
+   "date": "1608",
+   "url": "https://www.metmuseum.org/art/collection/search/374047",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0021",
+  "kind": "vignette",
+  "file": "vignettes/vig_0021.jpg",
+  "web": "vignettes/vig_0021.webp",
+  "w": 615,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "377216",
+   "title": "Monument to Johann Christian Bach",
+   "artist": "Francesco Bartolozzi",
+   "date": "March 10, 1782",
+   "url": "https://www.metmuseum.org/art/collection/search/377216",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0022",
+  "kind": "vignette",
+  "file": "vignettes/vig_0022.jpg",
+  "web": "vignettes/vig_0022.webp",
+  "w": 900,
+  "h": 663,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "380480",
+   "title": "The Champions of the Mississippi – \"A Race for the Buckhorns\"",
+   "artist": "Frances Flora Bond Palmer",
+   "date": "1866",
+   "url": "https://www.metmuseum.org/art/collection/search/380480",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0023",
+  "kind": "vignette",
+  "file": "vignettes/vig_0023.jpg",
+  "web": "vignettes/vig_0023.webp",
+  "w": 900,
+  "h": 727,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "380735",
+   "title": "View of the City and Harbour of New York taken from Mount Pitt, the Seat of John R. Livingston, Esq.",
+   "artist": "Charles Balthazar Julien Févret de Saint-Mémin",
+   "date": "1796",
+   "url": "https://www.metmuseum.org/art/collection/search/380735",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0027",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0027.jpg",
+  "web": "ephemeras/eph_0027.webp",
+  "w": 900,
+  "h": 609,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "380748",
+   "title": "The City of New York: Longworth's Explanatory Map and Plan",
+   "artist": "David Longworth",
+   "date": "1817",
+   "url": "https://www.metmuseum.org/art/collection/search/380748",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0028",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0028.jpg",
+  "web": "ephemeras/eph_0028.webp",
+  "w": 699,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "380952",
+   "title": "Coaching to Pelham (sheet music cover)",
+   "artist": "American Music Publishing Company",
+   "date": "1876",
+   "url": "https://www.metmuseum.org/art/collection/search/380952",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0024",
+  "kind": "vignette",
+  "file": "vignettes/vig_0024.jpg",
+  "web": "vignettes/vig_0024.webp",
+  "w": 900,
+  "h": 651,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "381008",
+   "title": "Evening, New York Harbor",
+   "artist": "Henry Farrer",
+   "date": "1884",
+   "url": "https://www.metmuseum.org/art/collection/search/381008",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0025",
+  "kind": "vignette",
+  "file": "vignettes/vig_0025.jpg",
+  "web": "vignettes/vig_0025.webp",
+  "w": 900,
+  "h": 746,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "381046",
+   "title": "Richmond Seminary, Staten Island, N.Y.",
+   "artist": "Frances Flora Bond Palmer",
+   "date": "1847–48",
+   "url": "https://www.metmuseum.org/art/collection/search/381046",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0026",
+  "kind": "vignette",
+  "file": "vignettes/vig_0026.jpg",
+  "web": "vignettes/vig_0026.webp",
+  "w": 900,
+  "h": 669,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "382948",
+   "title": "Peat Bog, Scotland, part IX, plate 45 from \"Liber Studiorum\"",
+   "artist": "Joseph Mallord William Turner",
+   "date": "April 23, 1812",
+   "url": "https://www.metmuseum.org/art/collection/search/382948",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0027",
+  "kind": "vignette",
+  "file": "vignettes/vig_0027.jpg",
+  "web": "vignettes/vig_0027.webp",
+  "w": 900,
+  "h": 664,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "382957",
+   "title": "Entrance of Calais Harbour, part XI, plate 55 from \"Liber Studiorum\"",
+   "artist": "Joseph Mallord William Turner",
+   "date": "January 1, 1816",
+   "url": "https://www.metmuseum.org/art/collection/search/382957",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0010",
+  "kind": "insect",
+  "file": "insects/ins_0010.png",
+  "web": "insects/ins_0010.webp",
+  "w": 900,
+  "h": 503,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "384116",
+   "title": "An Arrowhead Blue Butterfly and a Scotch Bonnet Sea Shell",
+   "artist": "Balthasar van der Ast",
+   "date": "17th century",
+   "url": "https://www.metmuseum.org/art/collection/search/384116",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0011",
+  "kind": "insect",
+  "file": "insects/ins_0011.png",
+  "web": "insects/ins_0011.webp",
+  "w": 623,
+  "h": 751,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "384116",
+   "title": "An Arrowhead Blue Butterfly and a Scotch Bonnet Sea Shell",
+   "artist": "Balthasar van der Ast",
+   "date": "17th century",
+   "url": "https://www.metmuseum.org/art/collection/search/384116",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0012",
+  "kind": "animal",
+  "file": "animals/ani_0012.png",
+  "web": "animals/ani_0012.webp",
+  "w": 852,
+  "h": 455,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "384514",
+   "title": "Studies of a young goat",
+   "artist": "John Macallan Swan",
+   "date": "19th–20th century",
+   "url": "https://www.metmuseum.org/art/collection/search/384514",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0035",
+  "kind": "bust",
+  "file": "busts/bust_0035.jpg",
+  "web": "busts/bust_0035.webp",
+  "w": 676,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 259,
+   "y": 0,
+   "w": 335,
+   "h": 353
+  },
+  "source": {
+   "api": "met",
+   "objectId": "385241",
+   "title": "Profile Portrait of Miss Wieling",
+   "artist": "Johann Heinrich Wilhelm Tischbein",
+   "date": "late 18th–19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/385241",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0012",
+  "kind": "insect",
+  "file": "insects/ins_0012.png",
+  "web": "insects/ins_0012.webp",
+  "w": 831,
+  "h": 634,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "385463",
+   "title": "Studies of a Blue Beetle and Insects",
+   "artist": "Pieter Holsteyn II",
+   "date": "ca. 1650–60",
+   "url": "https://www.metmuseum.org/art/collection/search/385463",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0013",
+  "kind": "insect",
+  "file": "insects/ins_0013.png",
+  "web": "insects/ins_0013.webp",
+  "w": 468,
+  "h": 526,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "385472",
+   "title": "A Stag Beetle",
+   "artist": "Pierre Joseph Redouté",
+   "date": "",
+   "url": "https://www.metmuseum.org/art/collection/search/385472",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0003",
+  "kind": "botanical",
+  "file": "botanicals/bot_0003.png",
+  "web": "botanicals/bot_0003.webp",
+  "w": 699,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "385749",
+   "title": "Winged passionflower (Passiflora alata)",
+   "artist": "Sydenham Teak Edwards",
+   "date": "1799",
+   "url": "https://www.metmuseum.org/art/collection/search/385749",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0028",
+  "kind": "vignette",
+  "file": "vignettes/vig_0028.jpg",
+  "web": "vignettes/vig_0028.webp",
+  "w": 610,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "386067",
+   "title": "Lyceum of Natural History, New York (front elevation)",
+   "artist": "Alexander Jackson Davis",
+   "date": "1835",
+   "url": "https://www.metmuseum.org/art/collection/search/386067",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0024",
+  "kind": "figure",
+  "file": "figures/fig_0024.png",
+  "web": "figures/fig_0024.webp",
+  "w": 417,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "sepia",
+  "headBox": {
+   "x": 190,
+   "y": 4,
+   "w": 147,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "387235",
+   "title": "Gentleman in a Cape and Plumed Hat Seen from the Back",
+   "artist": "Abraham Bosse",
+   "date": "1629",
+   "url": "https://www.metmuseum.org/art/collection/search/387235",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0025",
+  "kind": "figure",
+  "file": "figures/fig_0025.png",
+  "web": "figures/fig_0025.webp",
+  "w": 431,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "sepia",
+  "headBox": {
+   "x": 74,
+   "y": 6,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "387238",
+   "title": "Gentleman in a Cape and Plumed Hat Seen from the Back",
+   "artist": "Anonymous, French, 17th century",
+   "date": "1629",
+   "url": "https://www.metmuseum.org/art/collection/search/387238",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0036",
+  "kind": "bust",
+  "file": "busts/bust_0036.jpg",
+  "web": "busts/bust_0036.webp",
+  "w": 663,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 236,
+   "y": 187,
+   "w": 166,
+   "h": 234
+  },
+  "source": {
+   "api": "met",
+   "objectId": "387526",
+   "title": "Bust of Minerva",
+   "artist": "Louis Léopold Boilly",
+   "date": "ca. 1798",
+   "url": "https://www.metmuseum.org/art/collection/search/387526",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0029",
+  "kind": "vignette",
+  "file": "vignettes/vig_0029.jpg",
+  "web": "vignettes/vig_0029.webp",
+  "w": 561,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "390322",
+   "title": "Plan of a Washington Monument",
+   "artist": "John William Orr",
+   "date": "1848",
+   "url": "https://www.metmuseum.org/art/collection/search/390322",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0037",
+  "kind": "bust",
+  "file": "busts/bust_0037.jpg",
+  "web": "busts/bust_0037.webp",
+  "w": 660,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 169,
+   "y": 66,
+   "w": 313,
+   "h": 329
+  },
+  "source": {
+   "api": "met",
+   "objectId": "392854",
+   "title": "Bust portrait of Frans Floris",
+   "artist": "Giulio Bonasone",
+   "date": "1531–76",
+   "url": "https://www.metmuseum.org/art/collection/search/392854",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0038",
+  "kind": "bust",
+  "file": "busts/bust_0038.jpg",
+  "web": "busts/bust_0038.webp",
+  "w": 639,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 257,
+   "y": 243,
+   "w": 100,
+   "h": 157
+  },
+  "source": {
+   "api": "met",
+   "objectId": "394539",
+   "title": "Chief Justice John Marshall",
+   "artist": "Asher Brown Durand",
+   "date": "1833",
+   "url": "https://www.metmuseum.org/art/collection/search/394539",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0039",
+  "kind": "bust",
+  "file": "busts/bust_0039.jpg",
+  "web": "busts/bust_0039.webp",
+  "w": 745,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 287,
+   "y": 138,
+   "w": 139,
+   "h": 201
+  },
+  "source": {
+   "api": "met",
+   "objectId": "394542",
+   "title": "Charles Carroll of Carrollton",
+   "artist": "Asher Brown Durand",
+   "date": "1835",
+   "url": "https://www.metmuseum.org/art/collection/search/394542",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0013",
+  "kind": "animal",
+  "file": "animals/ani_0013.png",
+  "web": "animals/ani_0013.webp",
+  "w": 536,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395455",
+   "title": "Milliner Bird (Minnie Doyle), from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395455",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0014",
+  "kind": "animal",
+  "file": "animals/ani_0014.png",
+  "web": "animals/ani_0014.webp",
+  "w": 618,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395457",
+   "title": "Little Dear, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395457",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0015",
+  "kind": "animal",
+  "file": "animals/ani_0015.png",
+  "web": "animals/ani_0015.webp",
+  "w": 619,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395458",
+   "title": "Lark, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395458",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0016",
+  "kind": "animal",
+  "file": "animals/ani_0016.png",
+  "web": "animals/ani_0016.webp",
+  "w": 900,
+  "h": 565,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395459",
+   "title": "Wharf Rat, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395459",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0017",
+  "kind": "animal",
+  "file": "animals/ani_0017.png",
+  "web": "animals/ani_0017.webp",
+  "w": 826,
+  "h": 850,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395460",
+   "title": "Jail Bird, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395460",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0018",
+  "kind": "animal",
+  "file": "animals/ani_0018.png",
+  "web": "animals/ani_0018.webp",
+  "w": 589,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "395462",
+   "title": "Sun Bird (James S. Wallace), from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395462",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0019",
+  "kind": "animal",
+  "file": "animals/ani_0019.png",
+  "web": "animals/ani_0019.webp",
+  "w": 555,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395463",
+   "title": "King Bird (Robert P. King and Alexander Baird), from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395463",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0020",
+  "kind": "animal",
+  "file": "animals/ani_0020.png",
+  "web": "animals/ani_0020.webp",
+  "w": 571,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395464",
+   "title": "Humming Bird (Thomas B. Florence), from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395464",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0021",
+  "kind": "animal",
+  "file": "animals/ani_0021.png",
+  "web": "animals/ani_0021.webp",
+  "w": 537,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395466",
+   "title": "Butcher Birds, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395466",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0022",
+  "kind": "animal",
+  "file": "animals/ani_0022.png",
+  "web": "animals/ani_0022.webp",
+  "w": 900,
+  "h": 561,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "395468",
+   "title": "Vampyr, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395468",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0023",
+  "kind": "animal",
+  "file": "animals/ani_0023.png",
+  "web": "animals/ani_0023.webp",
+  "w": 900,
+  "h": 524,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395472",
+   "title": "Mac-Arel, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395472",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0024",
+  "kind": "animal",
+  "file": "animals/ani_0024.png",
+  "web": "animals/ani_0024.webp",
+  "w": 840,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395474",
+   "title": "Gallows Bird, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395474",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0025",
+  "kind": "animal",
+  "file": "animals/ani_0025.png",
+  "web": "animals/ani_0025.webp",
+  "w": 642,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "395475",
+   "title": "Alms House Bird, from \"The Comic Natural History of the Human Race\"",
+   "artist": "Henry Louis Stephens",
+   "date": "1851",
+   "url": "https://www.metmuseum.org/art/collection/search/395475",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0026",
+  "kind": "figure",
+  "file": "figures/fig_0026.png",
+  "web": "figures/fig_0026.webp",
+  "w": 413,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "sepia",
+  "headBox": {
+   "x": 30,
+   "y": 4,
+   "w": 141,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "395510",
+   "title": "The Dog Barber",
+   "artist": "Henry William Bunbury",
+   "date": "April 25, 1771",
+   "url": "https://www.metmuseum.org/art/collection/search/395510",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0027",
+  "kind": "figure",
+  "file": "figures/fig_0027.png",
+  "web": "figures/fig_0027.webp",
+  "w": 661,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 276,
+   "y": 3,
+   "w": 128,
+   "h": 128
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "395579",
+   "title": "Monkey Dandy, from Monkey-ana, or Men in Miniature",
+   "artist": "Thomas Landseer",
+   "date": "July 1828",
+   "url": "https://www.metmuseum.org/art/collection/search/395579",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0074",
+  "kind": "figure",
+  "file": "figures/fig_0074.png",
+  "web": "figures/fig_0074.webp",
+  "w": 547,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 79,
+   "y": 3,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "397259",
+   "title": "Balthasar, after figure in \"The Adoration of the Magi\" by Jacques Bellange",
+   "artist": "Matthäus Merian the Elder",
+   "date": "ca. 1610–50",
+   "url": "https://www.metmuseum.org/art/collection/search/397259",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0075",
+  "kind": "figure",
+  "file": "figures/fig_0075.png",
+  "web": "figures/fig_0075.webp",
+  "w": 417,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 166,
+   "y": 5,
+   "w": 123,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "397261",
+   "title": "Melchior, after \"Three Magi\" series by Jacques Bellange",
+   "artist": "Matthäus Merian the Elder",
+   "date": "ca. 1610–50",
+   "url": "https://www.metmuseum.org/art/collection/search/397261",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0028",
+  "kind": "figure",
+  "file": "figures/fig_0028.png",
+  "web": "figures/fig_0028.webp",
+  "w": 512,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 154,
+   "y": 4,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "397284",
+   "title": "A gentleman walking forward, with his right arm outstretched and a whip in his left hand, wearing a plumed hat and decorated shoes, from \"The Garden of the French Nobles In Which One Can Pick Up Their Way of Dressing\"",
+   "artist": "Abraham Bosse",
+   "date": "1629",
+   "url": "https://www.metmuseum.org/art/collection/search/397284",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0030",
+  "kind": "vignette",
+  "file": "vignettes/vig_0030.jpg",
+  "web": "vignettes/vig_0030.webp",
+  "w": 900,
+  "h": 701,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "397355",
+   "title": "Harbor Scene",
+   "artist": "Ludolf Backhuysen",
+   "date": "",
+   "url": "https://www.metmuseum.org/art/collection/search/397355",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0031",
+  "kind": "vignette",
+  "file": "vignettes/vig_0031.jpg",
+  "web": "vignettes/vig_0031.webp",
+  "w": 900,
+  "h": 579,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "397650",
+   "title": "Harbor with rising sun, figures in foreground, colonnade on left",
+   "artist": "Claude Lorrain (Claude Gellée)",
+   "date": "ca. 1634",
+   "url": "https://www.metmuseum.org/art/collection/search/397650",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0032",
+  "kind": "vignette",
+  "file": "vignettes/vig_0032.jpg",
+  "web": "vignettes/vig_0032.webp",
+  "w": 900,
+  "h": 608,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "397653",
+   "title": "Harbor with large tower at left, and figures in the foreground",
+   "artist": "Claude Lorrain (Claude Gellée)",
+   "date": "ca. 1635–40",
+   "url": "https://www.metmuseum.org/art/collection/search/397653",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0029",
+  "kind": "figure",
+  "file": "figures/fig_0029.png",
+  "web": "figures/fig_0029.webp",
+  "w": 454,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "sepia",
+  "headBox": {
+   "x": 101,
+   "y": 5,
+   "w": 132,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "398059",
+   "title": "Rabbit Pelt Peddler",
+   "artist": "Anne Claude Philippe de Tubières, comte de Caylus",
+   "date": "1737",
+   "url": "https://www.metmuseum.org/art/collection/search/398059",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0040",
+  "kind": "bust",
+  "file": "busts/bust_0040.jpg",
+  "web": "busts/bust_0040.webp",
+  "w": 723,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 287,
+   "y": 199,
+   "w": 146,
+   "h": 154
+  },
+  "source": {
+   "api": "met",
+   "objectId": "398745",
+   "title": "Portrait of Robert Graves, Printseller",
+   "artist": "Robert Graves",
+   "date": "1827",
+   "url": "https://www.metmuseum.org/art/collection/search/398745",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0030",
+  "kind": "figure",
+  "file": "figures/fig_0030.png",
+  "web": "figures/fig_0030.webp",
+  "w": 691,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 498,
+   "y": 12,
+   "w": 66,
+   "h": 126
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "398882",
+   "title": "Two Women in Day Dresses: Preparatory drawing for a fashion plate from Le Moniteur de la Mode",
+   "artist": "Jules David",
+   "date": "October 19, 1886",
+   "url": "https://www.metmuseum.org/art/collection/search/398882",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0077",
+  "kind": "figure",
+  "file": "figures/fig_0077.png",
+  "web": "figures/fig_0077.webp",
+  "w": 682,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 516,
+   "y": 4,
+   "w": 79,
+   "h": 127
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "399211",
+   "title": "888 from Modes de Paris, Journal des Tailleurs",
+   "artist": "Anonymous, French, 19th century",
+   "date": "1848",
+   "url": "https://www.metmuseum.org/art/collection/search/399211",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0078",
+  "kind": "figure",
+  "file": "figures/fig_0078.png",
+  "web": "figures/fig_0078.webp",
+  "w": 716,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 135,
+   "y": 69,
+   "w": 82,
+   "h": 118
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "399212",
+   "title": "892 from Modes de Paris, Journal des Tailleurs",
+   "artist": "Anonymous, French, 19th century",
+   "date": "1848",
+   "url": "https://www.metmuseum.org/art/collection/search/399212",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0032",
+  "kind": "figure",
+  "file": "figures/fig_0032.png",
+  "web": "figures/fig_0032.webp",
+  "w": 772,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 348,
+   "y": 4,
+   "w": 73,
+   "h": 127
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "399213",
+   "title": "L'Elégant, from \"Journal des Tailleurs\"",
+   "artist": "Anonymous, French, 19th century",
+   "date": "1848",
+   "url": "https://www.metmuseum.org/art/collection/search/399213",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0079",
+  "kind": "figure",
+  "file": "figures/fig_0079.png",
+  "web": "figures/fig_0079.webp",
+  "w": 900,
+  "h": 443,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 310,
+   "y": 3,
+   "w": 45,
+   "h": 62
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "399217",
+   "title": "Le Coquet, No. 22, from \"Journal des Modes Spécial pour Couturières\"",
+   "artist": "Laure Noël",
+   "date": "July 1, 1869",
+   "url": "https://www.metmuseum.org/art/collection/search/399217",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0033",
+  "kind": "figure",
+  "file": "figures/fig_0033.png",
+  "web": "figures/fig_0033.webp",
+  "w": 900,
+  "h": 473,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 239,
+   "y": 2,
+   "w": 62,
+   "h": 66
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "399219",
+   "title": "Six Women Outdoors, No. 676, from \"La Elegancia\"",
+   "artist": "Hélöise Leloir",
+   "date": "1865–66",
+   "url": "https://www.metmuseum.org/art/collection/search/399219",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0080",
+  "kind": "figure",
+  "file": "figures/fig_0080.png",
+  "web": "figures/fig_0080.webp",
+  "w": 469,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 180,
+   "y": 3,
+   "w": 127,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "399866",
+   "title": "Caspar, after Three Magi series by Jacques Bellange",
+   "artist": "Matthäus Merian the Elder",
+   "date": "ca. 1615",
+   "url": "https://www.metmuseum.org/art/collection/search/399866",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0006",
+  "kind": "botanical",
+  "file": "botanicals/bot_0006.png",
+  "web": "botanicals/bot_0006.webp",
+  "w": 544,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "399922",
+   "title": "Study of Capers, Gorse, and a Beetle",
+   "artist": "Maria Sibylla Merian",
+   "date": "1693",
+   "url": "https://www.metmuseum.org/art/collection/search/399922",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0014",
+  "kind": "insect",
+  "file": "insects/ins_0014.png",
+  "web": "insects/ins_0014.webp",
+  "w": 808,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "400112",
+   "title": "A Moth",
+   "artist": "Nicolaas Struyk",
+   "date": "early 18th–mid 18th century",
+   "url": "https://www.metmuseum.org/art/collection/search/400112",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0015",
+  "kind": "insect",
+  "file": "insects/ins_0015.png",
+  "web": "insects/ins_0015.webp",
+  "w": 900,
+  "h": 891,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "400113",
+   "title": "A Butterfly",
+   "artist": "Nicolaas Struyk",
+   "date": "early 18th–mid 18th century",
+   "url": "https://www.metmuseum.org/art/collection/search/400113",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0037",
+  "kind": "insect",
+  "file": "insects/ins_0037.png",
+  "web": "insects/ins_0037.webp",
+  "w": 900,
+  "h": 851,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "400114",
+   "title": "A Dragonfly",
+   "artist": "Nicolaas Struyk",
+   "date": "early 18th–mid 18th century",
+   "url": "https://www.metmuseum.org/art/collection/search/400114",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0016",
+  "kind": "insect",
+  "file": "insects/ins_0016.png",
+  "web": "insects/ins_0016.webp",
+  "w": 887,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "400115",
+   "title": "A Butterfly",
+   "artist": "Nicolaas Struyk",
+   "date": "early 18th–mid 18th century",
+   "url": "https://www.metmuseum.org/art/collection/search/400115",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0017",
+  "kind": "insect",
+  "file": "insects/ins_0017.png",
+  "web": "insects/ins_0017.webp",
+  "w": 900,
+  "h": 844,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "400116",
+   "title": "A Moth",
+   "artist": "Nicolaas Struyk",
+   "date": "early 18th–mid 18th century",
+   "url": "https://www.metmuseum.org/art/collection/search/400116",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0029",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0029.jpg",
+  "web": "ephemeras/eph_0029.webp",
+  "w": 900,
+  "h": 633,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "403169",
+   "title": "Map of Greece, from \"Speculum Romanae Magnificentiae\"",
+   "artist": "Sebastiano di Re",
+   "date": "mid-16th century",
+   "url": "https://www.metmuseum.org/art/collection/search/403169",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0041",
+  "kind": "bust",
+  "file": "busts/bust_0041.jpg",
+  "web": "busts/bust_0041.webp",
+  "w": 900,
+  "h": 868,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 309,
+   "y": 25,
+   "w": 310,
+   "h": 326
+  },
+  "source": {
+   "api": "met",
+   "objectId": "408991",
+   "title": "Portrait of Pierre Antoine de Boyer du Suquet",
+   "artist": "Charles Nicolas Cochin II",
+   "date": "1776",
+   "url": "https://www.metmuseum.org/art/collection/search/408991",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0018",
+  "kind": "insect",
+  "file": "insects/ins_0018.png",
+  "web": "insects/ins_0018.webp",
+  "w": 645,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "412718",
+   "title": "Sulfur Peacock Moth from \"The Butterflies and Moths of America\" Part 2",
+   "artist": "Louis Prang & Co.",
+   "date": "1862",
+   "url": "https://www.metmuseum.org/art/collection/search/412718",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0033",
+  "kind": "vignette",
+  "file": "vignettes/vig_0033.jpg",
+  "web": "vignettes/vig_0033.webp",
+  "w": 900,
+  "h": 678,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "415942",
+   "title": "A \"Jib and Mainsail\" Race",
+   "artist": "Currier & Ives",
+   "date": "1882",
+   "url": "https://www.metmuseum.org/art/collection/search/415942",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0034",
+  "kind": "vignette",
+  "file": "vignettes/vig_0034.jpg",
+  "web": "vignettes/vig_0034.webp",
+  "w": 900,
+  "h": 648,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "416136",
+   "title": "The Season of Blossoms",
+   "artist": "Frances Flora Bond Palmer",
+   "date": "1865",
+   "url": "https://www.metmuseum.org/art/collection/search/416136",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0035",
+  "kind": "vignette",
+  "file": "vignettes/vig_0035.jpg",
+  "web": "vignettes/vig_0035.webp",
+  "w": 900,
+  "h": 691,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "421903",
+   "title": "New England Hotel, Broadway, Adjoining Trinity Church Yard, New York",
+   "artist": "Frances Flora Bond Palmer",
+   "date": "ca. 1848",
+   "url": "https://www.metmuseum.org/art/collection/search/421903",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0036",
+  "kind": "vignette",
+  "file": "vignettes/vig_0036.jpg",
+  "web": "vignettes/vig_0036.webp",
+  "w": 900,
+  "h": 640,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "423196",
+   "title": "Tableau des portraits a la Mode (Plate of Fashion Portraits)",
+   "artist": "Pierre François Courtois",
+   "date": "1760–61",
+   "url": "https://www.metmuseum.org/art/collection/search/423196",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0042",
+  "kind": "bust",
+  "file": "busts/bust_0042.jpg",
+  "web": "busts/bust_0042.webp",
+  "w": 763,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 253,
+   "y": 110,
+   "w": 252,
+   "h": 265
+  },
+  "source": {
+   "api": "met",
+   "objectId": "424193",
+   "title": "Portrait Busts of Two Women",
+   "artist": "James Archer",
+   "date": "1850–90",
+   "url": "https://www.metmuseum.org/art/collection/search/424193",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0030",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0030.jpg",
+  "web": "ephemeras/eph_0030.webp",
+  "w": 900,
+  "h": 629,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "425820",
+   "title": "Horizontal Panel with a Row of Flowers Above a Frieze with a Battle Scene in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\"",
+   "artist": "Nicolas Cochin",
+   "date": "1645",
+   "url": "https://www.metmuseum.org/art/collection/search/425820",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0031",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0031.jpg",
+  "web": "ephemeras/eph_0031.webp",
+  "w": 900,
+  "h": 584,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "425838",
+   "title": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\"",
+   "artist": "Nicolas Cochin",
+   "date": "1645",
+   "url": "https://www.metmuseum.org/art/collection/search/425838",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0043",
+  "kind": "bust",
+  "file": "busts/bust_0043.jpg",
+  "web": "busts/bust_0043.webp",
+  "w": 579,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 217,
+   "y": 159,
+   "w": 183,
+   "h": 193
+  },
+  "source": {
+   "api": "met",
+   "objectId": "427474",
+   "title": "Bust-length Portrait of Thomas Nast",
+   "artist": "Thomas Nast",
+   "date": "ca. 1888",
+   "url": "https://www.metmuseum.org/art/collection/search/427474",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0044",
+  "kind": "bust",
+  "file": "busts/bust_0044.jpg",
+  "web": "busts/bust_0044.webp",
+  "w": 722,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 279,
+   "y": 186,
+   "w": 187,
+   "h": 222
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "430046",
+   "title": "Profile portrait of a woman facing left (Constanze Håuser?)",
+   "artist": "Anonymous, German",
+   "date": "1773–1820",
+   "url": "https://www.metmuseum.org/art/collection/search/430046",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0045",
+  "kind": "bust",
+  "file": "busts/bust_0045.jpg",
+  "web": "busts/bust_0045.webp",
+  "w": 670,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 265,
+   "y": 232,
+   "w": 158,
+   "h": 166
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "430048",
+   "title": "Unidentified profile portrait, man facing left",
+   "artist": "Anonymous, German",
+   "date": "1773–1820",
+   "url": "https://www.metmuseum.org/art/collection/search/430048",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0046",
+  "kind": "bust",
+  "file": "busts/bust_0046.jpg",
+  "web": "busts/bust_0046.webp",
+  "w": 689,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 250,
+   "y": 268,
+   "w": 156,
+   "h": 164
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "430050",
+   "title": "Unidentified profile portrait, older woman facing right",
+   "artist": "Anonymous, German",
+   "date": "1773–1820",
+   "url": "https://www.metmuseum.org/art/collection/search/430050",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0047",
+  "kind": "bust",
+  "file": "busts/bust_0047.jpg",
+  "web": "busts/bust_0047.webp",
+  "w": 751,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 251,
+   "y": 86,
+   "w": 257,
+   "h": 271
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "430051",
+   "title": "Unidentified profile portrait, woman facing left",
+   "artist": "Anonymous, German",
+   "date": "1773–1820",
+   "url": "https://www.metmuseum.org/art/collection/search/430051",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0032",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0032.jpg",
+  "web": "ephemeras/eph_0032.webp",
+  "w": 900,
+  "h": 690,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "587676",
+   "title": "Map of Alexandria",
+   "artist": "Georg Braun",
+   "date": "1575",
+   "url": "https://www.metmuseum.org/art/collection/search/587676",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0037",
+  "kind": "vignette",
+  "file": "vignettes/vig_0037.jpg",
+  "web": "vignettes/vig_0037.webp",
+  "w": 900,
+  "h": 561,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "626142",
+   "title": "Boÿers (Dutch Cargo Ship)",
+   "artist": "Wenceslaus Hollar",
+   "date": "1647",
+   "url": "https://www.metmuseum.org/art/collection/search/626142",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0048",
+  "kind": "bust",
+  "file": "busts/bust_0048.jpg",
+  "web": "busts/bust_0048.webp",
+  "w": 678,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 231,
+   "y": 130,
+   "w": 229,
+   "h": 241
+  },
+  "source": {
+   "api": "met",
+   "objectId": "626356",
+   "title": "Washington Allston",
+   "artist": "Alonzo Chappel",
+   "date": "1863",
+   "url": "https://www.metmuseum.org/art/collection/search/626356",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0049",
+  "kind": "bust",
+  "file": "busts/bust_0049.jpg",
+  "web": "busts/bust_0049.webp",
+  "w": 794,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 247,
+   "y": 118,
+   "w": 259,
+   "h": 273
+  },
+  "source": {
+   "api": "met",
+   "objectId": "639781",
+   "title": "Portrait, bust of an old man",
+   "artist": "Baron Dominique Vivant Denon",
+   "date": "1800–1820",
+   "url": "https://www.metmuseum.org/art/collection/search/639781",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0038",
+  "kind": "vignette",
+  "file": "vignettes/vig_0038.jpg",
+  "web": "vignettes/vig_0038.webp",
+  "w": 711,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "643326",
+   "title": "Monument of Mary, Queen of Scots (from \"The History of England\")",
+   "artist": "John George Landseer",
+   "date": "November 25, 1795",
+   "url": "https://www.metmuseum.org/art/collection/search/643326",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0034",
+  "kind": "figure",
+  "file": "figures/fig_0034.png",
+  "web": "figures/fig_0034.webp",
+  "w": 558,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "bw",
+  "headBox": {
+   "x": 197,
+   "y": 3,
+   "w": 123,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "647774",
+   "title": "Biedermeier Fashion",
+   "artist": "Urban Janke",
+   "date": "1908",
+   "url": "https://www.metmuseum.org/art/collection/search/647774",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0039",
+  "kind": "vignette",
+  "file": "vignettes/vig_0039.jpg",
+  "web": "vignettes/vig_0039.webp",
+  "w": 900,
+  "h": 541,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "654212",
+   "title": "View in Fisheye perspective of a Hall with Columns and Cross Rib Vaulting",
+   "artist": "Hans Pesser",
+   "date": "ca. 1610–20",
+   "url": "https://www.metmuseum.org/art/collection/search/654212",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0050",
+  "kind": "bust",
+  "file": "busts/bust_0050.jpg",
+  "web": "busts/bust_0050.webp",
+  "w": 704,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 171,
+   "y": 24,
+   "w": 280,
+   "h": 295
+  },
+  "source": {
+   "api": "met",
+   "objectId": "654265",
+   "title": "Bust-length Portrait of Torquato Tasso",
+   "artist": "Federico Zuccaro (Zuccari)",
+   "date": "ca. 1594",
+   "url": "https://www.metmuseum.org/art/collection/search/654265",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0062",
+  "kind": "bust",
+  "file": "busts/bust_0062.jpg",
+  "web": "busts/bust_0062.webp",
+  "w": 564,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 216,
+   "y": 216,
+   "w": 113,
+   "h": 150
+  },
+  "source": {
+   "api": "met",
+   "objectId": "685459",
+   "title": "[Charles Calverley]",
+   "artist": "Thompson Gallery",
+   "date": "1864–66",
+   "url": "https://www.metmuseum.org/art/collection/search/685459",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0051",
+  "kind": "bust",
+  "file": "busts/bust_0051.jpg",
+  "web": "busts/bust_0051.webp",
+  "w": 659,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 227,
+   "y": 152,
+   "w": 182,
+   "h": 192
+  },
+  "source": {
+   "api": "met",
+   "objectId": "697205",
+   "title": "Portrait of Gerard Edema",
+   "artist": "Mary Beale",
+   "date": "ca. 1680",
+   "url": "https://www.metmuseum.org/art/collection/search/697205",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0007",
+  "kind": "botanical",
+  "file": "botanicals/bot_0007.png",
+  "web": "botanicals/bot_0007.webp",
+  "w": 418,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "697702",
+   "title": "Erica Fulgida",
+   "artist": "Pierre Joseph Redouté",
+   "date": "1813",
+   "url": "https://www.metmuseum.org/art/collection/search/697702",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0052",
+  "kind": "bust",
+  "file": "busts/bust_0052.jpg",
+  "web": "busts/bust_0052.webp",
+  "w": 791,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 239,
+   "y": 28,
+   "w": 317,
+   "h": 334
+  },
+  "source": {
+   "api": "met",
+   "objectId": "701398",
+   "title": "Mary, Princess of Orange",
+   "artist": "William Faithorne the Elder",
+   "date": "1641–50",
+   "url": "https://www.metmuseum.org/art/collection/search/701398",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0040",
+  "kind": "vignette",
+  "file": "vignettes/vig_0040.jpg",
+  "web": "vignettes/vig_0040.webp",
+  "w": 900,
+  "h": 562,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "704471",
+   "title": "Soldiers Loading Barges for a Large Sailing Ship Along the Coast",
+   "artist": "Dirk Langendijk",
+   "date": "1784",
+   "url": "https://www.metmuseum.org/art/collection/search/704471",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0041",
+  "kind": "vignette",
+  "file": "vignettes/vig_0041.jpg",
+  "web": "vignettes/vig_0041.webp",
+  "w": 507,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "712628",
+   "title": "A Design for a Monument Dedicated to the Memory of Mr. Henderson",
+   "artist": "Thomas Prattent",
+   "date": "1786",
+   "url": "https://www.metmuseum.org/art/collection/search/712628",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0019",
+  "kind": "insect",
+  "file": "insects/ins_0019.png",
+  "web": "insects/ins_0019.webp",
+  "w": 900,
+  "h": 502,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "727031",
+   "title": "Butterfly, from the Novelties series (N228, Type 3) issued by Kinney Bros.",
+   "artist": "Kinney Brothers Tobacco Company",
+   "date": "1889",
+   "url": "https://www.metmuseum.org/art/collection/search/727031",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0042",
+  "kind": "vignette",
+  "file": "vignettes/vig_0042.jpg",
+  "web": "vignettes/vig_0042.webp",
+  "w": 843,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "732736",
+   "title": "Landscape with the Flight into Egypt",
+   "artist": "Anonymous, French, 17th century",
+   "date": "17th century",
+   "url": "https://www.metmuseum.org/art/collection/search/732736",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0035",
+  "kind": "figure",
+  "file": "figures/fig_0035.png",
+  "web": "figures/fig_0035.webp",
+  "w": 646,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 405,
+   "y": 3,
+   "w": 126,
+   "h": 127
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "738482",
+   "title": "[Studio Portrait: Two Women Standing Beside a Table, Hong Kong]",
+   "artist": "Pun-Lun",
+   "date": "1860s–70s",
+   "url": "https://www.metmuseum.org/art/collection/search/738482",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0036",
+  "kind": "figure",
+  "file": "figures/fig_0036.png",
+  "web": "figures/fig_0036.webp",
+  "w": 419,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 123,
+   "y": 4,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764795",
+   "title": "[Studio Portrait: Self-Portrait Wearing Plaid Pants and Overcoat]",
+   "artist": "Pierre Petit",
+   "date": "1860s",
+   "url": "https://www.metmuseum.org/art/collection/search/764795",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0037",
+  "kind": "figure",
+  "file": "figures/fig_0037.png",
+  "web": "figures/fig_0037.webp",
+  "w": 597,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 275,
+   "y": 42,
+   "w": 122,
+   "h": 122
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764796",
+   "title": "[Studio Portrait: Eugène Delacroix Seated in Chair]",
+   "artist": "Pierre Petit",
+   "date": "1850s–60s",
+   "url": "https://www.metmuseum.org/art/collection/search/764796",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0038",
+  "kind": "figure",
+  "file": "figures/fig_0038.png",
+  "web": "figures/fig_0038.webp",
+  "w": 622,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 404,
+   "y": 4,
+   "w": 110,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764797",
+   "title": "[Studio Portrait: Woman Seated Beside a Table, Singapore]",
+   "artist": "G. R. Lambert & Co.",
+   "date": "1870s",
+   "url": "https://www.metmuseum.org/art/collection/search/764797",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0039",
+  "kind": "figure",
+  "file": "figures/fig_0039.png",
+  "web": "figures/fig_0039.webp",
+  "w": 443,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 62,
+   "y": 5,
+   "w": 126,
+   "h": 126
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764798",
+   "title": "[Studio Portrait: Woman Seated Beside a Table Leaning on Elbow]",
+   "artist": "C.D. Fredricks & Co.",
+   "date": "1860s–70s",
+   "url": "https://www.metmuseum.org/art/collection/search/764798",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0040",
+  "kind": "figure",
+  "file": "figures/fig_0040.png",
+  "web": "figures/fig_0040.webp",
+  "w": 460,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 153,
+   "y": 6,
+   "w": 144,
+   "h": 125
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764799",
+   "title": "[Studio Portrait: Actor in Costume Wearing Long Beard, Japan]",
+   "artist": "Unknown",
+   "date": "1860s–70s",
+   "url": "https://www.metmuseum.org/art/collection/search/764799",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0041",
+  "kind": "figure",
+  "file": "figures/fig_0041.png",
+  "web": "figures/fig_0041.webp",
+  "w": 477,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 56,
+   "y": 4,
+   "w": 128,
+   "h": 128
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "764800",
+   "title": "[Studio Portrait: Two Men each Holding Bamboo, Singapore]",
+   "artist": "John Thomson",
+   "date": "1860s",
+   "url": "https://www.metmuseum.org/art/collection/search/764800",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0042",
+  "kind": "figure",
+  "file": "figures/fig_0042.png",
+  "web": "figures/fig_0042.webp",
+  "w": 535,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 118,
+   "y": 3,
+   "w": 87,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764811",
+   "title": "[Studio Portrait: Woman Standing Wearing Shawl, Brazil]",
+   "artist": "Christiano Junior",
+   "date": "1864–66",
+   "url": "https://www.metmuseum.org/art/collection/search/764811",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0043",
+  "kind": "figure",
+  "file": "figures/fig_0043.png",
+  "web": "figures/fig_0043.webp",
+  "w": 536,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 216,
+   "y": 7,
+   "w": 143,
+   "h": 124
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764821",
+   "title": "[Studio Portrait: Man Seated on Wooden Box ]",
+   "artist": "Juan de la Cruz Palomino",
+   "date": "1860s–70s",
+   "url": "https://www.metmuseum.org/art/collection/search/764821",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0043",
+  "kind": "vignette",
+  "file": "vignettes/vig_0043.jpg",
+  "web": "vignettes/vig_0043.webp",
+  "w": 900,
+  "h": 576,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "764822",
+   "title": "[Two Story Building with One Story Flat Roofed Building in Front, Lima]",
+   "artist": "Villroy L. Richardson",
+   "date": "1862–75",
+   "url": "https://www.metmuseum.org/art/collection/search/764822",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0044",
+  "kind": "vignette",
+  "file": "vignettes/vig_0044.jpg",
+  "web": "vignettes/vig_0044.webp",
+  "w": 900,
+  "h": 599,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "764823",
+   "title": "[Mining Site Chincha Islands, Lima]",
+   "artist": "José Negretti",
+   "date": "1860s–70s",
+   "url": "https://www.metmuseum.org/art/collection/search/764823",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0045",
+  "kind": "figure",
+  "file": "figures/fig_0045.png",
+  "web": "figures/fig_0045.webp",
+  "w": 370,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 112,
+   "y": 3,
+   "w": 144,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "764835",
+   "title": "[Woman, Tangier, Morocco]",
+   "artist": "A. Chauffy",
+   "date": "1850s–80s",
+   "url": "https://www.metmuseum.org/art/collection/search/764835",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0045",
+  "kind": "vignette",
+  "file": "vignettes/vig_0045.jpg",
+  "web": "vignettes/vig_0045.webp",
+  "w": 900,
+  "h": 677,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "764915",
+   "title": "Clipper Ship \"Sovereign of the Seas\"",
+   "artist": "Eliphalet M. Brown Jr.",
+   "date": "1852",
+   "url": "https://www.metmuseum.org/art/collection/search/764915",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0046",
+  "kind": "vignette",
+  "file": "vignettes/vig_0046.jpg",
+  "web": "vignettes/vig_0046.webp",
+  "w": 900,
+  "h": 698,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "765755",
+   "title": "Clipper Ship \"Great Republic\"",
+   "artist": "James E. Buttersworth",
+   "date": "1853",
+   "url": "https://www.metmuseum.org/art/collection/search/765755",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0047",
+  "kind": "vignette",
+  "file": "vignettes/vig_0047.jpg",
+  "web": "vignettes/vig_0047.webp",
+  "w": 900,
+  "h": 714,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "766524",
+   "title": "Clipper Ship \"Great Republic\"",
+   "artist": "Joseph B. Smith",
+   "date": "1855",
+   "url": "https://www.metmuseum.org/art/collection/search/766524",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0048",
+  "kind": "vignette",
+  "file": "vignettes/vig_0048.jpg",
+  "web": "vignettes/vig_0048.webp",
+  "w": 900,
+  "h": 672,
+  "cutout": false,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "769236",
+   "title": "Clipper Ship \"Flying Cloud\"",
+   "artist": "James E. Buttersworth",
+   "date": "1852",
+   "url": "https://www.metmuseum.org/art/collection/search/769236",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0049",
+  "kind": "vignette",
+  "file": "vignettes/vig_0049.jpg",
+  "web": "vignettes/vig_0049.webp",
+  "w": 900,
+  "h": 685,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "769239",
+   "title": "Clipper Ship \"Racer\"",
+   "artist": "James E. Buttersworth",
+   "date": "1854",
+   "url": "https://www.metmuseum.org/art/collection/search/769239",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0039",
+  "kind": "insect",
+  "file": "insects/ins_0039.png",
+  "web": "insects/ins_0039.webp",
+  "w": 900,
+  "h": 662,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "770198",
+   "title": "Dragonfly brooch",
+   "artist": "Edgar Bense",
+   "date": "ca. 1890",
+   "url": "https://www.metmuseum.org/art/collection/search/770198",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0050",
+  "kind": "vignette",
+  "file": "vignettes/vig_0050.jpg",
+  "web": "vignettes/vig_0050.webp",
+  "w": 900,
+  "h": 632,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "811642",
+   "title": "Harbor and Fishermen",
+   "artist": "Joseph Vernet",
+   "date": "ca. 1760",
+   "url": "https://www.metmuseum.org/art/collection/search/811642",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0051",
+  "kind": "vignette",
+  "file": "vignettes/vig_0051.jpg",
+  "web": "vignettes/vig_0051.webp",
+  "w": 900,
+  "h": 700,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "811656",
+   "title": "Harbor Scene",
+   "artist": "Joseph Vernet",
+   "date": "ca. 1764",
+   "url": "https://www.metmuseum.org/art/collection/search/811656",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0052",
+  "kind": "vignette",
+  "file": "vignettes/vig_0052.jpg",
+  "web": "vignettes/vig_0052.webp",
+  "w": 900,
+  "h": 660,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "813290",
+   "title": "Royal Mail Steam Ship, Europa",
+   "artist": "Nathaniel Currier",
+   "date": "1849",
+   "url": "https://www.metmuseum.org/art/collection/search/813290",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0033",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0033.jpg",
+  "web": "ephemeras/eph_0033.webp",
+  "w": 900,
+  "h": 547,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "813875",
+   "title": "Blackwork Designs with Flowers, Plate 6 from a Series of Blackwork Ornaments combined with Figures, Birds, Animals and Flowers",
+   "artist": "Meinert Gelijs",
+   "date": "after 1622",
+   "url": "https://www.metmuseum.org/art/collection/search/813875",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0034",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0034.jpg",
+  "web": "ephemeras/eph_0034.webp",
+  "w": 900,
+  "h": 582,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "815781",
+   "title": "Trade Card",
+   "artist": "Anonymous, British, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/815781",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0035",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0035.jpg",
+  "web": "ephemeras/eph_0035.webp",
+  "w": 586,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "816423",
+   "title": "Trade Card for James Heskett, Map, Print, and Chart Seller",
+   "artist": "Anonymous, British, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/816423",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0036",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0036.jpg",
+  "web": "ephemeras/eph_0036.webp",
+  "w": 900,
+  "h": 726,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "819467",
+   "title": "Trade Card for G.F. Cruchley, Map Seller and Publisher",
+   "artist": "Anonymous, British, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/819467",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0037",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0037.jpg",
+  "web": "ephemeras/eph_0037.webp",
+  "w": 900,
+  "h": 808,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "819582",
+   "title": "Trade Card for Robert Sayer & Co., Map, Chart and Printsellers",
+   "artist": "Anonymous, British, late 18th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/819582",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0038",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0038.jpg",
+  "web": "ephemeras/eph_0038.webp",
+  "w": 900,
+  "h": 609,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "819595",
+   "title": "Trade Card for Danby, Engraver",
+   "artist": "Anonymous, British, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/819595",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0039",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0039.jpg",
+  "web": "ephemeras/eph_0039.webp",
+  "w": 900,
+  "h": 612,
+  "cutout": false,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "819655",
+   "title": "Trade Card for Cross, Engraver, Print and Map Publisher",
+   "artist": "Anonymous, British, 19th century",
+   "date": "19th century",
+   "url": "https://www.metmuseum.org/art/collection/search/819655",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0053",
+  "kind": "bust",
+  "file": "busts/bust_0053.jpg",
+  "web": "busts/bust_0053.webp",
+  "w": 780,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 277,
+   "y": 45,
+   "w": 301,
+   "h": 317
+  },
+  "source": {
+   "api": "met",
+   "objectId": "822740",
+   "title": "The Late Horace Vernet, from \"Illustrated London News\"",
+   "artist": "Nadar",
+   "date": "January 31, 1863",
+   "url": "https://www.metmuseum.org/art/collection/search/822740",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0054",
+  "kind": "bust",
+  "file": "busts/bust_0054.jpg",
+  "web": "busts/bust_0054.webp",
+  "w": 658,
+  "h": 900,
+  "cutout": false,
+  "tone": "bw",
+  "headBox": {
+   "x": 279,
+   "y": 294,
+   "w": 86,
+   "h": 117
+  },
+  "source": {
+   "api": "met",
+   "objectId": "823861",
+   "title": "Portrait of Edgar Degas in profile",
+   "artist": "Michel Manzi",
+   "date": "1886",
+   "url": "https://www.metmuseum.org/art/collection/search/823861",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0055",
+  "kind": "bust",
+  "file": "busts/bust_0055.jpg",
+  "web": "busts/bust_0055.webp",
+  "w": 807,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 287,
+   "y": 90,
+   "w": 260,
+   "h": 274
+  },
+  "source": {
+   "api": "met",
+   "objectId": "824759",
+   "title": "Profile Portrait of a Woman",
+   "artist": "Augustin de Saint-Aubin",
+   "date": "ca. 1780–82",
+   "url": "https://www.metmuseum.org/art/collection/search/824759",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0046",
+  "kind": "figure",
+  "file": "figures/fig_0046.png",
+  "web": "figures/fig_0046.webp",
+  "w": 242,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "bw",
+  "headBox": {
+   "x": 79,
+   "y": 3,
+   "w": 95,
+   "h": 128
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "825924",
+   "title": "Silhouette of an unknown man in a top hat and tails",
+   "artist": "William Henry Brown",
+   "date": "1828–83",
+   "url": "https://www.metmuseum.org/art/collection/search/825924",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0056",
+  "kind": "bust",
+  "file": "busts/bust_0056.jpg",
+  "web": "busts/bust_0056.webp",
+  "w": 606,
+  "h": 900,
+  "cutout": false,
+  "tone": "color",
+  "headBox": {
+   "x": 240,
+   "y": 153,
+   "w": 167,
+   "h": 262
+  },
+  "silhouette": true,
+  "source": {
+   "api": "met",
+   "objectId": "826287",
+   "title": "Silhouette of an unknown young man in a top hat",
+   "artist": "G. Bonner",
+   "date": "1840–45",
+   "url": "https://www.metmuseum.org/art/collection/search/826287",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0009",
+  "kind": "botanical",
+  "file": "botanicals/bot_0009.png",
+  "web": "botanicals/bot_0009.webp",
+  "w": 496,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "830252",
+   "title": "The Brown Havannah Pine",
+   "artist": "George Brookshaw",
+   "date": "1807",
+   "url": "https://www.metmuseum.org/art/collection/search/830252",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0028",
+  "kind": "animal",
+  "file": "animals/ani_0028.png",
+  "web": "animals/ani_0028.webp",
+  "w": 784,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "830271",
+   "title": "Courly à tête nu, du Cap de bonne Esperance (Bald Ibis from the Cape of Good Hope), from \"Histoire Naturelle de Oiseaux\"",
+   "artist": "François Nicolas Martinet",
+   "date": "1770–86",
+   "url": "https://www.metmuseum.org/art/collection/search/830271",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0029",
+  "kind": "animal",
+  "file": "animals/ani_0029.png",
+  "web": "animals/ani_0029.webp",
+  "w": 666,
+  "h": 900,
+  "cutout": true,
+  "tone": "bw",
+  "source": {
+   "api": "met",
+   "objectId": "830272",
+   "title": "L'Aigrette (Egret), from \"Histoire Naturelle de Oiseaux\"",
+   "artist": "François Nicolas Martinet",
+   "date": "1770–86",
+   "url": "https://www.metmuseum.org/art/collection/search/830272",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0030",
+  "kind": "animal",
+  "file": "animals/ani_0030.png",
+  "web": "animals/ani_0030.webp",
+  "w": 488,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "830273",
+   "title": "Autruche (Ostrich), from \"Histoire Naturelle de Oiseaux\"",
+   "artist": "François Nicolas Martinet",
+   "date": "1770–86",
+   "url": "https://www.metmuseum.org/art/collection/search/830273",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0048",
+  "kind": "figure",
+  "file": "figures/fig_0048.png",
+  "web": "figures/fig_0048.webp",
+  "w": 598,
+  "h": 900,
+  "cutout": true,
+  "pose": "back",
+  "tone": "sepia",
+  "headBox": {
+   "x": 308,
+   "y": 6,
+   "w": 103,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "837923",
+   "title": "Gallery of Fashion, vol.II: April 1 1795 - March 1, 1796",
+   "artist": "Nicolaus Heideloff",
+   "date": "1794–1802",
+   "url": "https://www.metmuseum.org/art/collection/search/837923",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0051",
+  "kind": "figure",
+  "file": "figures/fig_0051.png",
+  "web": "figures/fig_0051.webp",
+  "w": 437,
+  "h": 900,
+  "cutout": true,
+  "pose": "side",
+  "tone": "sepia",
+  "headBox": {
+   "x": 85,
+   "y": 4,
+   "w": 113,
+   "h": 128
+  },
+  "source": {
+   "api": "met",
+   "objectId": "837926",
+   "title": "Gallery of Fashion, vol. V: April 1, 1798 - March 1 1799",
+   "artist": "Nicolaus Heideloff",
+   "date": "1794–1802",
+   "url": "https://www.metmuseum.org/art/collection/search/837926",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0052",
+  "kind": "figure",
+  "file": "figures/fig_0052.png",
+  "web": "figures/fig_0052.webp",
+  "w": 510,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 279,
+   "y": 5,
+   "w": 110,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "837927",
+   "title": "Gallery of Fashion, vol. VI: April 1 1799 - March 1 1800",
+   "artist": "Nicolaus Heideloff",
+   "date": "1794–1802",
+   "url": "https://www.metmuseum.org/art/collection/search/837927",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0053",
+  "kind": "figure",
+  "file": "figures/fig_0053.png",
+  "web": "figures/fig_0053.webp",
+  "w": 434,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 71,
+   "y": 5,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "837928",
+   "title": "Gallery of Fashion, vol. VII: April 1 1800 - March 1 1801",
+   "artist": "Nicolaus Heideloff",
+   "date": "1794–1802",
+   "url": "https://www.metmuseum.org/art/collection/search/837928",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0054",
+  "kind": "figure",
+  "file": "figures/fig_0054.png",
+  "web": "figures/fig_0054.webp",
+  "w": 512,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 260,
+   "y": 6,
+   "w": 90,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "837929",
+   "title": "Gallery of Fashion, vol. VIII (April 1, 1801 - March 1 1802)",
+   "artist": "Nicolaus Heideloff",
+   "date": "1794–1802",
+   "url": "https://www.metmuseum.org/art/collection/search/837929",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0020",
+  "kind": "insect",
+  "file": "insects/ins_0020.png",
+  "web": "insects/ins_0020.webp",
+  "w": 546,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "849844",
+   "title": "Butterfly card from the Butterflies and Moths of America series",
+   "artist": "Louis Prang & Co.",
+   "date": "1862–69",
+   "url": "https://www.metmuseum.org/art/collection/search/849844",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0021",
+  "kind": "insect",
+  "file": "insects/ins_0021.png",
+  "web": "insects/ins_0021.webp",
+  "w": 558,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "849847",
+   "title": "Acraea Vesta butterfly card from the Butterflies and Moths of America series",
+   "artist": "Louis Prang & Co.",
+   "date": "1862–69",
+   "url": "https://www.metmuseum.org/art/collection/search/849847",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0022",
+  "kind": "insect",
+  "file": "insects/ins_0022.png",
+  "web": "insects/ins_0022.webp",
+  "w": 667,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "849848",
+   "title": "Tiger Moth card from the Butterflies and Moths of America series",
+   "artist": "Louis Prang & Co.",
+   "date": "1862–69",
+   "url": "https://www.metmuseum.org/art/collection/search/849848",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ins_0023",
+  "kind": "insect",
+  "file": "insects/ins_0023.png",
+  "web": "insects/ins_0023.webp",
+  "w": 673,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "849849",
+   "title": "Cynthia Cenone butterfly card from the Butterflies and Moths of America series",
+   "artist": "Louis Prang & Co.",
+   "date": "1862–69",
+   "url": "https://www.metmuseum.org/art/collection/search/849849",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0055",
+  "kind": "figure",
+  "file": "figures/fig_0055.png",
+  "web": "figures/fig_0055.webp",
+  "w": 658,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 290,
+   "y": 4,
+   "w": 126,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "875848",
+   "title": "Frances Clalin Clayton",
+   "artist": "Samuel Masury",
+   "date": "1864",
+   "url": "https://www.metmuseum.org/art/collection/search/875848",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0056",
+  "kind": "figure",
+  "file": "figures/fig_0056.png",
+  "web": "figures/fig_0056.webp",
+  "w": 694,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 286,
+   "y": 5,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "875850",
+   "title": "Frances Clalin Clayton",
+   "artist": "Samuel Masury",
+   "date": "1864",
+   "url": "https://www.metmuseum.org/art/collection/search/875850",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0057",
+  "kind": "bust",
+  "file": "busts/bust_0057.jpg",
+  "web": "busts/bust_0057.webp",
+  "w": 621,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 240,
+   "y": 194,
+   "w": 144,
+   "h": 237
+  },
+  "source": {
+   "api": "met",
+   "objectId": "888676",
+   "title": "Antoine Perrenot de Granvelle",
+   "artist": "Lambert Suavius",
+   "date": "1554",
+   "url": "https://www.metmuseum.org/art/collection/search/888676",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0058",
+  "kind": "bust",
+  "file": "busts/bust_0058.jpg",
+  "web": "busts/bust_0058.webp",
+  "w": 753,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 255,
+   "y": 121,
+   "w": 243,
+   "h": 256
+  },
+  "source": {
+   "api": "met",
+   "objectId": "888698",
+   "title": "Portrait of Sinan the Great",
+   "artist": "Dominicus Custos",
+   "date": "1595",
+   "url": "https://www.metmuseum.org/art/collection/search/888698",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "vig_0053",
+  "kind": "vignette",
+  "file": "vignettes/vig_0053.jpg",
+  "web": "vignettes/vig_0053.webp",
+  "w": 900,
+  "h": 570,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "893085",
+   "title": "Four Sailing Ships on Choppy Seas",
+   "artist": "Robert Willemsz de Baudous",
+   "date": "ca. 1603–30",
+   "url": "https://www.metmuseum.org/art/collection/search/893085",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0031",
+  "kind": "animal",
+  "file": "animals/ani_0031.png",
+  "web": "animals/ani_0031.webp",
+  "w": 795,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "897310",
+   "title": "Head of a Cat (Middle Size)",
+   "artist": "Wenceslaus Hollar",
+   "date": "1646",
+   "url": "https://www.metmuseum.org/art/collection/search/897310",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "eph_0040",
+  "kind": "ephemera",
+  "file": "ephemeras/eph_0040.jpg",
+  "web": "ephemeras/eph_0040.webp",
+  "w": 687,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "902521",
+   "title": "Plainte Moresque",
+   "artist": "Edouard Manet",
+   "date": "1866",
+   "url": "https://www.metmuseum.org/art/collection/search/902521",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0032",
+  "kind": "animal",
+  "file": "animals/ani_0032.png",
+  "web": "animals/ani_0032.webp",
+  "w": 491,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "905160",
+   "title": "Sitting Dog",
+   "artist": "Jean-Baptiste-Louis Guy",
+   "date": "1874",
+   "url": "https://www.metmuseum.org/art/collection/search/905160",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0033",
+  "kind": "animal",
+  "file": "animals/ani_0033.png",
+  "web": "animals/ani_0033.webp",
+  "w": 862,
+  "h": 900,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "905166",
+   "title": "Sitting Dog",
+   "artist": "Johann Adam Klein",
+   "date": "ca. 1832",
+   "url": "https://www.metmuseum.org/art/collection/search/905166",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0034",
+  "kind": "animal",
+  "file": "animals/ani_0034.png",
+  "web": "animals/ani_0034.webp",
+  "w": 900,
+  "h": 413,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "905177",
+   "title": "Sleeping Dog",
+   "artist": "Pieter Gerardus van Os",
+   "date": "1821",
+   "url": "https://www.metmuseum.org/art/collection/search/905177",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0057",
+  "kind": "figure",
+  "file": "figures/fig_0057.png",
+  "web": "figures/fig_0057.webp",
+  "w": 368,
+  "h": 873,
+  "cutout": true,
+  "pose": "back",
+  "tone": "color",
+  "headBox": {
+   "x": 182,
+   "y": 7,
+   "w": 116,
+   "h": 123
+  },
+  "source": {
+   "api": "met",
+   "objectId": "905918",
+   "title": "A Back View of the Cape",
+   "artist": "James Gillray",
+   "date": "March 23, 1792",
+   "url": "https://www.metmuseum.org/art/collection/search/905918",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bot_0010",
+  "kind": "botanical",
+  "file": "botanicals/bot_0010.png",
+  "web": "botanicals/bot_0010.webp",
+  "w": 659,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "908466",
+   "title": "A tulip, a butterfly of the species Arctia caja (garden tiger moth), and a beetle (possibly a longhorn)",
+   "artist": "Barbara Regina Dietzsch",
+   "date": "ca. 1750-60",
+   "url": "https://www.metmuseum.org/art/collection/search/908466",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0059",
+  "kind": "bust",
+  "file": "busts/bust_0059.jpg",
+  "web": "busts/bust_0059.webp",
+  "w": 717,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 242,
+   "y": 13,
+   "w": 331,
+   "h": 348
+  },
+  "source": {
+   "api": "met",
+   "objectId": "910733",
+   "title": "Portrait of a woman as a shepherdess",
+   "artist": "Crispijn de Passe the Younger",
+   "date": "1635-40",
+   "url": "https://www.metmuseum.org/art/collection/search/910733",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0060",
+  "kind": "bust",
+  "file": "busts/bust_0060.jpg",
+  "web": "busts/bust_0060.webp",
+  "w": 678,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 223,
+   "y": 150,
+   "w": 225,
+   "h": 237
+  },
+  "source": {
+   "api": "met",
+   "objectId": "910748",
+   "title": "Portrait of a Boy",
+   "artist": "Bonaventure Louis Prévost",
+   "date": "1795",
+   "url": "https://www.metmuseum.org/art/collection/search/910748",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0059",
+  "kind": "figure",
+  "file": "figures/fig_0059.png",
+  "web": "figures/fig_0059.webp",
+  "w": 527,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 120,
+   "y": 3,
+   "w": 114,
+   "h": 106
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917755",
+   "title": "[Merchants' Carnival Portrait: Bakery, Lebanon, Pennsylvania]",
+   "artist": "C. S. Roshon",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917755",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0060",
+  "kind": "figure",
+  "file": "figures/fig_0060.png",
+  "web": "figures/fig_0060.webp",
+  "w": 431,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 126,
+   "y": 5,
+   "w": 146,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917756",
+   "title": "[Merchants' Carnival Portrait: Congress of Beauty, Chicago, Illinois]",
+   "artist": "Robinson and Roe",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917756",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0061",
+  "kind": "figure",
+  "file": "figures/fig_0061.png",
+  "web": "figures/fig_0061.webp",
+  "w": 344,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 186,
+   "y": 5,
+   "w": 103,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917763",
+   "title": "[Merchants' Carnival Portrait: The Frankfort Evening News, Frankfort, Indiana]",
+   "artist": "D. Gilbert",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917763",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0064",
+  "kind": "figure",
+  "file": "figures/fig_0064.png",
+  "web": "figures/fig_0064.webp",
+  "w": 340,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 128,
+   "y": 6,
+   "w": 109,
+   "h": 126
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917802",
+   "title": "[Merchants' Carnival Portrait: Carpenter/Builder, Gaylord, Michigan]",
+   "artist": "Arthur William Brown",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917802",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0067",
+  "kind": "figure",
+  "file": "figures/fig_0067.png",
+  "web": "figures/fig_0067.webp",
+  "w": 324,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 103,
+   "y": 3,
+   "w": 94,
+   "h": 127
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917868",
+   "title": "[Merchants' Carnival Portrait: with Fabric Swatches, Huntington, Indiana]",
+   "artist": "Houser",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917868",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0068",
+  "kind": "figure",
+  "file": "figures/fig_0068.png",
+  "web": "figures/fig_0068.webp",
+  "w": 578,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "sepia",
+  "headBox": {
+   "x": 314,
+   "y": 4,
+   "w": 99,
+   "h": 126
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917870",
+   "title": "[Merchants' Carnival Portrait: Hardware Store, Tipton, Iowa]",
+   "artist": "Leitzinger",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917870",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0069",
+  "kind": "figure",
+  "file": "figures/fig_0069.png",
+  "web": "figures/fig_0069.webp",
+  "w": 526,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 98,
+   "y": 3,
+   "w": 90,
+   "h": 110
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917876",
+   "title": "[Merchants' Carnival Portrait: Buckholdt & Son Hardware, Charleroi, Pennsylvania]",
+   "artist": "E. E. Highgate",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917876",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "bust_0061",
+  "kind": "bust",
+  "file": "busts/bust_0061.jpg",
+  "web": "busts/bust_0061.webp",
+  "w": 593,
+  "h": 900,
+  "cutout": false,
+  "tone": "sepia",
+  "headBox": {
+   "x": 200,
+   "y": 135,
+   "w": 190,
+   "h": 206
+  },
+  "source": {
+   "api": "met",
+   "objectId": "917933",
+   "title": "[Woman]",
+   "artist": "Sears",
+   "date": "1880s–1890s",
+   "url": "https://www.metmuseum.org/art/collection/search/917933",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0035",
+  "kind": "animal",
+  "file": "animals/ani_0035.png",
+  "web": "animals/ani_0035.webp",
+  "w": 585,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918293",
+   "title": "Bay-breasted Warbler. Setophaga castanea [current name: Bay-breasted Warbler. Dendroica castanea], from \"The Birds of America,\" plate 69 [later LXIX]",
+   "artist": "John James Audubon",
+   "date": "1829",
+   "url": "https://www.metmuseum.org/art/collection/search/918293",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0036",
+  "kind": "animal",
+  "file": "animals/ani_0036.png",
+  "web": "animals/ani_0036.webp",
+  "w": 692,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918304",
+   "title": "Whip-Poor-Will. Caprimulgus vociferus [current name: Eastern Whip-poor-will. Caprimulgus vociferus], from \"The Birds of America,\" plate 82 [later LXXXII]",
+   "artist": "John James Audubon",
+   "date": "1830",
+   "url": "https://www.metmuseum.org/art/collection/search/918304",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0037",
+  "kind": "animal",
+  "file": "animals/ani_0037.png",
+  "web": "animals/ani_0037.webp",
+  "w": 637,
+  "h": 900,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918305",
+   "title": "Solitary Flycatcher. Vireo solitarius [current name: Blue-headed Vireo. Vireo solitarius], from \"The Birds of America,\" plate 28 [later XXVIII]",
+   "artist": "John James Audubon",
+   "date": "1827–38",
+   "url": "https://www.metmuseum.org/art/collection/search/918305",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0038",
+  "kind": "animal",
+  "file": "animals/ani_0038.png",
+  "web": "animals/ani_0038.webp",
+  "w": 549,
+  "h": 882,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918306",
+   "title": "Traill's Flycatcher. Muscicapa trailii [current name: Willow Flycatcher. Empidonax traillii], from \"The Birds of America,\" plate 45 [later XLV]",
+   "artist": "John James Audubon",
+   "date": "1828",
+   "url": "https://www.metmuseum.org/art/collection/search/918306",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0040",
+  "kind": "animal",
+  "file": "animals/ani_0040.png",
+  "web": "animals/ani_0040.webp",
+  "w": 514,
+  "h": 846,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918308",
+   "title": "Marsh Wren. Troglodytes palustris [current name: Marsh Wren. Cistothorus palustris], from \"The Birds of America,\" plate 98 [misnumbered, should be 100] [later C]",
+   "artist": "John James Audubon",
+   "date": "1830",
+   "url": "https://www.metmuseum.org/art/collection/search/918308",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0041",
+  "kind": "animal",
+  "file": "animals/ani_0041.png",
+  "web": "animals/ani_0041.webp",
+  "w": 587,
+  "h": 859,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918309",
+   "title": "Hooded Warbler. Sylvia mitrata [current name: Hooded Warbler. Wilsonia citrina], from \"The Birds of America,\" plate CX",
+   "artist": "John James Audubon",
+   "date": "1831",
+   "url": "https://www.metmuseum.org/art/collection/search/918309",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0042",
+  "kind": "animal",
+  "file": "animals/ani_0042.png",
+  "web": "animals/ani_0042.webp",
+  "w": 571,
+  "h": 836,
+  "cutout": true,
+  "tone": "sepia",
+  "source": {
+   "api": "met",
+   "objectId": "918310",
+   "title": "Pewee or Pewit Flycatcher. Muscicapa fusca [current name: Eastern Phoebe. Sayornis phoebe], from \"The Birds of America,\" plate CXX",
+   "artist": "John James Audubon",
+   "date": "1827–38",
+   "url": "https://www.metmuseum.org/art/collection/search/918310",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "ani_0043",
+  "kind": "animal",
+  "file": "animals/ani_0043.png",
+  "web": "animals/ani_0043.webp",
+  "w": 871,
+  "h": 408,
+  "cutout": true,
+  "tone": "color",
+  "source": {
+   "api": "met",
+   "objectId": "918311",
+   "title": "Prairie Titlark. Anthus hypogaeus [current name: American Pipit. Anthus rubescens], from \"The Birds of America,\" plate 80 [later LXXX]",
+   "artist": "John James Audubon",
+   "date": "1830",
+   "url": "https://www.metmuseum.org/art/collection/search/918311",
+   "license": "CC0"
+  }
+ },
+ {
+  "id": "fig_0072",
+  "kind": "figure",
+  "file": "figures/fig_0072.png",
+  "web": "figures/fig_0072.webp",
+  "w": 653,
+  "h": 900,
+  "cutout": true,
+  "pose": "front",
+  "tone": "color",
+  "headBox": {
+   "x": 79,
+   "y": 4,
+   "w": 104,
+   "h": 125
+  },
+  "group": true,
+  "source": {
+   "api": "met",
+   "objectId": "919442",
+   "title": "The Latest Fashions, Expressly Designed and Prepared for Le Moniteur de la Mode",
+   "artist": "A. Bodin",
+   "date": "June 1, 1887",
+   "url": "https://www.metmuseum.org/art/collection/search/919442",
+   "license": "CC0"
+  }
+ }
+]

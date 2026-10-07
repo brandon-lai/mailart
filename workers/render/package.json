@@ -1,0 +1,17 @@
+{
+  "name": "@mailart/render-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@mailart/db": "workspace:*",
+    "@mailart/emails": "workspace:*",
+    "@mailart/envelope": "workspace:*",
+    "aws4fetch": "1.0.20",
+    "playwright": "1.63.0"
+  }
+}

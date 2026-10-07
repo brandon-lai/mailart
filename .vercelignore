@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules
+.next
+.venv
+tests
+assets/raw
+assets/library/masters
+assets/review
+storage

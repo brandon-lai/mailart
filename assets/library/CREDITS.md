@@ -1,0 +1,310 @@
+# Credits
+
+Every image in the envelope library comes from a museum open-access programme and is
+public domain or CC0. Cut-outs and crops were made by `scripts/assets/process.py`.
+
+- `bust_0001` — *Simon Vouet*, Robert van Voerst (Flemish, 1597-1636/37) (1630/36). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/100
+- `eph_0001` — *Tulip and Rose*, Designed by William Morris (English, 1834–1896) (Design 1876). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/102142
+- `fig_0001` — *Abigail Chesebrough (Mrs. Alexander Grant)*, Joseph Blackburn (English, active in British colonies in North America and Bermuda, 1752–64) (1754). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/102777
+- `bust_0002` — *Self-Portrait*, Walter Shirlaw (American, 1838–1909) (1878). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/11
+- `bust_0003` — *Hyacinthe Rigaud*, Gérard Edelinck (French, born Flanders, 1640-1707) (1698). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/110
+- `bust_0004` — *Martin Vanden Bogaert Desjardins*, Gérard Edelinck (French, born Flanders, 1640-1707) (n.d.). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/111
+- `vig_0001` — *Harbor Scene with a Lighthouse*, Claude Lorrain (1638–41). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/133358
+- `eph_0002` — *Skirt Panel for a Woman's Sack Gown*, Designed by Anna Maria Garthwaite (English, 1690–1763) (Design March 1, 1749). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/143682
+- `bust_0005` — *Louis Phélypeaux de la Vrillière*, Robert Nanteuil (1662). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/145
+- `eph_0003` — *Sampler (Map)*, England (c. 1800). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/15132
+- `vig_0002` — *The Bay of Marseille, Seen from L'Estaque*, Paul Cezanne (French, 1839–1906) (c. 1885). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/16487
+- `ins_0001` — *A Moth, Butterflies, and Bees, from Diversae Insectorum...Figurae*, Wenceslaus Hollar (after 1644). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/18642
+- `eph_0004` — *Fragment*, Italy (16th century). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/1890
+- `ani_0001` — *King Vulture*, Meissen Porcelain Manufactory (1710–present) (1734). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/189715
+- `eph_0005` — *Fragment*, Italy (1575/1625). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/1905
+- `eph_0006` — *Fragment*, Italy (1575/1600). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/1908
+- `bust_0006` — *Portrait of B. Reading, Engraver*, Samuel de Wilde (June 16, 1798). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/192264
+- `eph_0007` — *Plan of Chicago, Chicago, Illinois, Diagram Showing City Growth*, Daniel Hudson Burnham (American, 1846-1912) (1909). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/196347
+- `fig_0002` — *Woman Seen from Behind, from Figures de modes*, Jean Antoine Watteau (c. 1710). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/220683
+- `bust_0007` — *Hermine David*, Jules Pascin (1907). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/22194
+- `fig_0003` — *Untitled ("I Sell the Shadow to Support the Substance")*, Sojourner Truth, American (c. 1797-1883) (1864-65). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/238249
+- `fig_0004` — *Portrait of Brahms*, Johann Reiner (1862/80). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/23888
+- `bust_0008` — *Portrait of Edouard Molé*, Robert Nanteuil (1653). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/24
+- `bust_0009` — *Julia Jackson*, Julia Margaret Cameron (1867). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/29230
+- `bust_0010` — *Portrait of Miss Constance MacDonald Gilchrist*, Elliott & Fry (April 15, 1877). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/30095
+- `bust_0011` — *General George Armstrong Custer*, Brady's National Photographic Portrait Galleries (1860/76). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/31707
+- `vig_0003` — *Library, Yale University*, Peck Brothers (n.d.). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33476
+- `vig_0004` — *Untitled*, R. F.  Adams (c. 1865). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33492
+- `vig_0005` — *Goat Island, Lighthouse*, Black & Case (active 1864–67) (1864/67). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33496
+- `vig_0006` — *Bunker Hill Monument*, Allen (1875/1900). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33500
+- `vig_0007` — *Old Fort*, James Wallace Black (1959/74). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33502
+- `vig_0008` — *Untitled (Man at Niagara Falls)*, Rockwood (n.d.). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33504
+- `vig_0009` — *Railway Suspension Bridge, Niagara Falls*, S. Barnett (19th century). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/33523
+- `eph_0008` — *Windrush*, Designed by William Morris (English, 1834–1896) (Design 1883, made 1917–25). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/39146
+- `eph_0009` — *Corncockle*, Designed by William Morris (English, 1834–1896) (Design 1883, made 1917–25). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/39157
+- `bust_0012` — *Portrait of the Engraver Baquoy*, André Dutertre (c. 1820). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/39958
+- `ani_0002` — *The Elephant*, Martin Schongauer (c. 1485). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/3997
+- `eph_0010` — *Ornament with Owl Mocked by Day Birds*, Martin Schongauer (c. 1474). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/4016
+- `vig_0010` — *Four-Master and Two Three-Masters Anchored near a Fortified Island with a Lighthouse, from The Sailing Vessels*, Frans Huys (Flemish, c. 1522-1562) (c. 1560–62, published 1665). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/45453
+- `bust_0013` — *Portrait Bust of a Woman with a Large Collar, from Perfect School to Learn How to Draw the Entire Human Body (English translation)*, Luca Ciamberlano (Italian, c. 1580-c. 1641) (n.d.). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/46
+- `fig_0005` — *Mrs. George Swinton (Elizabeth Ebsworth)*, John Singer Sargent (American, 1856–1925) (1897). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/4749
+- `eph_0011` — *Panel*, Design in the style of Courtois (French, active c. 1732–1733) (1732/33). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/54125
+- `bust_0014` — *Anne of Austria, Queen of France*, Robert Nanteuil (French, 1623-1678) (1660). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/56
+- `bust_0015` — *Portrait of a Sixty-year-old Woman, from Recueil d'estampes d'après les plus célèbres tableaux de la Galerie Royale de Dresde*, Pieter Tanjé (Dutch, 1706-1761) (c. 1757). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/58
+- `bust_0016` — *Pierre Dupuis, Painter to the King*, Antoine Masson (French, 1636-1700) (1663). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/60
+- `vig_0011` — *Rocks at the Lighthouse, Biarritz*, Joaquín Sorolla y Bastida (Spanish, 1863-1923) (1906). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/66144
+- `eph_0012` — *Panel (Furnishing Fabric)*, Printed at Bannister Hall Print Works (English, active 1799-1840) (c. 1815). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/6652
+- `eph_0013` — *Panel (Furnishing Fabric)*, Printed at Bannister Hall Print Works (English, active 1799-1840) (c. 1815). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/6655
+- `eph_0014` — *Panel*, Printed at Bannister Hall Print Works (English, active 1799-1840) (c. 1815). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/6658
+- `ani_0003` — *Owl*, Bow Porcelain Factory (c. 1760). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/71160
+- `eph_0015` — *Map of North America (Handkerchief)*, Engraved by R. Gray (Scottish, 1811) after Robert Wilkinson (1804) (1811). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/77855
+- `fig_0006` — *Dorothea and Francesca*, Cecilia Beaux (American, 1855–1942) (1898). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/80499
+- `bust_0017` — *Self-Portrait*, Vincent van Gogh (Dutch, 1853–1890) (1887). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/80607
+- `fig_0007` — *Lame Beggar Asking for Alms, from T is al verwart-gaern (It's already confusing)*, Pieter Jansz Quast (n.d.). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/81
+- `bust_0018` — *Portrait of an Artist*, Follower of Frans Hals (Dutch, 1582–1666) (1644). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/862
+- `eph_0016` — *Panel (Furnishing Fabric)*, Printed and Manufactured by Lancaster Prints (1856). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/9415
+- `fig_0009` — *A Mexican Vaquero*, Frederic Remington (American, 1861–1909) (1890). Art Institute of Chicago, CC0. https://www.artic.edu/artworks/97907
+- `bust_0019` — *Christabel*, Julia Margaret Cameron (1866). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/268709
+- `fig_0010` — *Lady Ruthven*, Hill and Adamson (ca. 1845). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/282021
+- `fig_0011` — *Raharla, Minister to the Queen*, Désiré Charnay (1863). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/283172
+- `fig_0012` — *[Cornelia Van Ness Roosevelt]*, Mathew B. Brady (ca. 1857). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/283185
+- `fig_0013` — *Lewis Powell [alias Lewis Payne]*, Alexander Gardner (April 27, 1865). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/283201
+- `fig_0014` — *Countess Greffulhe*, Otto Wegener (1899). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/283242
+- `bust_0020` — *Vittorio Emanuele II*, Cesare Bernieri (1867). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/285802
+- `eph_0017` — *[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]*, William Henry Fox Talbot (1839). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/289191
+- `eph_0018` — *[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]*, William Henry Fox Talbot (1839). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/289201
+- `eph_0019` — *[Manuscript Letter from William-Fox Strangways to Antonio Bertoloni]*, William Thomas Horner Fox-Strangways (1839). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/289207
+- `eph_0020` — *[Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni]*, William Henry Fox Talbot (1840). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/289218
+- `fig_0015` — *Sergeant John Lincoln Clem, The Drummer Boy of Chickamauga*, Morse & Peaslee, Gallery of the Cumberland (ca. 1864). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/301985
+- `fig_0016` — *Wilson, Branded Slave from New Orleans*, Charles Paxson (1863). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/302361
+- `bust_0021` — *Portrait Bust of Mademoiselle Marcelle Lender*, Henri de Toulouse-Lautrec (1895). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/334125
+- `ins_0024` — *Studies of Fruits, Insects and Shells*, Georg Flegel (late 16th–mid-17th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/334930
+- `ins_0025` — *Studies of Fruits, Insects and Shells*, Georg Flegel (late 16th–mid-17th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/334930
+- `eph_0021` — *Design for a Title Page for Sheet Music*, Max Klinger (late 19th–early 20th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/335422
+- `eph_0022` — *Design for a Title Page Sheet Music*, Anonymous, German, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/335773
+- `vig_0012` — *Landscape with a Double Spruce*, Albrecht Altdorfer (ca. 1521–22). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/336259
+- `vig_0013` — *Nocturne*, James McNeill Whistler (1879–80). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/337065
+- `eph_0023` — *Pink and Rose*, William Morris (ca. 1890). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/337071
+- `fig_0017` — *Florentine Woman Wearing a Butterfly Cap and Holding a Hand Warmer*, Jean-Baptiste Greuze (1755). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/337252
+- `bust_0022` — *Portrait of Charles Baudelaire in Profile*, Edouard Manet (1862–67). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/337552
+- `bot_0002` — *Four Tulips: Boter man (Butter Man), Joncker (Nobleman), Grote geplumaceerde (The Great Plumed One), and Voorwint (With the Wind)*, Jacob Marrel (ca. 1635–45). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/337769
+- `bust_0023` — *Bust-Length Portrait of a Woman (recto); Bust-Length Study of a Girl (verso)*, Agostino Carracci (1577–1602). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/338405
+- `vig_0014` — *Four-master and Two Three-masters Anchored near a Fortified Island, from "The Sailing Vessels"*, Pieter Bruegel the Elder (1561–65). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/338712
+- `fig_0019` — *Boy Chasing a Butterfly*, Guercino (Giovanni Francesco Barbieri) (1591–1666). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/339007
+- `ani_0006` — *Monkey*, Georges Seurat (1884). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/339754
+- `fig_0020` — *Back View of a Roman Servant Boy*, François André Vincent (1771–75). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/339824
+- `bust_0024` — *Portrait of Pietro Aretino*, Marcantonio Raimondi (ca. 1517–20). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/342704
+- `vig_0015` — *View of New York from Brooklyn Heights*, Frances Flora Bond Palmer (1849). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/344030
+- `eph_0024` — *Trade Card*, Jules-Edmond-Charles Lachaise (January 1835). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/345220
+- `bust_0025` — *Historiae Venetae. Libri XII*, Cardinal Pietro Bembo (1551). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/345852
+- `eph_0025` — *Habitus variarum orbis gentium / Omnium pene Europae, Asiae, Aphricae atque Americae Gentium Habitus*, Abraham de Bruyn (1581). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/346232
+- `fig_0022` — *Back View of Standing Woman*, Alexandre Laemlein (1830–71). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/346958
+- `vig_0016` — *View of Vienne on the Rhone*, Hendrick (Cornelisz) Vroom (ca. 1587–89). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/348313
+- `bust_0026` — *Bust-Length Portrait of an Ecclesiastic*, Carletto Caliari (16th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/352282
+- `ani_0009` — *The Favorite Cat*, Nathaniel Currier (1838–48). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/357184
+- `eph_0026` — *The Celestial Map- Northern Hemisphere*, Albrecht Dürer (1515). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/358366
+- `bust_0027` — *Édouard Manet, Bust-Length Portrait*, Edgar Degas (ca. 1868). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/358782
+- `ani_0010` — *Study of a Jaguar*, John Macallan Swan (1874–1910). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/359244
+- `vig_0017` — *Sailing Vessels at Wilders Plads, Copenhagen*, Christoffer Wilhelm Eckersberg (1830). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/359511
+- `vig_0018` — *Harbor Scene with Rising Sun*, Claude Lorrain (Claude Gellée) (1634). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/360049
+- `ani_0011` — *White dog*, Wenceslaus Hollar (1649). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/360154
+- `ins_0002` — *Two moths and six Insects*, Wenceslaus Hollar (1645). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/360158
+- `ins_0003` — *Two moths and six Insects*, Wenceslaus Hollar (1645). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/360158
+- `ins_0004` — *Two moths and six Insects*, Wenceslaus Hollar (1645). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/360158
+- `vig_0019` — *Boÿers (Dutch Cargo Ship)*, Wenceslaus Hollar (1647). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361527
+- `bust_0028` — *Philipp Herbert, Earl of Pembroke*, Wenceslaus Hollar (1625–77). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361537
+- `ins_0026` — *Six Insects*, Wenceslaus Hollar (1646). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361542
+- `ins_0006` — *A moth, three butterflies and two beetles*, Wenceslaus Hollar (1646). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361545
+- `ins_0007` — *A moth, three butterflies and two beetles*, Wenceslaus Hollar (1646). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361545
+- `ins_0008` — *A moth, three butterflies and two beetles*, Wenceslaus Hollar (1646). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361545
+- `bust_0029` — *Head of young man wearing hat in profile to right*, Wenceslaus Hollar (1648). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/361635
+- `bust_0030` — *Portrait of Joannes Neyen, General of the Order of Franciscan Friars, Ambassador in Trier*, Jan Muller (1608). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/362164
+- `vig_0020` — *The smaller harbor, called the Porto di Ripetta (Veduta del Porto di Ripetta)*, Giovanni Battista Piranesi (ca. 1753). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/363902
+- `fig_0023` — *Portrait of Louis-Philippe, Duc d'Orléans, on Horseback*, Jean-Baptiste Joseph Delafosse (1763). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/363934
+- `ins_0028` — *Insects, Butterflies, and a Grasshopper*, Jan van Kessel (1664). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/364117
+- `ins_0029` — *Insects, Butterflies, and a Grasshopper*, Jan van Kessel (1664). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/364117
+- `ins_0030` — *Insects, Butterflies, and a Grasshopper*, Jan van Kessel (1664). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/364117
+- `ins_0031` — *Insects, Butterflies, and a Grasshopper*, Jan van Kessel (1664). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/364117
+- `bust_0031` — *Oval, bust-length portrait study of a young man*, Joseph van Aken (ca. 1740–60). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366763
+- `ins_0032` — *Insects, Butterflies, and a Dragonfly*, Jan van Kessel (1662). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366820
+- `ins_0033` — *Insects, Butterflies, and a Dragonfly*, Jan van Kessel (1662). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366820
+- `ins_0034` — *Insects, Butterflies, and a Dragonfly*, Jan van Kessel (1662). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366820
+- `ins_0035` — *Insects, Butterflies, and a Dragonfly*, Jan van Kessel (1662). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366820
+- `ins_0036` — *Insects, Butterflies, and a Dragonfly*, Jan van Kessel (1662). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/366820
+- `bust_0033` — *Portrait of Bartholomeus Spranger*, Jan Muller (1597). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/374022
+- `bust_0034` — *Portrait of Maurits, Prince of Orange*, Jan Muller (1608). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/374047
+- `vig_0021` — *Monument to Johann Christian Bach*, Francesco Bartolozzi (March 10, 1782). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/377216
+- `vig_0022` — *The Champions of the Mississippi – "A Race for the Buckhorns"*, Frances Flora Bond Palmer (1866). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/380480
+- `vig_0023` — *View of the City and Harbour of New York taken from Mount Pitt, the Seat of John R. Livingston, Esq.*, Charles Balthazar Julien Févret de Saint-Mémin (1796). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/380735
+- `eph_0027` — *The City of New York: Longworth's Explanatory Map and Plan*, David Longworth (1817). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/380748
+- `eph_0028` — *Coaching to Pelham (sheet music cover)*, American Music Publishing Company (1876). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/380952
+- `vig_0024` — *Evening, New York Harbor*, Henry Farrer (1884). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/381008
+- `vig_0025` — *Richmond Seminary, Staten Island, N.Y.*, Frances Flora Bond Palmer (1847–48). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/381046
+- `vig_0026` — *Peat Bog, Scotland, part IX, plate 45 from "Liber Studiorum"*, Joseph Mallord William Turner (April 23, 1812). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/382948
+- `vig_0027` — *Entrance of Calais Harbour, part XI, plate 55 from "Liber Studiorum"*, Joseph Mallord William Turner (January 1, 1816). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/382957
+- `ins_0010` — *An Arrowhead Blue Butterfly and a Scotch Bonnet Sea Shell*, Balthasar van der Ast (17th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/384116
+- `ins_0011` — *An Arrowhead Blue Butterfly and a Scotch Bonnet Sea Shell*, Balthasar van der Ast (17th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/384116
+- `ani_0012` — *Studies of a young goat*, John Macallan Swan (19th–20th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/384514
+- `bust_0035` — *Profile Portrait of Miss Wieling*, Johann Heinrich Wilhelm Tischbein (late 18th–19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/385241
+- `ins_0012` — *Studies of a Blue Beetle and Insects*, Pieter Holsteyn II (ca. 1650–60). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/385463
+- `ins_0013` — *A Stag Beetle*, Pierre Joseph Redouté. The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/385472
+- `bot_0003` — *Winged passionflower (Passiflora alata)*, Sydenham Teak Edwards (1799). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/385749
+- `vig_0028` — *Lyceum of Natural History, New York (front elevation)*, Alexander Jackson Davis (1835). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/386067
+- `fig_0024` — *Gentleman in a Cape and Plumed Hat Seen from the Back*, Abraham Bosse (1629). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/387235
+- `fig_0025` — *Gentleman in a Cape and Plumed Hat Seen from the Back*, Anonymous, French, 17th century (1629). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/387238
+- `bust_0036` — *Bust of Minerva*, Louis Léopold Boilly (ca. 1798). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/387526
+- `vig_0029` — *Plan of a Washington Monument*, John William Orr (1848). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/390322
+- `bust_0037` — *Bust portrait of Frans Floris*, Giulio Bonasone (1531–76). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/392854
+- `bust_0038` — *Chief Justice John Marshall*, Asher Brown Durand (1833). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/394539
+- `bust_0039` — *Charles Carroll of Carrollton*, Asher Brown Durand (1835). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/394542
+- `ani_0013` — *Milliner Bird (Minnie Doyle), from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395455
+- `ani_0014` — *Little Dear, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395457
+- `ani_0015` — *Lark, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395458
+- `ani_0016` — *Wharf Rat, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395459
+- `ani_0017` — *Jail Bird, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395460
+- `ani_0018` — *Sun Bird (James S. Wallace), from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395462
+- `ani_0019` — *King Bird (Robert P. King and Alexander Baird), from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395463
+- `ani_0020` — *Humming Bird (Thomas B. Florence), from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395464
+- `ani_0021` — *Butcher Birds, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395466
+- `ani_0022` — *Vampyr, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395468
+- `ani_0023` — *Mac-Arel, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395472
+- `ani_0024` — *Gallows Bird, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395474
+- `ani_0025` — *Alms House Bird, from "The Comic Natural History of the Human Race"*, Henry Louis Stephens (1851). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395475
+- `fig_0026` — *The Dog Barber*, Henry William Bunbury (April 25, 1771). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395510
+- `fig_0027` — *Monkey Dandy, from Monkey-ana, or Men in Miniature*, Thomas Landseer (July 1828). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/395579
+- `fig_0074` — *Balthasar, after figure in "The Adoration of the Magi" by Jacques Bellange*, Matthäus Merian the Elder (ca. 1610–50). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397259
+- `fig_0075` — *Melchior, after "Three Magi" series by Jacques Bellange*, Matthäus Merian the Elder (ca. 1610–50). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397261
+- `fig_0028` — *A gentleman walking forward, with his right arm outstretched and a whip in his left hand, wearing a plumed hat and decorated shoes, from "The Garden of the French Nobles In Which One Can Pick Up Their Way of Dressing"*, Abraham Bosse (1629). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397284
+- `vig_0030` — *Harbor Scene*, Ludolf Backhuysen. The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397355
+- `vig_0031` — *Harbor with rising sun, figures in foreground, colonnade on left*, Claude Lorrain (Claude Gellée) (ca. 1634). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397650
+- `vig_0032` — *Harbor with large tower at left, and figures in the foreground*, Claude Lorrain (Claude Gellée) (ca. 1635–40). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/397653
+- `fig_0029` — *Rabbit Pelt Peddler*, Anne Claude Philippe de Tubières, comte de Caylus (1737). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/398059
+- `bust_0040` — *Portrait of Robert Graves, Printseller*, Robert Graves (1827). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/398745
+- `fig_0030` — *Two Women in Day Dresses: Preparatory drawing for a fashion plate from Le Moniteur de la Mode*, Jules David (October 19, 1886). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/398882
+- `fig_0077` — *888 from Modes de Paris, Journal des Tailleurs*, Anonymous, French, 19th century (1848). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399211
+- `fig_0078` — *892 from Modes de Paris, Journal des Tailleurs*, Anonymous, French, 19th century (1848). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399212
+- `fig_0032` — *L'Elégant, from "Journal des Tailleurs"*, Anonymous, French, 19th century (1848). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399213
+- `fig_0079` — *Le Coquet, No. 22, from "Journal des Modes Spécial pour Couturières"*, Laure Noël (July 1, 1869). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399217
+- `fig_0033` — *Six Women Outdoors, No. 676, from "La Elegancia"*, Hélöise Leloir (1865–66). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399219
+- `fig_0080` — *Caspar, after Three Magi series by Jacques Bellange*, Matthäus Merian the Elder (ca. 1615). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399866
+- `bot_0006` — *Study of Capers, Gorse, and a Beetle*, Maria Sibylla Merian (1693). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/399922
+- `ins_0014` — *A Moth*, Nicolaas Struyk (early 18th–mid 18th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/400112
+- `ins_0015` — *A Butterfly*, Nicolaas Struyk (early 18th–mid 18th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/400113
+- `ins_0037` — *A Dragonfly*, Nicolaas Struyk (early 18th–mid 18th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/400114
+- `ins_0016` — *A Butterfly*, Nicolaas Struyk (early 18th–mid 18th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/400115
+- `ins_0017` — *A Moth*, Nicolaas Struyk (early 18th–mid 18th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/400116
+- `eph_0029` — *Map of Greece, from "Speculum Romanae Magnificentiae"*, Sebastiano di Re (mid-16th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/403169
+- `bust_0041` — *Portrait of Pierre Antoine de Boyer du Suquet*, Charles Nicolas Cochin II (1776). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/408991
+- `ins_0018` — *Sulfur Peacock Moth from "The Butterflies and Moths of America" Part 2*, Louis Prang & Co. (1862). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/412718
+- `vig_0033` — *A "Jib and Mainsail" Race*, Currier & Ives (1882). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/415942
+- `vig_0034` — *The Season of Blossoms*, Frances Flora Bond Palmer (1865). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/416136
+- `vig_0035` — *New England Hotel, Broadway, Adjoining Trinity Church Yard, New York*, Frances Flora Bond Palmer (ca. 1848). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/421903
+- `vig_0036` — *Tableau des portraits a la Mode (Plate of Fashion Portraits)*, Pierre François Courtois (1760–61). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/423196
+- `bust_0042` — *Portrait Busts of Two Women*, James Archer (1850–90). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/424193
+- `eph_0030` — *Horizontal Panel with a Row of Flowers Above a Frieze with a Battle Scene in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"*, Nicolas Cochin (1645). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/425820
+- `eph_0031` — *Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from "Livre Nouveau de Fleurs Tres-Util"*, Nicolas Cochin (1645). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/425838
+- `bust_0043` — *Bust-length Portrait of Thomas Nast*, Thomas Nast (ca. 1888). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/427474
+- `bust_0044` — *Profile portrait of a woman facing left (Constanze Håuser?)*, Anonymous, German (1773–1820). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/430046
+- `bust_0045` — *Unidentified profile portrait, man facing left*, Anonymous, German (1773–1820). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/430048
+- `bust_0046` — *Unidentified profile portrait, older woman facing right*, Anonymous, German (1773–1820). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/430050
+- `bust_0047` — *Unidentified profile portrait, woman facing left*, Anonymous, German (1773–1820). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/430051
+- `eph_0032` — *Map of Alexandria*, Georg Braun (1575). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/587676
+- `vig_0037` — *Boÿers (Dutch Cargo Ship)*, Wenceslaus Hollar (1647). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/626142
+- `bust_0048` — *Washington Allston*, Alonzo Chappel (1863). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/626356
+- `bust_0049` — *Portrait, bust of an old man*, Baron Dominique Vivant Denon (1800–1820). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/639781
+- `vig_0038` — *Monument of Mary, Queen of Scots (from "The History of England")*, John George Landseer (November 25, 1795). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/643326
+- `fig_0034` — *Biedermeier Fashion*, Urban Janke (1908). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/647774
+- `vig_0039` — *View in Fisheye perspective of a Hall with Columns and Cross Rib Vaulting*, Hans Pesser (ca. 1610–20). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/654212
+- `bust_0050` — *Bust-length Portrait of Torquato Tasso*, Federico Zuccaro (Zuccari) (ca. 1594). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/654265
+- `bust_0062` — *[Charles Calverley]*, Thompson Gallery (1864–66). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/685459
+- `bust_0051` — *Portrait of Gerard Edema*, Mary Beale (ca. 1680). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/697205
+- `bot_0007` — *Erica Fulgida*, Pierre Joseph Redouté (1813). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/697702
+- `bust_0052` — *Mary, Princess of Orange*, William Faithorne the Elder (1641–50). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/701398
+- `vig_0040` — *Soldiers Loading Barges for a Large Sailing Ship Along the Coast*, Dirk Langendijk (1784). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/704471
+- `vig_0041` — *A Design for a Monument Dedicated to the Memory of Mr. Henderson*, Thomas Prattent (1786). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/712628
+- `ins_0019` — *Butterfly, from the Novelties series (N228, Type 3) issued by Kinney Bros.*, Kinney Brothers Tobacco Company (1889). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/727031
+- `vig_0042` — *Landscape with the Flight into Egypt*, Anonymous, French, 17th century (17th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/732736
+- `fig_0035` — *[Studio Portrait: Two Women Standing Beside a Table, Hong Kong]*, Pun-Lun (1860s–70s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/738482
+- `fig_0036` — *[Studio Portrait: Self-Portrait Wearing Plaid Pants and Overcoat]*, Pierre Petit (1860s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764795
+- `fig_0037` — *[Studio Portrait: Eugène Delacroix Seated in Chair]*, Pierre Petit (1850s–60s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764796
+- `fig_0038` — *[Studio Portrait: Woman Seated Beside a Table, Singapore]*, G. R. Lambert & Co. (1870s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764797
+- `fig_0039` — *[Studio Portrait: Woman Seated Beside a Table Leaning on Elbow]*, C.D. Fredricks & Co. (1860s–70s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764798
+- `fig_0040` — *[Studio Portrait: Actor in Costume Wearing Long Beard, Japan]*, Unknown (1860s–70s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764799
+- `fig_0041` — *[Studio Portrait: Two Men each Holding Bamboo, Singapore]*, John Thomson (1860s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764800
+- `fig_0042` — *[Studio Portrait: Woman Standing Wearing Shawl, Brazil]*, Christiano Junior (1864–66). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764811
+- `fig_0043` — *[Studio Portrait: Man Seated on Wooden Box ]*, Juan de la Cruz Palomino (1860s–70s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764821
+- `vig_0043` — *[Two Story Building with One Story Flat Roofed Building in Front, Lima]*, Villroy L. Richardson (1862–75). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764822
+- `vig_0044` — *[Mining Site Chincha Islands, Lima]*, José Negretti (1860s–70s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764823
+- `fig_0045` — *[Woman, Tangier, Morocco]*, A. Chauffy (1850s–80s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764835
+- `vig_0045` — *Clipper Ship "Sovereign of the Seas"*, Eliphalet M. Brown Jr. (1852). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/764915
+- `vig_0046` — *Clipper Ship "Great Republic"*, James E. Buttersworth (1853). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/765755
+- `vig_0047` — *Clipper Ship "Great Republic"*, Joseph B. Smith (1855). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/766524
+- `vig_0048` — *Clipper Ship "Flying Cloud"*, James E. Buttersworth (1852). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/769236
+- `vig_0049` — *Clipper Ship "Racer"*, James E. Buttersworth (1854). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/769239
+- `ins_0039` — *Dragonfly brooch*, Edgar Bense (ca. 1890). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/770198
+- `vig_0050` — *Harbor and Fishermen*, Joseph Vernet (ca. 1760). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/811642
+- `vig_0051` — *Harbor Scene*, Joseph Vernet (ca. 1764). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/811656
+- `vig_0052` — *Royal Mail Steam Ship, Europa*, Nathaniel Currier (1849). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/813290
+- `eph_0033` — *Blackwork Designs with Flowers, Plate 6 from a Series of Blackwork Ornaments combined with Figures, Birds, Animals and Flowers*, Meinert Gelijs (after 1622). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/813875
+- `eph_0034` — *Trade Card*, Anonymous, British, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/815781
+- `eph_0035` — *Trade Card for James Heskett, Map, Print, and Chart Seller*, Anonymous, British, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/816423
+- `eph_0036` — *Trade Card for G.F. Cruchley, Map Seller and Publisher*, Anonymous, British, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/819467
+- `eph_0037` — *Trade Card for Robert Sayer & Co., Map, Chart and Printsellers*, Anonymous, British, late 18th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/819582
+- `eph_0038` — *Trade Card for Danby, Engraver*, Anonymous, British, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/819595
+- `eph_0039` — *Trade Card for Cross, Engraver, Print and Map Publisher*, Anonymous, British, 19th century (19th century). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/819655
+- `bust_0053` — *The Late Horace Vernet, from "Illustrated London News"*, Nadar (January 31, 1863). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/822740
+- `bust_0054` — *Portrait of Edgar Degas in profile*, Michel Manzi (1886). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/823861
+- `bust_0055` — *Profile Portrait of a Woman*, Augustin de Saint-Aubin (ca. 1780–82). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/824759
+- `fig_0046` — *Silhouette of an unknown man in a top hat and tails*, William Henry Brown (1828–83). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/825924
+- `bust_0056` — *Silhouette of an unknown young man in a top hat*, G. Bonner (1840–45). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/826287
+- `bot_0009` — *The Brown Havannah Pine*, George Brookshaw (1807). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/830252
+- `ani_0028` — *Courly à tête nu, du Cap de bonne Esperance (Bald Ibis from the Cape of Good Hope), from "Histoire Naturelle de Oiseaux"*, François Nicolas Martinet (1770–86). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/830271
+- `ani_0029` — *L'Aigrette (Egret), from "Histoire Naturelle de Oiseaux"*, François Nicolas Martinet (1770–86). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/830272
+- `ani_0030` — *Autruche (Ostrich), from "Histoire Naturelle de Oiseaux"*, François Nicolas Martinet (1770–86). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/830273
+- `fig_0048` — *Gallery of Fashion, vol.II: April 1 1795 - March 1, 1796*, Nicolaus Heideloff (1794–1802). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/837923
+- `fig_0051` — *Gallery of Fashion, vol. V: April 1, 1798 - March 1 1799*, Nicolaus Heideloff (1794–1802). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/837926
+- `fig_0052` — *Gallery of Fashion, vol. VI: April 1 1799 - March 1 1800*, Nicolaus Heideloff (1794–1802). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/837927
+- `fig_0053` — *Gallery of Fashion, vol. VII: April 1 1800 - March 1 1801*, Nicolaus Heideloff (1794–1802). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/837928
+- `fig_0054` — *Gallery of Fashion, vol. VIII (April 1, 1801 - March 1 1802)*, Nicolaus Heideloff (1794–1802). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/837929
+- `ins_0020` — *Butterfly card from the Butterflies and Moths of America series*, Louis Prang & Co. (1862–69). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/849844
+- `ins_0021` — *Acraea Vesta butterfly card from the Butterflies and Moths of America series*, Louis Prang & Co. (1862–69). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/849847
+- `ins_0022` — *Tiger Moth card from the Butterflies and Moths of America series*, Louis Prang & Co. (1862–69). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/849848
+- `ins_0023` — *Cynthia Cenone butterfly card from the Butterflies and Moths of America series*, Louis Prang & Co. (1862–69). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/849849
+- `fig_0055` — *Frances Clalin Clayton*, Samuel Masury (1864). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/875848
+- `fig_0056` — *Frances Clalin Clayton*, Samuel Masury (1864). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/875850
+- `bust_0057` — *Antoine Perrenot de Granvelle*, Lambert Suavius (1554). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/888676
+- `bust_0058` — *Portrait of Sinan the Great*, Dominicus Custos (1595). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/888698
+- `vig_0053` — *Four Sailing Ships on Choppy Seas*, Robert Willemsz de Baudous (ca. 1603–30). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/893085
+- `ani_0031` — *Head of a Cat (Middle Size)*, Wenceslaus Hollar (1646). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/897310
+- `eph_0040` — *Plainte Moresque*, Edouard Manet (1866). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/902521
+- `ani_0032` — *Sitting Dog*, Jean-Baptiste-Louis Guy (1874). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/905160
+- `ani_0033` — *Sitting Dog*, Johann Adam Klein (ca. 1832). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/905166
+- `ani_0034` — *Sleeping Dog*, Pieter Gerardus van Os (1821). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/905177
+- `fig_0057` — *A Back View of the Cape*, James Gillray (March 23, 1792). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/905918
+- `bot_0010` — *A tulip, a butterfly of the species Arctia caja (garden tiger moth), and a beetle (possibly a longhorn)*, Barbara Regina Dietzsch (ca. 1750-60). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/908466
+- `bust_0059` — *Portrait of a woman as a shepherdess*, Crispijn de Passe the Younger (1635-40). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/910733
+- `bust_0060` — *Portrait of a Boy*, Bonaventure Louis Prévost (1795). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/910748
+- `fig_0059` — *[Merchants' Carnival Portrait: Bakery, Lebanon, Pennsylvania]*, C. S. Roshon (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917755
+- `fig_0060` — *[Merchants' Carnival Portrait: Congress of Beauty, Chicago, Illinois]*, Robinson and Roe (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917756
+- `fig_0061` — *[Merchants' Carnival Portrait: The Frankfort Evening News, Frankfort, Indiana]*, D. Gilbert (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917763
+- `fig_0064` — *[Merchants' Carnival Portrait: Carpenter/Builder, Gaylord, Michigan]*, Arthur William Brown (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917802
+- `fig_0067` — *[Merchants' Carnival Portrait: with Fabric Swatches, Huntington, Indiana]*, Houser (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917868
+- `fig_0068` — *[Merchants' Carnival Portrait: Hardware Store, Tipton, Iowa]*, Leitzinger (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917870
+- `fig_0069` — *[Merchants' Carnival Portrait: Buckholdt & Son Hardware, Charleroi, Pennsylvania]*, E. E. Highgate (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917876
+- `bust_0061` — *[Woman]*, Sears (1880s–1890s). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/917933
+- `ani_0035` — *Bay-breasted Warbler. Setophaga castanea [current name: Bay-breasted Warbler. Dendroica castanea], from "The Birds of America," plate 69 [later LXIX]*, John James Audubon (1829). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918293
+- `ani_0036` — *Whip-Poor-Will. Caprimulgus vociferus [current name: Eastern Whip-poor-will. Caprimulgus vociferus], from "The Birds of America," plate 82 [later LXXXII]*, John James Audubon (1830). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918304
+- `ani_0037` — *Solitary Flycatcher. Vireo solitarius [current name: Blue-headed Vireo. Vireo solitarius], from "The Birds of America," plate 28 [later XXVIII]*, John James Audubon (1827–38). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918305
+- `ani_0038` — *Traill's Flycatcher. Muscicapa trailii [current name: Willow Flycatcher. Empidonax traillii], from "The Birds of America," plate 45 [later XLV]*, John James Audubon (1828). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918306
+- `ani_0040` — *Marsh Wren. Troglodytes palustris [current name: Marsh Wren. Cistothorus palustris], from "The Birds of America," plate 98 [misnumbered, should be 100] [later C]*, John James Audubon (1830). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918308
+- `ani_0041` — *Hooded Warbler. Sylvia mitrata [current name: Hooded Warbler. Wilsonia citrina], from "The Birds of America," plate CX*, John James Audubon (1831). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918309
+- `ani_0042` — *Pewee or Pewit Flycatcher. Muscicapa fusca [current name: Eastern Phoebe. Sayornis phoebe], from "The Birds of America," plate CXX*, John James Audubon (1827–38). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918310
+- `ani_0043` — *Prairie Titlark. Anthus hypogaeus [current name: American Pipit. Anthus rubescens], from "The Birds of America," plate 80 [later LXXX]*, John James Audubon (1830). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/918311
+- `fig_0072` — *The Latest Fashions, Expressly Designed and Prepared for Le Moniteur de la Mode*, A. Bodin (June 1, 1887). The Metropolitan Museum of Art, CC0. https://www.metmuseum.org/art/collection/search/919442
+
+## Fonts
+
+Self-hosted from github.com/google/fonts; licence files sit beside each font in `apps/web/public/fonts/`.
+
+- Homemade Apple, Special Elite — Apache License 2.0
+- Nothing You Could Do, La Belle Aurore, Reenie Beanie, IM FELL English SC, IM FELL Double Pica — SIL Open Font License 1.1
+
+## Sound
+
+The paper sound on the letter page is synthesized in the browser with Web Audio filtered noise; no audio file is used.
