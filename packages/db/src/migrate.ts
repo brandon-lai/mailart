@@ -2,6 +2,9 @@ import postgres from "postgres";
 import { drizzle } from "drizzle-orm/postgres-js";
 import { migrate } from "drizzle-orm/postgres-js/migrator";
 import path from "node:path";
+import { loadRootEnv } from "./env";
+
+loadRootEnv();
 
 async function main() {
   const url = process.env.DATABASE_URL;

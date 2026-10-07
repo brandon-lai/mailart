@@ -101,7 +101,7 @@ export function renderEnvelope(spec: EnvelopeSpec, opts: RenderOptions): Rendere
   }
   // Clip everything to the envelope. A crisp paper edge on top.
   const front =
-    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" class="ma-front">` +
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" class="ma-front-svg">` +
     `<defs>${ctx.defs.join("")}<clipPath id="${uid}-edge"><rect width="${w}" height="${h}" rx="5"/></clipPath></defs>` +
     `<g clip-path="url(#${uid}-edge)">${body.join("")}</g>` +
     `<rect x="0.5" y="0.5" width="${w - 1}" height="${h - 1}" rx="5" fill="none" stroke="#000" stroke-opacity="0.12"/></svg>`;
@@ -110,7 +110,7 @@ export function renderEnvelope(spec: EnvelopeSpec, opts: RenderOptions): Rendere
   const inside = drawFlapInside(spec.flap, w, fctx);
   const fd = Math.ceil(spec.flap.depth + 4);
   const flap =
-    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} ${fd}" width="${w}" height="${fd}" class="ma-flap">` +
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${w} ${fd}" width="${w}" height="${fd}" class="ma-flap-svg">` +
     `<defs>${fctx.defs.join("")}</defs>${inside}</svg>`;
 
   const assets = Array.from(new Set(spec.layers.flatMap(layerSrcs))).map(assetUrl);

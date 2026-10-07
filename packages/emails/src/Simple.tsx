@@ -1,3 +1,4 @@
+import React from "react";
 import { Body, Button, Container, Head, Html, Preview, Text } from "@react-email/components";
 
 /** Plain notes to the sender: verification and failure. */

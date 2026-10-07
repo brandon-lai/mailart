@@ -1,3 +1,4 @@
+import React from "react";
 import { render } from "@react-email/render";
 import LetterEmail, { paragraphs, type LetterEmailProps } from "./Letter";
 import SimpleEmail from "./Simple";

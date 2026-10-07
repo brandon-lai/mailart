@@ -1,3 +1,4 @@
+import React from "react";
 import { Body, Button, Container, Head, Html, Img, Link, Preview, Section, Text } from "@react-email/components";
 
 export type LetterEmailProps = {
@@ -9,7 +10,7 @@ export type LetterEmailProps = {
   body: string;
 };
 
-const paper = "#f4efe5";
+const paper = "#efe8dc"; // the GIF's baked backdrop: no visible box around it
 const ink = "#2a2420";
 
 /** Paragraphs from the letter body: blank lines split paragraphs, single newlines stay. */

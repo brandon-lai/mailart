@@ -34,9 +34,11 @@ type Props = {
   onDone?: () => void;
   /** Fit to container width (letter page) or draw at native size (render). */
   fit?: boolean;
+  /** The settle tilt moves every envelope pixel for six frames: the GIF's biggest cost. */
+  tilt?: boolean;
 };
 
-export default function Stage({ spec, body, assetBase = "/lib/", mode, open, onDone, fit = true }: Props) {
+export default function Stage({ spec, body, assetBase = "/lib/", mode, open, onDone, fit = true, tilt = true }: Props) {
   const g = stageGeometry(spec);
   const r = useMemo(() => renderEnvelope(spec, { assetBase }), [spec, assetBase]);
   const outer = useRef<HTMLDivElement>(null);
@@ -69,8 +71,8 @@ export default function Stage({ spec, body, assetBase = "/lib/", mode, open, onD
         [
           { offset: 0, transform: "translate(0px,0px) rotate(0deg)" },
           { offset: t(600), transform: "translate(0px,0px) rotate(0deg)", easing: "cubic-bezier(.3,.7,.3,1)" },
-          { offset: t(1000), transform: "translate(0px,-8px) rotate(-1.4deg)" },
-          { offset: 1, transform: "translate(0px,-8px) rotate(-1.4deg)" },
+          { offset: t(1000), transform: tilt ? "translate(0px,-8px) rotate(-1.4deg)" : "translate(0px,0px) rotate(0deg)" },
+          { offset: 1, transform: tilt ? "translate(0px,-8px) rotate(-1.4deg)" : "translate(0px,0px) rotate(0deg)" },
         ],
         opts,
       ),
@@ -128,7 +130,7 @@ export default function Stage({ spec, body, assetBase = "/lib/", mode, open, onD
       };
     }
     return () => a.forEach((x) => x.cancel());
-  }, [r, mode, g.rise, g.fh]);
+  }, [r, mode, g.rise, g.fh, tilt]);
 
   useEffect(() => {
     if (mode !== "play" || !open) return;
