@@ -182,3 +182,8 @@ legend { margin-bottom: 6px; }
 .simple-page p { margin: 0; color: var(--ink-2); }
 .letter-sheet-wrap:not(.shown) { max-height: 0; overflow: hidden; padding-block: 0; }
 .letter-sheet-wrap.shown { max-height: none; }
+/* Phones: the stage's side margins (1/12 each) bleed off-screen so the envelope fills the column. */
+@media (max-width: 600px) {
+  .letter-stage { overflow-x: clip; }
+  .env-tap { width: 120%; max-width: none; margin-inline: -10%; }
+}

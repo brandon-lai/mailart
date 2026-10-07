@@ -1,0 +1,40 @@
+# Local services from the spec. (This machine had no Docker, so development
+# used Homebrew Postgres + Mailpit and local-disk storage; this file is the
+# portable equivalent and is what a new machine should use.)
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: mailart
+      POSTGRES_PASSWORD: mailart
+      POSTGRES_DB: mailart
+    ports: ["5432:5432"]
+    volumes: [pg:/var/lib/postgresql/data]
+
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: mailart
+      MINIO_ROOT_PASSWORD: mailart-secret
+    ports: ["9000:9000", "9001:9001"]
+    volumes: [minio:/data]
+
+  mailpit:
+    image: axllent/mailpit:latest
+    ports: ["1025:1025", "8025:8025"]
+
+  # The render worker, as it would run anywhere with a database URL.
+  worker:
+    build: { context: ., dockerfile: workers/render/Dockerfile }
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://mailart:mailart@postgres:5432/mailart
+      MAILPIT_HOST: mailpit
+      RENDER_BASE_URL: http://host.docker.internal:3335
+    depends_on: [postgres, mailpit]
+    profiles: [worker]
+
+volumes:
+  pg: {}
+  minio: {}

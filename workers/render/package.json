@@ -12,6 +12,7 @@
     "@mailart/emails": "workspace:*",
     "@mailart/envelope": "workspace:*",
     "aws4fetch": "1.0.20",
-    "playwright": "1.63.0"
+    "playwright": "1.63.0",
+    "sharp": "0.35.5"
   }
 }

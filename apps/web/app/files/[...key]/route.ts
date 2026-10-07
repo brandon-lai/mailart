@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 /** Serves rendered GIF/PNGs from local storage when no S3 bucket is configured (local runs). */
-const ROOT = process.env.STORAGE_DIR || path.resolve(process.cwd(), "../../storage");
+const ROOT = process.env.STORAGE_DIR || path.resolve(/*turbopackIgnore: true*/ process.cwd(), "../../storage");
 const TYPES: Record<string, string> = { ".gif": "image/gif", ".png": "image/png" };
 
 export async function GET(_req: Request, ctx: { params: Promise<{ key: string[] }> }) {

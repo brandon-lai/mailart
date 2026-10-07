@@ -69,3 +69,16 @@ export async function buildFailedEmail(p: { siteName: string; senderName: string
     headers: {},
   };
 }
+
+/** PRD sender flow, last step: a confirmation with a link to the sent letter. */
+export async function buildSentEmail(p: { siteName: string; senderName: string; recipientName: string; letterUrl: string; to: string; sendingDomain: string }) {
+  const lines = [`Hello ${p.senderName},`, `Your letter to ${p.recipientName} has been delivered. Here it is, exactly as they see it.`];
+  return {
+    from: `"${headerSafe(p.siteName)}" <letters@${p.sendingDomain}>`,
+    to: p.to,
+    subject: `Your letter to ${headerSafe(p.recipientName)} was delivered`,
+    html: await render(<SimpleEmail preview="Sealed, stamped and delivered." lines={lines} cta={{ href: p.letterUrl, label: "See your letter" }} />),
+    text: [...lines, "", p.letterUrl].join("\n\n"),
+    headers: {},
+  };
+}

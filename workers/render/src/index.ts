@@ -23,7 +23,7 @@ import {
   setStatus,
   type ClaimedJob,
 } from "@mailart/db";
-import { buildFailedEmail, buildLetterEmail, sendEmail } from "@mailart/emails";
+import { buildFailedEmail, buildLetterEmail, buildSentEmail, sendEmail } from "@mailart/emails";
 import { capture, closeBrowser } from "./capture";
 import { encodeGif } from "./encode";
 import { putFile } from "./storage";
@@ -114,6 +114,10 @@ async function processJob(job: ClaimedJob) {
     await sendEmail(msg);
     await setStatus(letter.id, "sent", { sentAt: new Date() });
     await finishJob(job.id);
+    // The sender's copy. Delivery already happened, so a failure here is logged, not retried.
+    await sendEmail(
+      await buildSentEmail({ siteName: SITE_NAME, senderName: sender.name, recipientName: letter.recipientName, letterUrl: `${SITE_URL}/l/${letter.publicSlug}`, to: sender.email, sendingDomain: SENDING_DOMAIN }),
+    ).catch((e) => console.error("  sender confirmation failed:", e));
   } finally {
     if (r) await rm(r.dir, { recursive: true, force: true });
   }

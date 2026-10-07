@@ -164,7 +164,9 @@ export default function Stage({ spec, body, assetBase = "/lib/", mode, open, onD
   if (!fit) return stage;
   return (
     <div ref={outer} className="ma-stage-outer" style={{ height: scale ? g.fh * scale : undefined, aspectRatio: scale ? undefined : `${STAGE_W} / ${g.fh}` }}>
-      <div style={{ transform: `scale(${scale})`, transformOrigin: "0 0", visibility: scale ? "visible" : "hidden" }}>{stage}</div>
+      {/* Out of flow: a transform doesn't shrink layout size, so in flow the 1200 px stage
+          would set its parent's min-content width and widen grids and mobile viewports. */}
+      <div style={{ position: "absolute", left: 0, top: 0, transform: `scale(${scale})`, transformOrigin: "0 0", visibility: scale ? "visible" : "hidden" }}>{stage}</div>
     </div>
   );
 }
