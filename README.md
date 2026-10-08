@@ -18,6 +18,7 @@ Built from `SPEC.md` (the Mail Art Email tech spec, v1: Collage style only) and 
 | Product flow (Phase 4) | Done locally end to end: compose → verify → render → Mailpit → `/l/:slug` plays on tap. |
 | Safety (Phase 5) | Done. Verification, rate limits, block list, moderation, noindex, 22-char slugs. 16 integration tests. |
 | Production | Web app deploys to Vercel in **demo mode** (no database, no email provider): compose and previews work, the gallery and sample letters work, sending refuses with a plain message. See "What's blocked". |
+| Deploy | Vercel project `mailart` is git-connected to `brandon-lai/mailart` with Root Directory `apps/web` (workspace packages outside it are included). Every push to `main` deploys; nothing is deployed with `vercel deploy`. Production env: `HASH_SECRET`, `WORKER_SECRET`, `ENABLE_DEV_GALLERY=1`, `SITE_NAME`, `SITE_URL`. |
 
 ## Run it locally
 
