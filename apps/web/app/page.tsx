@@ -44,7 +44,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ r
           {SAMPLES.map((s) => (
             <Link key={s.slug} href={`/l/${s.slug}`} className="sample-card">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`/samples/${s.slug}.png`} alt={`Envelope addressed to ${s.recipientName}`} loading="lazy" />
+              <img src={`/samples/${s.slug}.thumb.webp`} alt={`Envelope addressed to ${s.recipientName}`} loading="lazy" />
               <span className="kicker">from {s.senderName}, {s.senderCity}</span>
             </Link>
           ))}
